@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": false,
+    "python.linting.mypyEnabled": false,
+    "python.linting.flake8Enabled": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
+}
