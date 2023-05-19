@@ -1,0 +1,33 @@
+QWidget {
+    background-color: #32383D;
+}
+
+QFrame {
+}
+
+QPushButton {
+    color: #A1B4C4;
+    border-radius: 5px;
+    background: qlineargradient(x1:0, y1:0, x1:0, y2:1,
+                                  stop:0 #dbddde, stop:0.05 #6f767c, stop:1  #4C555C);
+    height: 25px;
+    font: 12pt "Segoe UI";
+}
+
+QPushButton:hover {
+    background: qlineargradient(x1:0, y1:0, x1:0, y2:1,
+                                  stop:0 #e8f9f7, stop:0.1 #a3e8e1, stop:0.9  #1BC6B4, stop:1 #083b36);
+    color: #034159;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    height: 40px;
+    font: 750 12pt "Segoe UI";
+}
+
+
+QTextEdit {
+    background-color: #202529;
+    color: #A1B4C4;
+    selection-background-color: #A1B4C4;
+    selection-color: #202529;
+}

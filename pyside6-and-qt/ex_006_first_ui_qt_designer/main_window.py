@@ -7,6 +7,8 @@ class MainWindow:
     def __init__(self):
         self.loader = QUiLoader()
         self.window = self.loader.load(UI_FILE_PATH)
+        with open('style.qss', 'r') as file:
+            self.window.setStyleSheet(file.read())
         self.window.show()
         self.window.setWindowTitle('Mini Text Editor')
 
