@@ -7,7 +7,7 @@ NEWS_API_KEY = '4f9884b266db49f6a5e6829b2cca3d78'
 
 class News:
     def get_latest_news_data(self, percentage_diff):
-        if percentage_diff >= 1:
+        if percentage_diff >= 3:
             news_params = {
                 'q': 'tesla',
                 'language': 'en',
