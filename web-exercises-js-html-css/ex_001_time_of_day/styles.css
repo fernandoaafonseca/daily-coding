@@ -1,0 +1,42 @@
+body {
+  background-color: #1F4E8C;
+  /* If Roboto is not found, it will use a generic sans-serif font */
+  font-family: Roboto, sans-serif;
+  font: normal 15pt;
+  color: #112B4D;
+}
+
+header {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+div {
+  text-align: center;
+  padding: 10px;
+}
+
+#greeting-txt {
+  font-size: 1.5em;
+  font-style: bold
+}
+
+#main-section {
+  border-radius: 10px;
+  padding: 10px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 5px 5px 5px #112B4D;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+  color: #112B4D;
+  padding-top: 20px;
+}
+
+#copyleft {
+  display: inline-block;
+  transform: rotate(180deg);
+}
