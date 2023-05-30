@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h3>=> Using the admin page:</h3>
+<p>To access <strong>"admin/"</strong>, create a <em>superuser</em>:
+<pre>
+    <code>
+    python manage.py createsuperuser
+    </code>
+</pre>
+</p>
+
+<p>In <strong>"products.models.py"</strong>:
+<pre>
+    <code>
+    class Product(models.Model):
+        modelsclass Product(models.Model):
+        title = models.CharField(max_length=120)
+        description = models.TextField(blank=True, null=True)
+        price = models.DecimalField(decimal_places=2, max_digits=10000)
+        summary = models.TextField()
+    </code>
+</pre>
+</p>
+
+
+<p>In <strong>"products.admin.py"</strong>:
+<pre>
+    <code>
+    from .models import Product
+    admin.site.register(Product)
+    </code>
+</pre>
+</p>
+
+<p>In <strong>"settings.py"</strong>:
+<pre>
+    <code>
+    INSTALLED_APPS = [
+        ...
+        'products',
+    ]
+    </code>
+</pre>
+</p>
+
+<p>Always run that after every change in models:
+<pre>
+    <code>
+    python manage.py makemigrations
+    python manage.py migrate
+    </code>
+</pre>
+</p>
+
+{% endblock content %}

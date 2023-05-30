@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h3>=> Using templates:</h3>
+
+<p>In <strong>settings.py</strong>:
+<pre>
+    <code>
+    TEMPLATES = [
+    {...
+    'DIRS': [BASE_DIR / 'templates'],
+    ...}
+    </code>
+</pre>
+</p>
+
+<p>In <strong>"urls.py"</strong>:
+<pre>
+    <code>
+    urlpatterns = [
+    ...
+    path('', include('pages.urls')),
+    ]
+    </code>
+</pre>
+</p>
+
+{% endblock content %}
