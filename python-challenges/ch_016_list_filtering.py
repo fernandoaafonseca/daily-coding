@@ -9,7 +9,7 @@ filter_list([1,2,'aasf','1','123',123]) == [1,2,123]
 
 
 def filter_list(l):
-    new_list = [elem for elem in l if type(elem) == int]
+    new_list = [elem for elem in l if type(elem) != str]
     return new_list
 
 
