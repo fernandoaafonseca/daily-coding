@@ -13,3 +13,16 @@ def solution(number):
         elif i % 5 == 0:
             sum += i
     return sum
+
+
+test_cases = [
+    (4, 3), (6, 8), (16, 60), (3, 0), (5, 3), (15, 45), (0, 0), (-1, 0),
+    (10, 23), (20, 78), (200, 9168)
+]
+
+for input, result in test_cases:
+    func_result = solution(input)
+    if result == func_result:
+        print('Correct answer!')
+    else:
+        print('Incorrect answer!')
