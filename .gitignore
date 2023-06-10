@@ -1,2 +1,3 @@
 *.pyc
 exercises/ex_054_twilio_sms_cold_temps_warning/data/twilio_account.py
+.vscode/launch.json
