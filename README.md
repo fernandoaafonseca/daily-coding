@@ -1,3 +1,9 @@
+<a href="https://www.codewars.com/users/fernandoaafonseca">
+  <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&name=true&hide_clan=true&top_languages=true&theme=default" alt="Codewars stats" />
+</a>
+
+<hr>
+
 <h2>🖥️ Programming languages studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python-challenges">
