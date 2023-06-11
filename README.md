@@ -1,5 +1,8 @@
 <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
-  <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" />
+  <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" height="25" />
+</a>
+<a href="https://github.com/fernandoaafonseca/daily-coding/">
+  <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
 </a>
 
 <hr>
@@ -7,7 +10,7 @@
 <h2>🖥️ Programming languages studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25"/>
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
     </a>
   </p>
   <p>
