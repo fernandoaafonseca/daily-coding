@@ -35,7 +35,8 @@
 <hr>
 
 <h2><img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> English (EN-US)</h2>
-  <p>This repository contains <i>small applications</i> I create (almost) every day as part of my studies.</p>
+  <p>This repository acts as a <i>record</i> of my <i>learning journey</i> and contains <i>small applications</i> that I create (almost) everyday as part of my studies to enhance my knowledge in <i>computer science</i>.</p>
+  <p>It is a space where I can <i>track my own progress</i>, <i>experiment with creative ideas</i>, and constantly <i>challenge myself</i> in the pursuit of mastering the technologies I study.</p>
   <p>Here I store:
     <ul>
       <li>
@@ -51,7 +52,8 @@
   </p>
 
 <h2><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> Português (PT-BR)</h2>
-  <p>Este repositório contém <i>pequenas aplicações</i> que eu crio (quase) diariamente como parte dos meus estudos.</p>
+  <p>Este repositório serve como um <i>histórico</i> da minha <i>jornada de aprendizado</i> e contém <i>pequenas aplicações</i> que eu crio (quase) diariamente como parte dos meus estudos para aprimorar meus conhecimentos em <i>ciência da computação</i>.</p>
+  <p>É um espaço onde posso <i>acompanhar meu próprio progresso</i>, <i>experimentar ideias criativas</i> e <i>desafiar-me</i> constantemente na busca pelo domínio das tecnologias que estudo.</p>
   <p>Aqui, eu armazeno:
     <ul>
       <li><i>desafios</i> de <b><i>Python</i></b> e <b><i>JavaScript</i></b> que encontro online, em sites como <a href="https://www.codewars.com/users/fernandoaafonseca/"><b>Codewars</b></a>, <a href="https://www.hackerrank.com/fernando_aaf/"><b>HackerRank</b></a>, <a href="https://leetcode.com/fernandoaafonseca/"><b>LeetCode</b></a>, dentre outros;
