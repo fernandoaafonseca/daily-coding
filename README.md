@@ -46,7 +46,7 @@
         <i>resolution of tutorials</i> from <a href="https://www.freecodecamp.org/fernandoaafonseca"><b>freeCodeCamp</b></a>, <a href="https://www.udemy.com/user/fernando-afonso-alvim-fonseca/"><b>Udemy</b></a>, or from <a href="https://www.youtube.com/"><b>YouTube</b></a> (always avoiding to follow them step-by-step and constantly trying to add my own ideas and challenge myself);
       </li>
       <li>
-        my progress in studying new <i>tools</i> and <i>frameworks</i>, such as <b><i>Bootstrap</i></b>, <b><i>Django 4</i></b>, <b><i>PySide6 (Qt for Python)</i></b> and <b><i>Selenium</i></b>.
+        my progress in studying <i>tools</i> and <i>frameworks</i>, such as <b><i>Bootstrap</i></b>, <b><i>Django 4</i></b>, <b><i>PySide6 (Qt for Python)</i></b> and <b><i>Selenium</i></b>.
       </li>
     </ul>
   </p>
@@ -61,7 +61,7 @@
       <li>
         <i>resolução de tutoriais</i> de cursos do <a href="https://www.freecodecamp.org/fernandoaafonseca"><b>freeCodeCamp</b></a>, <a href="https://www.udemy.com/user/fernando-afonso-alvim-fonseca/"><b>Udemy</b></a> ou que encontro no <a href="https://www.youtube.com/"><b>YouTube</b></a> (evitando seguir o passo a passo e constantemente tentando adicionar minhas próprias ideias e me auto-desafiar);
       </li>
-      <li>minha evolução nos estudos de novas <i>ferramentas</i> e <i></i>frameworks</i>, como <b><i>Bootstrap</i></b>, </b><b><i>Django 4</i></b>, <b><i>PySide6 (Qt for Python)</i></b> e <b><i>Selenium</i>.
+      <li>minha evolução nos estudos de <i>ferramentas</i> e <i>frameworks</i>, como <b><i>Bootstrap</i></b>, </b><b><i>Django 4</i></b>, <b><i>PySide6 (Qt for Python)</i></b> e <b><i>Selenium</i>.
       </li>
     </ul>
   </p>
