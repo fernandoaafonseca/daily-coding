@@ -58,6 +58,32 @@
 
 <hr>
 
+<h2>🎓 Certificates:</h2>
+  <ul>
+    <li>
+      <h4>UNESA - B. Tech. in Data Science</h4>
+        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+          <img src="https://drive.google.com/uc?id=1x7eYkG2DpulpudA6ZBAr1LVMKmBv9ANx" alt="UNESA: Data Science" width="500" />
+        </a>
+    </li>
+    <li>
+      <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
+        <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
+          <img src="https://drive.google.com/uc?id=15nziDMCZ9KeMLfNge8qDJz-t9TrM3KKz" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+        </a>
+    </li>
+    <li>
+      <h4>IMD/UFRN: Web Developer</h4>
+        <a href="https://drive.google.com/file/d/1Z_qVMzNztOGA2unKzR-UI3Pa-Or4uRCi/view?usp=sharing">
+          <img src="https://drive.google.com/uc?id=1Z_qVMzNztOGA2unKzR-UI3Pa-Or4uRCi" alt="IMD/UFRN: Web Developer" width="500" />
+        </a>
+    </li>
+
+  
+  </ul>
+
+<hr>
+
 <h2>📊 Stats:</h2>
   <p>
     <a href="https://www.codewars.com/users/fernandoaafonseca">
@@ -82,7 +108,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
 </p>
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=fernandoaafonseca&column=3&no-frame=true&title=Commits,Followers,Repositories&theme=darkhub" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fernandoaafonseca&column=3&no-frame=true&title=Commits,Followers,Repositories&theme=darkhub" alt="GitHub trophies" width="495" />
 </p>
 <p>
   <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
