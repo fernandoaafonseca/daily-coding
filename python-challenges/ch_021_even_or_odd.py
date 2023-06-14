@@ -4,8 +4,8 @@ Create a function that takes an integer as an argument and returns "Even" for ev
 
 
 def even_or_odd(number):
-    return 'even' if number % 2 == 0 else 'odd'
+    return 'Even' if number % 2 == 0 else 'Odd'
 
 
-print(even_or_odd(4) == 'even')
-print(even_or_odd(7) == 'odd')
+print(even_or_odd(4) == 'Even')
+print(even_or_odd(7) == 'Odd')
