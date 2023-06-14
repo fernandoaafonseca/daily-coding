@@ -1,4 +1,4 @@
-### <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> [Clique aqui para acessar a versão em português!](https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp/blob/main/README.md)
+### <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> [Clique aqui para acessar a versão em português!](README.md)
 
 <hr>
 

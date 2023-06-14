@@ -1,4 +1,4 @@
-### <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> [Click here to access the English version!](https://github.com/fernandoaafonseca/bulk_media_msg_sender_bot_for_whatsapp/blob/main/README-en.md)
+### <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> [Click here to access the English version!](README-en.md)
 
 <hr>
 
