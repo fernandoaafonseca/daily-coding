@@ -15,7 +15,7 @@ Example: (input --> output)
 
 def DNA_strand(dna):
     # maketrans() creates a translation table, mapping each letter to be replaced by its corresponding substitute.
-    mapping = dna.maketrans('ATCG', 'TAGC')
+    mapping = str.maketrans('ATCG', 'TAGC')
     # translate() apply the mapping.
     complementary_side = dna.translate(mapping)
     return complementary_side
