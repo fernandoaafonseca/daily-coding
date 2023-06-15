@@ -1,9 +1,33 @@
 {% extends 'base.html' %}
 
 {% block content %}
+
+<h3>Looping through list:</h3>
 <ul>
     {% for my_item in my_list %}
     <li>{{ forloop.counter }}: {{ my_item }}</li>
     {% endfor %}
 </ul>
+
+<h3>Looping through dictionary:</h3>
+<ul>
+    {% for k, v in my_dict.items %}
+    <li>{{ k }}: {{ v }}</li>
+    {% endfor %}
+</ul>
+
+<hr>
+
+<h3>Code for "my_list" item of index "2":</h3>
+<p><code><b>{% verbatim %}
+    {{ my_list.2 }} ==>
+    {% endverbatim %}</b></code>
+    {{ my_list.2 }}</p>
+
+<h3>Code for "my_dict" value from the key "key_1":</h3>
+<p><code><b>{% verbatim %}
+    {{ my_dict.key_1 }} ==>
+    {% endverbatim %}</b></code>
+    {{ my_dict.key_1 }}</p>
+
 {% endblock content %}
