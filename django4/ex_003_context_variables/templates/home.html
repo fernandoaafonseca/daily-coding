@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<ul>
+    {% for my_item in my_list %}
+    <li>{{ forloop.counter }}: {{ my_item }}</li>
+    {% endfor %}
+</ul>
+{% endblock content %}
