@@ -3,7 +3,7 @@ Write function RemoveExclamationMarks which removes all exclamation marks from a
 */
 
 function removeExclamationMarks(s) {
-  // O modificador "g" é usado para realizar uma substituição global, ou seja, todas as ocorrências do padrão serão substituídas.
+  // The "g" modifier is used to perform a global replacement, i.e. all occurrences of the pattern will be replaced.
   return s.replace(/!/g, '')
 }
 
