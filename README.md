@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Daily coding</h1>
+<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
 <h2>🖥️ Programming languages studies:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
