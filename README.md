@@ -60,12 +60,14 @@
 
 <h2>🎓 Certificates:</h2>
   <ul>
+    <!--
     <li>
       <h4>UNESA - B. Tech. in Data Science</h4>
         <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
           <img src="https://drive.google.com/uc?id=1x7eYkG2DpulpudA6ZBAr1LVMKmBv9ANx" alt="UNESA: Data Science" width="500" />
         </a>
     </li>
+    -->
     <li>
       <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
         <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
