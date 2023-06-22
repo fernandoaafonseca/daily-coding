@@ -104,13 +104,7 @@
   </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&hide_border=true&radius=10&theme=react-dark" alt="Contributions graph" width="495" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=fernandoaafonseca&column=3&no-frame=true&title=Commits,Followers,Repositories&theme=darkhub" alt="GitHub trophies" width="495" />
 </p>
 <p>
   <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
