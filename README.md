@@ -30,7 +30,7 @@
   <p>Here I store:
     <ul>
       <li>
-        <i>challenges</i> in <b><i>Python</i></b> and <b><i>JavaScript</i></b> that I find online, on websites like <a href="https://www.codewars.com/users/fernandoaafonseca/"><b>Codewars</b></a>, <a href="https://www.hackerrank.com/fernando_aaf/"><b>HackerRank</b></a>, <a href="https://leetcode.com/fernandoaafonseca/"><b>LeetCode</b></a>, among others;
+        <i>challenges</i> in <b><i>Python</i></b> and <b><i>JavaScript</i></b> that I find on books or online, on websites like <a href="https://www.codewars.com/users/fernandoaafonseca/"><b>Codewars</b></a>, <a href="https://www.hackerrank.com/fernando_aaf/"><b>HackerRank</b></a>, <a href="https://leetcode.com/fernandoaafonseca/"><b>LeetCode</b></a>, among others;
       </li>
       <li>
         <i>resolution of tutorials</i> from <a href="https://www.freecodecamp.org/fernandoaafonseca"><b>freeCodeCamp</b></a>, <a href="https://www.udemy.com/user/fernando-afonso-alvim-fonseca/"><b>Udemy</b></a>, or from <a href="https://www.youtube.com/"><b>YouTube</b></a> (always avoiding to follow them step-by-step and constantly trying to add my own ideas and challenge myself);
