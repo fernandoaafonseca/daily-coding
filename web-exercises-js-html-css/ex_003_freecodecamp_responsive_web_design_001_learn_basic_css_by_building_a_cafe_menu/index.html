@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <!-- For the styling of the page to look similar on mobile as it does on a desktop or laptop, you need to add a meta element with a special content attribute. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cafe Menu</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="menu">
+    <main>
+      <h1>CAMPER CAFE</h1>
+      <p class="established">Est. 2020</p>
+      <hr>
+      <section>
+        <h2>Coffee</h2>
+        <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon">
+        <!-- "p" elements are block-level elements, so they take up the entire width of their parent element To get them on the same line, you need to apply some styling to the p elements so they behave more like inline elements. To do that, start by adding a class attribute with the value item to the first article element under the Coffee heading. -->
+        <article class="item">
+          <!-- There is still a little space on the right of the price. You could keep trying various percentages for the widths. Instead, move the p element with the class price next to the p element with the class flavor so that they are on the same line in the editor. Make sure there is no space between them. -->
+          <p class="flavor">French Vanilla</p><p class="price">3.00</p>
+        </article>
+        <article class="item">
+          <p class="flavor">Caramel Macchiato</p><p class="price">3.75</p>
+        </article>
+        <article class="item">
+          <p class="flavor">Pumpkin Spice</p><p class="price">3.50</p>
+        </article>
+        <article class="item">
+          <p class="flavor">Hazelnut</p><p class="price">4.00</p>
+        </article>
+        <article class="item">
+          <p class="flavor">Mocha</p><p class="price">4.50</p>
+        </article>
+      </section>
+      <section>
+        <h2>Desserts</h2>
+        <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon">
+        <article class="item">
+          <p class="dessert">Donut</p><p class="price">1.50</p>
+        </article>
+        <article class="item">
+          <p class="dessert">Cherry Pie</p><p class="price">2.75</p>
+        </article>
+        <article class="item">
+          <p class="dessert">Cheesecake</p><p class="price">3.00</p>
+        </article>
+        <article class="item">
+          <p class="dessert">Cinnamon Roll</p><p class="price">2.50</p>
+        </article>
+      </section>
+    </main>
+    <hr class="bottom-line">
+    <footer>
+      <p>
+        <a href="https://www.freecodecamp.org" target="_blank">Visit our website</a>
+      </p>
+      <p class="address">123 Free Code Camp Drive</p>
+    </footer>
+  </div>
+</body>
+
+</html>
