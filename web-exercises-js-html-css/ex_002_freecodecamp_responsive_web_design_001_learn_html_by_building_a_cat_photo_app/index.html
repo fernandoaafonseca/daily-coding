@@ -1,0 +1,85 @@
+<!-- All pages should begin with <!DOCTYPE html>. This special string is known as a declaration and ensures the browser tries to meet industry-wide specifications. -->
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+  <!-- You can set browser behavior by adding self-closing META elements in the head. Tell the browser to parse the markup into multiple languages by creating a meta element as a child of the head element. Set its charset attribute to UTF-8. -->
+  <meta charset='UTF-8'>
+  <title>CatPhotoApp</title>
+</head>
+
+<body>
+  <main>
+    <h1>CatPhotoApp</h1>
+    <section>
+      <h2>Cat Photos</h2>
+      <p>See more <a target='_blank' href='https://freecatphotoapp.com'>cat photos</a> in our gallery.</p>
+      <a href='https://freecatphotoapp.com'><img
+          src='https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg'
+          alt='A cute orange cat lying on its back.'></a>
+    </section>
+    <section>
+      <h2>Cat Lists</h2>
+      <h3>Things cats love:</h3>
+      <ul>
+        <li>cat nip</li>
+        <li>laser pointers</li>
+        <li>lasagna</li>
+      </ul>
+      <!-- The FIGURE element represents self-contained content and will allow you to associate an image with a caption. -->
+      <figure>
+        <img src='https://cdn.freecodecamp.org/curriculum/cat-photo-app/lasagna.jpg'
+          alt='A slice of lasagna on a plate.'>
+        <!-- A figure caption (FIGCAPTION) element is used to add a caption to describe the image contained within the figure element. -->
+        <figcaption>Cats <em>love</em> lasagna.</figcaption>
+      </figure>
+      <h3>Top 3 things cats hate:</h3>
+      <ol>
+        <li>flea treatment</li>
+        <li>thunder</li>
+        <li>other cats</li>
+      </ol>
+      <figure>
+        <img src='https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg'
+          alt='Five cats looking around a field.'>
+        <figcaption>Cats <strong>hate</strong> other cats.</figcaption>
+      </figure>
+    </section>
+    <section>
+      <h2>Cat Form</h2>
+      <!-- The ACTION attribute indicates where form data should be sent. For example, <form action='/submit-url'></form> tells the browser that the form data should be sent to the path /submit-url. -->
+      <form action='https://freecatphotoapp.com/submit-cat-photo'>
+        <!-- The FIELDSET element is used to group related inputs and labels together in a web form. fieldset elements are block-level elements, meaning that they appear on a new line. -->
+        <fieldset>
+          <!-- The LEGEND element acts as a caption for the content in the fieldset element. -->
+          <legend>Is your cat an indoor or outdoor cat?</legend>
+          <!-- LABEL elements are used to help associate the text for an input element with the input element itself (especially for assistive technologies like screen readers). For example, <label><input type='radio'>cat</label> makes it so clicking the word "cat" also selects the corresponding radio button. -->
+          <label><input id='indoor' type='radio' name='indoor-outdoor' value='indoor' checked> Indoor</label>
+          <!-- Notice that both radio buttons can be selected at the same time. To make it so selecting one radio button automatically deselects the other, both buttons must have a NAME attribute with the same VALUE.
+          If you select the Indoor radio button and submit the form, the form data for the button is based on its name and value attributes. Since your radio buttons do not have a value attribute, the form data will include indoor-outdoor=on, which is not useful when you have multiple buttons.-->
+          <label><input id='outdoor' type='radio' name='indoor-outdoor' value='outdoor'> Outdoor</label>
+        </fieldset>
+        <fieldset>
+          <legend>What's your cat's personality?</legend>
+          <!-- You can nest the text within a label element and add a FOR attribute with the same value as the input element's id attribute to associate an input element's text with the element itself. -->
+          <input id='loving' type='checkbox' name='personality' value='loving' checked> <label
+            for='loving'>Loving</label>
+          <input id='lazy' type='checkbox' name='personality' value='lazy'> <label for='lazy'>Lazy</label>
+          <input id='energetic' type='checkbox' name='personality' value='energetic'> <label
+            for='energetic'>Energetic</label>
+        </fieldset>
+        <!-- To prevent a user from submitting your form when required information is missing, you need to add the REQUIRED attribute to an input element. -->
+        <input type='text' name='catphotourl' placeholder='cat photo URL' required>
+        <!-- The DEFAULT behavior of clicking a form button without any attributes submits the form to the location specified in the form's action attribute. However, relying on default behavior may cause confusion. Add the type attribute with the value submit to the button to make it clear that it is a submit button.-->
+        <button type='submit'>Submit</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    <p>
+      No Copyright - <a href="https://www.freecodecamp.org">freeCodeCamp.org</a>
+    </p>
+  </footer>
+</body>
+
+</html>
