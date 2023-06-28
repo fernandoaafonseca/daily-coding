@@ -18,7 +18,7 @@
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/pyside6-qt">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/pyside6-qt?color=%2341CD52&label=pyside6-qt&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/pyside6-qt">
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/web-exercises-js-html-css">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/web-exercises-js-html-css?color=%23F7DF1E&label=web-exercises-js-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="web-exercises-js-html-css file count" height="25" />
   </a>
 
