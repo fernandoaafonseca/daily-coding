@@ -1,0 +1,89 @@
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 10px 0;
+}
+
+/*
+--- MARGIN:
+When has two values, it sets margin-top and margin-bottom to the first value, and margin-left and margin-right to the second value.
+- margin: topBottomValue leftRightValue;
+*/
+.marker {
+  height: 25px;
+  width: 200px;
+  margin: 10px auto;
+}
+
+.cap {
+  width: 60px;
+  height: 25px;
+}
+
+/*
+--- OPACITY:
+At 0, or 0% will be completely transparent, and at 1.0, or 100%, will be completely opaque.
+- opacity: x%;
+
+--- ALPHA CHANNEL:
+- rgba(redValue, greenValue, blueValue, alphaValue);
+
+--- BORDER-LEFT:
+- border-left: width style color;
+*/
+.sleeve {
+  width: 110px;
+  height: 25px;
+  background-color: white;
+  opacity: 0.5;
+  border-left: 10px double rgba(0, 0, 0, 0.75);
+}
+
+/*
+--- DISPLAY:
+The default display for div is block. So when two block elements are next to each other, they stack like actual blocks. To position two div elements on the same line, set to inline-block.
+- display: inline-block;
+*/
+.cap,
+.sleeve {
+  display: inline-block;
+}
+
+/*
+--- LINEAR-GRADIENT:
+Is usually paired with the background property which can accept an image as a value. It can accept two or more arguments. Color-stops allow you to fine-tune where colors are placed along the gradient line.
+- linear-gradient(XXXdeg, firstColor stepsValue, secondColor);
+
+--- BOX-SHADOW:
+Lets you apply one or more shadows around an element. The blurRadius and spreadRadius are optional.
+- box-shadow: offsetX offsetY blurRadius spreadRadius color;
+*/
+.red {
+  background: linear-gradient(180deg, rgb(122, 74, 14) 0%, rgb(245, 62, 113) 50%, rgb(162, 27, 27) 100%);
+  box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+}
+
+/*
+--- HEX COLOR VALUES:
+Hex color values start with a # character and take six characters from 0-9 and A-F. The first pair of characters represent red, the second pair represent green, and the third pair represent blue. The optional fourth pair is the alpha channel.
+- #00FF00FF
+*/
+.green {
+  background: linear-gradient(#55680D, #71F53E, #116C31);
+  box-shadow: 0 0 20px 0 #3B7E20CC;
+}
+
+/*
+--- HSL COLOR MODEL:
+Hue, saturation, and lightness. Accepts 3 values: a number from 0 to 360 for hue, a percentage for saturation, and a percentage for lightness. In the color wheel, the hue red is at 0°, green is at 120°, and blue is at 240° Saturation is the intensity of a color from 0% (gray), to 100% (pure color). Lightness is how bright a color appears, from 0% (black), to 100% (white), with 50% (neutral).
+- hsl(hueDegrees, saturationPercentage, lightnessPercentage);
+*/
+
+.blue {
+  background: linear-gradient(hsl(186, 76%, 16%), hsl(223, 90%, 60%), hsl(240, 56%, 42%));
+  box-shadow: 0 0 20px 0 hsla(223, 59%, 31%, 0.8);
+}
