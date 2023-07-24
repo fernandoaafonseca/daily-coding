@@ -1,0 +1,115 @@
+/* 
+--- VIEWPORT HEIGHT:
+  The vh unit stands for viewport height, and is relative to 1% of the height of the viewport.
+
+--- SCROLL-BAR:
+  You can get rid of the horizontal scroll-bar, by setting the body default margin added by some browsers to 0.
+
+--- REM UNIT:
+  The rem unit stands for root em, and is relative to the font size of the html element.
+
+  As label elements are inline by default, they are all displayed side by side on the same line, making their text hard to read. To make them appear on separate lines, add display: block to the label element, and add a margin of 0.5rem 0, to separate them from each other.
+*/
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #1B1B32;
+  color: #F5F6F7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+h1,
+p {
+  margin: 1em auto;
+  text-align: center;
+}
+
+form {
+  margin: 0 auto;
+  min-width: 300px;
+  max-width: 500px;
+  width: 60vw;
+  padding: 2em;
+}
+
+fieldset {
+  border: none;
+  padding: 2rem 0;
+  border-bottom: 3px solid #3B3B4F;
+  color: #FFFFFF;
+}
+
+/* 
+--- LAST-OF-TYPE:
+  You can select the last element of a specific type using the last-of-type CSS pseudo-class.
+*/
+fieldset:last-of-type {
+  border-bottom: none;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input,
+textarea,
+select {
+  width: 100%;
+  margin: 10px 0 0 0;
+  min-height: 2em;
+}
+
+input,
+textarea {
+  background-color: #0A0A23;
+  border: 1px solid;
+  border-color: #0A0A23;
+  color: #FFFFFF;
+}
+
+/* 
+--- UNSET:
+  The width of unset will remove the earlier rule which set all the input elements to width: 100%.
+*/
+.inline {
+  width: unset;
+  margin: 0 0.5em 0 0;
+  vertical-align: middle;
+}
+
+input[type='submit'] {
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3B3B4F;
+  border-color: #FFFFFF;
+  margin: 1em auto;
+  min-width: 300px;
+}
+
+input[type='file'] {
+  padding: 1px 2px;
+}
+
+a {
+  color: #DFDFE2;
+}
+
+select,
+option {
+  background-color: #0A0A23;
+  border: none;
+}
+
+select {
+  color: #808080;
+}
+
+option {
+  color: #F5F6F7;
+}
