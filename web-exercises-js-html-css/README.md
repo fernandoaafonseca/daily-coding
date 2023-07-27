@@ -71,3 +71,12 @@
   </li>
 </ul>
 <hr>
+
+<h3>‣ Exercise 009: Motivational meme poster</h3>
+<p>From <a href="https://www.udemy.com/course/100-days-of-code/"><b><i>Udemy: 100 Days of Code - The Complete Python Pro Bootcamp for 2023 (Dr. Angela Yu)</i></b>.</p>
+<ul>
+  <li>
+    <a href="https://htmlpreview.github.io/?https://github.com/fernandoaafonseca/daily-coding/blob/main/web-exercises-js-html-css/ex_009_100_days_of_code-day_44-motivational_meme_poster/index.html">Link
+  </li>
+</ul>
+<hr>
