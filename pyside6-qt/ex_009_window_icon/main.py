@@ -12,9 +12,6 @@ from __feature__ import snake_case
 # from __feature__ import true_property
 
 
-current_directory = str(pathlib.Path(__file__).parent.absolute())
-
-
 class Window(QWidget):
     def __init__(self):
         super().__init__()
@@ -22,7 +19,8 @@ class Window(QWidget):
         self.init_UI()
 
     def init_style_constants(self):
-        self.WINDOW_ICON_PATH = current_directory + '/icon/qt.png'
+        self.CURRENT_DIRECTORY = str(pathlib.Path(__file__).parent.absolute())
+        self.WINDOW_ICON_PATH = self.CURRENT_DIRECTORY + '/icon/qt.png'
         self.BACKGROUND_COLOR = 'lightblue'
 
     def init_UI(self):
@@ -30,7 +28,6 @@ class Window(QWidget):
         self.set_geometry(200, 200, 400, 200)
         self.set_window_icon(QIcon(self.WINDOW_ICON_PATH))
         self.set_style_sheet(f'background-color: {self.BACKGROUND_COLOR}')
-
         self.show()
 
 
