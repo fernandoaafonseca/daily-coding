@@ -8,7 +8,7 @@ from PySide6.QtGui import QIcon
 import pathlib
 import sys
 
-from __feature__ import snake_case
+from __feature__ import snake_case # type: ignore
 # from __feature__ import true_property
 
 
