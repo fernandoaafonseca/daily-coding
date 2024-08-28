@@ -26,24 +26,27 @@ It’s okay if your output or the user’s wraps onto multiple lines.
 def main():
     print('What is the Answer to the Great Question of Life, the Universe, and Everything?')
     user_answer = input()
-    print(check_user_answer(user_answer))
+    if check_user_answer(user_answer):
+        print('Yes')
+    else:
+        print('No')
 
 
 def check_user_answer(user_answer):
     right_answers = ('42', 'forty-two', 'forty two')
     user_answer = ' '.join(user_answer.lower().split())
     if user_answer in right_answers:
-        return 'Yes'
+        return True
     else:
-        return 'No'
+        return False
 
 
 main()
 
 
 # Test:
-print(check_user_answer('42') == 'Yes')
-print(check_user_answer('  42  ') == 'Yes')
-print(check_user_answer('Forty Two') == 'Yes')
-print(check_user_answer('forty-two') == 'Yes')
-print(check_user_answer('50') == 'No')
+print(check_user_answer('42') == True)
+print(check_user_answer('  42  ') == True)
+print(check_user_answer('Forty Two') == True)
+print(check_user_answer('forty-two') == True)
+print(check_user_answer('50') == False)
