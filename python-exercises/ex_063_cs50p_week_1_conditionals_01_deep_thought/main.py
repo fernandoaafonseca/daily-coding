@@ -43,5 +43,5 @@ main()
 
 # Test:
 print(check_user_answer('42') == 'Yes')
+print(check_user_answer('Forty Two') == 'Yes')
 print(check_user_answer('forty-two') == 'Yes')
-print(check_user_answer('forty two') == 'Yes')
