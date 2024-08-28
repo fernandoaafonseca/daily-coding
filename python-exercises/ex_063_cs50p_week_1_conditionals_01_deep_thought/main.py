@@ -35,10 +35,8 @@ def main():
 def check_user_answer(user_answer):
     right_answers = ('42', 'forty-two', 'forty two')
     user_answer = ' '.join(user_answer.lower().split())
-    if user_answer in right_answers:
-        return True
-    else:
-        return False
+    
+    return user_answer in right_answers
 
 
 main()
