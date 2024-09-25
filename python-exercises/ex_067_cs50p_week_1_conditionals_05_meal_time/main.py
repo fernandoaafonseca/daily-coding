@@ -16,6 +16,7 @@ def convert(time):
 
 if __name__ == "__main__":
     main()
+
 Hints
 Recall that a str comes with quite a few methods, per docs.python.org/3/library/stdtypes.html#string-methods, including split, which separates a str into a sequence of values, all of which can be assigned to variables at once. For instance, if time is a str like "7:30", then
 hours, minutes = time.split(":")
@@ -26,10 +27,71 @@ Keep in mind that there are 60 minutes in 1 hour.
 
 
 def main():
-    pass
+    user_time = get_user_time()
+    time = convert(user_time)
+    meal_time = check_meal_time(time)
+
+    print(meal_time)
 
 
-main()
+def get_user_time():
+    user_time = input('Type the current time: ')
+
+    return user_time
+
+
+def convert(user_time):
+    raw_hours, raw_minutes = user_time.split(':')
+    hours = float(raw_hours)
+    minutes = float(raw_minutes)
+
+    if minutes > 0:
+        minutes_in_hours = 1 / (60 / minutes)
+    else:
+        minutes_in_hours = 0
+    time = hours + minutes_in_hours
+
+    return time
+
+
+def check_meal_time(time):
+    if 7 <= time <= 8:
+        meal_time = 'breakfast time'
+    elif 12 <= time <= 13:
+        meal_time = 'lunch time'
+    elif 18 <= time <= 19:
+        meal_time = 'dinner time'
+    else:
+        meal_time = ''
+
+    return meal_time
+
+
+if __name__ == '__main__':
+    main()
 
 
 # Test:
+test_time = convert('7:00')
+print(check_meal_time(test_time) == 'breakfast time')
+
+test_time = convert('7:30')
+print(check_meal_time(test_time) == 'breakfast time')
+
+test_time = convert('8:01')
+print(check_meal_time(test_time) == '')
+
+test_time = convert('18:01')
+print(check_meal_time(test_time) == 'dinner time')
+
+test_time = convert('18:59')
+print(check_meal_time(test_time) == 'dinner time')
+
+test_time = convert('12:42')
+print(check_meal_time(test_time) == 'lunch time')
+
+test_time = convert('18:32')
+print(check_meal_time(test_time) == 'dinner time')
+
+test_time = convert('11:11')
+print(check_meal_time(test_time) == '')
