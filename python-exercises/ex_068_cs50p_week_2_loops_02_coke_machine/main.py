@@ -43,22 +43,28 @@ if __name__ == '__main__':
 
 # Test:
 amount_due = 50
-test_amount_due = check_user_coin(amount_due, 5)
-print(buy_coke(test_amount_due) == 'Change Owed: 45')
+new_amount_due = check_user_coin(amount_due, 5)
+print(buy_coke(new_amount_due) == 'Change Owed: 45')
 
 amount_due = 50
-test_amount_due = check_user_coin(amount_due, 10)
-print(buy_coke(test_amount_due) == 'Change Owed: 40')
+new_amount_due = check_user_coin(amount_due, 10)
+print(buy_coke(new_amount_due) == 'Change Owed: 40')
 
 amount_due = 50
-test_amount_due = check_user_coin(amount_due, 25)
-print(buy_coke(test_amount_due) == 'Change Owed: 25')
+new_amount_due = check_user_coin(amount_due, 25)
+print(buy_coke(new_amount_due) == 'Change Owed: 25')
 
 amount_due = 50
-test_amount_due = check_user_coin(amount_due, 1)
-print(buy_coke(test_amount_due) == 'Change Owed: 50')
+new_amount_due = check_user_coin(amount_due, 1)
+print(buy_coke(new_amount_due) == 'Change Owed: 50')
 
 amount_due = 50
-test_amount_due = check_user_coin(amount_due, 25)
-new_test_amount_due = check_user_coin(test_amount_due, 25)
-print(buy_coke(new_test_amount_due) == 'Change Owed: 0')
+new_amount_due = check_user_coin(amount_due, 25)
+new_amount_due = check_user_coin(new_amount_due, 25)
+print(buy_coke(new_amount_due) == 'Change Owed: 0')
+
+amount_due = 50
+new_amount_due = check_user_coin(amount_due, 25)
+new_amount_due = check_user_coin(new_amount_due, 10)
+new_amount_due = check_user_coin(new_amount_due, 25)
+print(buy_coke(new_amount_due) == 'Change Owed: 10')
