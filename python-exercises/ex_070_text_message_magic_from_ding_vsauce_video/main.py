@@ -3,6 +3,8 @@ Text message magic (by Michael Stevens (from "Vsauce", taken from a video from h
 
 As I have no friends, I decided to code a "robot" that could act as my friend and help me guess the card I picked up.
 
+And nope, I don't have a deck of marked cards like Michael has, but I don't need one, as I would be asking a robot to guess my card.
+
 
 Site que puxa uma carta aleatória de um baralho:
 https://www.calculatorsoup.com/calculators/statistics/random-card-generator.php
@@ -92,12 +94,21 @@ card_ranks_figures = ['J', 'Q', 'K']
 robot_names = ['PC', 'Bot', 'Robot', 'Friend',
                'Man', 'Woman', 'Guy', 'Girl', 'Mate']
 
+magic_question = 'Oh, hey, what\'s the card I\'m holding?'
+# The output result of this magic_question should be "6 of Clubs"
+
 
 def main():
     magic_question = ask_question_to_robot()
     words = format_magic_question(magic_question)
-    location = check_if_contains_a_name(words)
-    card_rank = check_if_contains_greeting(words, location)
+    # Remove accents from the words and makes them lowercase for comparison
+    robot_name_position = check_if_contains_a_name(words)
+    # first_word = remove_acentos(words[0]).lower()
+    # second_word = words[1].lower()
+    possible_card_ranks_list = check_if_contains_greeting(
+        words, robot_name_position)
+    card_rank = guess_the_card_rank_position_in_the_possible_card_ranks_list(
+        robot_name_position, possible_card_ranks_list)
 
 
 def ask_question_to_robot():
@@ -106,10 +117,6 @@ def ask_question_to_robot():
     # Criar uma função que sorteia frases iniciais
 
     return magic_question
-
-
-magic_question = 'Oh, hey, what\'s the card I\'m holding?'
-# The output result of this magic_question should be "6 of Clubs"
 
 
 def format_magic_question(magic_question):
@@ -121,23 +128,36 @@ def format_magic_question(magic_question):
 
 
 def check_if_contains_a_name(words):
+    # robot_name = None
+
     for i in range(len(words)):
         # Remove accents from the words and makes them lowercase for comparison
         word = remove_acentos(words[i]).lower()
-    if word in robot_names:
-        # It's the card in the middle of the list
-        location = 'middle'
-    else:
-        location = 'sides'
-        # location = 'ends'
 
-    return location
+        word_position = i
+
+        if word in robot_names:
+            robot_name_position = i
+
+            if i == 0:
+                robot_name_position = 'left'
+            elif i == len(words):
+                robot_name_position = 'right'
+            else:
+                robot_name_position = 'middle'
+
+        else:
+            robot_name_position = None
+            # card rank is an 'Ace'
+
+    return robot_name_position
 
 
-def check_if_contains_greeting(words, location):
+def check_if_contains_greeting(words, robot_name_position):
     for i in range(len(words)):
         # Remove accents from the words and makes them lowercase for comparison
         word = remove_acentos(words[i]).lower()
+
         if word in greetings:
             if len(word) == 2:
                 # card_rank is in [2, 3, 4]
@@ -153,34 +173,34 @@ def check_if_contains_greeting(words, location):
             possible_card_ranks_list = card_ranks_figures
         else:
             # card rank is an 'Ace'
-            card_rank = card_rank_ace
-            return card_rank
+            possible_card_ranks_list = card_rank_ace
 
-        if card_rank == card_rank_ace:
-            # if the card rank is an Ace, "card_rank_ace" only holds the value 'Ace', so it doesn't need to check a list of 3 possible locations of values in a list, like in "card_ranks_figures = ['J', 'Q', 'K']", for example. So it goes straight to the final "return card_rank"
-            break
-            # could be "continue"
-        elif location == 'middle':
-            # card_rank is the middle one on the list
-            card_rank = possible_card_ranks_list[1]
-        else:
-            # card_rank could be the left one or the right one on the list
-            card_rank = guess_the_card_rank(possible_card_ranks_list, i)
-
-    return card_rank
+    return possible_card_ranks_list
 
 
-def guess_the_card_rank(possible_card_ranks_list, i):
-    if i == 0:
-        # card_rank is the first one on the list
+def guess_the_card_rank_position_in_the_possible_card_ranks_list(robot_name_position, possible_card_ranks_list):
+    if robot_name_position == 'left':
+        # card_rank is the left one on the list
         card_rank = possible_card_ranks_list[0]
-    elif i == -1:
-        # card_rank is the last one on the list
+
+    elif robot_name_position == 'middle':
+        # card_rank is the middle one on the list
+        card_rank = possible_card_ranks_list[1]
+
+    elif robot_name_position == 'right':
+        # card_rank is the right (last) one on the list
         card_rank = possible_card_ranks_list[-1]
+    else:
+        # if the card rank is an Ace, "card_rank_ace" only holds the value 'Ace', so it doesn't need to check a list of 3 possible robot_name_positions of values in a list, like in "card_ranks_figures = ['J', 'Q', 'K']", for example. So it goes straight to the final "return card_rank".
+        # If it the "magic_question" has a robot name or not, it doesn't matter in this particular case.
+        card_rank = possible_card_ranks_list
 
     return card_rank
 
 
-resultado = check_if_contains_greeting()
-print(resultado)  # Exibe o resultado
+if __name__ == '__main__':
+    main()
+
+
+# print(resultado)  # Exibe o resultado
 # Criar uma função que sorteia frases finais, como: "Hmmm, let me think... It's the (...)", "A-ha! I got it! It's the (...)"
