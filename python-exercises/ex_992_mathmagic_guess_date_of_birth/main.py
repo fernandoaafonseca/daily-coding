@@ -20,6 +20,11 @@ Touro                               21/04 a 20/05 (em azul)
 Peixes                              20/02 a 20/03 (em azul)"
 
 com as datas alinhadas, seguindo esse padrão branco-azul-branco-azul até o último signo, em ordem.
+
+
+
+Inspirado no vídeo:
+https://www.youtube.com/watch?v=m6k0FELtHuw
 '''
 
 import calendar
