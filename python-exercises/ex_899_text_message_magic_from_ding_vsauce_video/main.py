@@ -1,6 +1,8 @@
 '''
 Text message magic (by Michael Stevens (from "Vsauce", taken from a video from his second channel "D!NG")
 
+https://www.youtube.com/watch?v=L8GsxU6Zt0E
+
 As I have no friends, I decided to code a "robot" that could act as my friend and help me guess the card I picked up.
 
 And nope, I don't have a deck of marked cards like Michael has, but I don't need one, as I would be asking a robot to guess my card.
