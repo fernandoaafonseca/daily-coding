@@ -25,9 +25,9 @@ def display_title():
     '''
     Displays the program's title formatted with separators.
     '''
-    print('=' * 20)
-    print(' Leap Year Checker ')
-    print('=' * 20)
+    print('=' * 21)
+    print('  Leap Year Checker  ')
+    print('=' * 21)
     print()
 
 
