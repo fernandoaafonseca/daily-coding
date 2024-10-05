@@ -10,13 +10,13 @@ https://en.wikipedia.org/wiki/Leap_year
 def main():
     # Display the title of the program.
     display_title()
-    
+
     # Get a valid year from the user.
     year = get_year()
-    
+
     # Determine if the year is a leap year.
     is_leap_year = check_leap_year(year)
-    
+
     # Display the result based on the leap year check.
     display_result(year, is_leap_year)
 
@@ -34,12 +34,20 @@ def display_title():
 def get_year():
     '''
     Prompts the user to input a valid year. 
-    It keeps asking until the input is a valid integer.
+    It keeps asking until the input is a valid integer greater than 0.
     '''
     while True:
         try:
             year = int(input('Please enter a year: '))
-            break
+            if year > 0:
+                break
+            else:
+                if year == 0:
+                    # Special message for the non-existent year 0.
+                    print(f'The year {year} never existed!')
+                # This block handles values less than or equal to 0.
+                print('Please enter a valid year greater than 0.')
+                print()
         except ValueError:
             # This block handles invalid input (non-integer values).
             print('That was not a valid year. Try again!')
@@ -71,9 +79,7 @@ def display_result(year, is_leap_year):
     '''
     Displays the result based on whether the year is a leap year or not.
     '''
-    if year == 0:
-        print(f'The year {year} never existed!')
-    elif is_leap_year:
+    if is_leap_year:
         print(f'The year {year} is a leap year.')
     else:
         print(f'The year {year} is not a leap year.')
