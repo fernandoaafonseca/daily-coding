@@ -41,10 +41,10 @@ def get_year():
             year = int(input('Please enter a year: '))
             if year > 0:
                 break
+            elif year == 0:
+                # Special message for the non-existent year 0.
+                print(f'The year {year} never existed!')
             else:
-                if year == 0:
-                    # Special message for the non-existent year 0.
-                    print(f'The year {year} never existed!')
                 # This block handles values less than or equal to 0.
                 print('Please enter a valid year greater than 0.')
                 print()
