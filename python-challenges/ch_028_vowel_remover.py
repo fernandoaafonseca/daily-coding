@@ -16,17 +16,17 @@ VOWELS = ['a', 'e', 'i', 'o', 'u']
 
 
 def main():
-    word = str(input('Enter the word: '))
-    new_word = shortcut(word)
-    print(new_word)
+    text = str(input('Enter the text: '))
+    shortcut_text = shortcut(text)
+    print(shortcut_text)
 
 
-def shortcut(word):
-    word_without_lowercase_vowels = ''
-    for letter in word:
-        if letter not in VOWELS:
-            word_without_lowercase_vowels += letter
-    return word_without_lowercase_vowels
+def shortcut(text):
+    text_without_lowercase_vowels = ''
+    for char in text:
+        if char not in VOWELS:
+            text_without_lowercase_vowels += char
+    return text_without_lowercase_vowels
 
 
 if __name__ == '__main__':
