@@ -16,6 +16,7 @@ def display_title():
     print('=' * 24)
     print('  Factorial Calculator  ')
     print('=' * 24)
+    print()
 
 
 def get_num():
@@ -25,7 +26,9 @@ def get_num():
             if n >= 0:
                 break
             else:
+                print()
                 print('The number must be positive! Try again.')
+                print()
         except:
             print()
             print('Please enter a valid positive integer number! Try again!')
@@ -60,7 +63,7 @@ def create_list_of_nums(n):
 
 def display_result(n, list_of_nums, result):
     print()
-    print('-' * 24)
+    print('-' * 32)
     print(f'The factorial of {n} is: ')
     print(f'{n}! = ', end='')
 
@@ -73,7 +76,7 @@ def display_result(n, list_of_nums, result):
                 print(f'{num} =', end='')
 
     print(f' {result}')
-    print('-' * 24)
+    print('-' * 32)
     print()
 
 
