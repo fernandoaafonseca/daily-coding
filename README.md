@@ -2,6 +2,8 @@
 
 <h2>🖥️ Programming languages studies:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23007AAC&label=assembly-6502-exercises&logo=AssemblyScript&type=file" alt="assembly-6502-exercises file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python-challenges">
@@ -13,10 +15,10 @@
 
 <h2>📚 Frameworks and tools studies:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/django4">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/django4?color=%23092E20&label=django4&logo=django&type=dir" alt="django4 file count" height="25" />
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-django?color=%23092E20&label=python-django&logo=django&type=dir" alt="python-django file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/pyside6-qt">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/pyside6-qt?color=%2341CD52&label=pyside6-qt&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-qt-pyside6?color=%2341CD52&label=python-qt-pyside6&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/web-exercises-js-html-css">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/web-exercises-js-html-css?color=%23F7DF1E&label=web-exercises-js-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="web-exercises-js-html-css file count" height="25" />
