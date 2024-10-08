@@ -71,13 +71,13 @@
     <li>
       <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
         <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
-          <img src="https://drive.google.com/uc?id=15nziDMCZ9KeMLfNge8qDJz-t9TrM3KKz" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+          <img src="https://drive.google.com/uc?id=1surAb4fSpE7t5VgzWa9H6fMov80o95Kv" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
         </a>
     </li>
     <li>
       <h4>IMD/UFRN: Web Developer</h4>
-        <a href="https://drive.google.com/file/d/1Z_qVMzNztOGA2unKzR-UI3Pa-Or4uRCi/view?usp=sharing">
-          <img src="https://drive.google.com/uc?id=1Z_qVMzNztOGA2unKzR-UI3Pa-Or4uRCi" alt="IMD/UFRN: Web Developer" width="500" />
+        <a href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=drive_link">
+          <img src="https://drive.google.com/uc?id=1BZRSpugEKAniuxxTtIivtH8kmFElHrjo" alt="IMD/UFRN: Web Developer" width="500" />
         </a>
     </li>
 
