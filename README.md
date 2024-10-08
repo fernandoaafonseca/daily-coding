@@ -1,6 +1,10 @@
 <h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
 <h2>🖥️ Programming languages studies:</h2>
+  </a>
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly-6502-exercises">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly-6502-exercises?color=%23007AAC&label=assembly-6502-exercises&logo=AssemblyScript&type=dir" alt="assembly-6502-exercises file count" height="25" />
+  </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
   </a>
@@ -13,10 +17,10 @@
 
 <h2>📚 Frameworks and tools studies:</h2>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/django4">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/django4?color=%23092E20&label=django4&logo=django&type=dir" alt="django4 file count" height="25" />
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-django?color=%23092E20&label=python-django&logo=django&type=dir" alt="python-django file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/pyside6-qt">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/pyside6-qt?color=%2341CD52&label=pyside6-qt&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-qt-pyside6?color=%2341CD52&label=python-qt-pyside6&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/web-exercises-js-html-css">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/web-exercises-js-html-css?color=%23F7DF1E&label=web-exercises-js-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="web-exercises-js-html-css file count" height="25" />
@@ -60,27 +64,30 @@
 
 <h2>🎓 Certificates:</h2>
   <ul>
-    <!--
-    <li>
-      <h4>UNESA - B. Tech. in Data Science</h4>
-        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
-          <img src="https://drive.google.com/uc?id=1x7eYkG2DpulpudA6ZBAr1LVMKmBv9ANx" alt="UNESA: Data Science" width="500" />
-        </a>
-    </li>
-    -->
     <li>
       <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
         <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
-          <img src="https://drive.google.com/uc?id=15nziDMCZ9KeMLfNge8qDJz-t9TrM3KKz" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+          <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
         </a>
     </li>
     <li>
       <h4>IMD/UFRN: Web Developer</h4>
-        <a href="https://drive.google.com/file/d/1Z_qVMzNztOGA2unKzR-UI3Pa-Or4uRCi/view?usp=sharing">
-          <img src="https://drive.google.com/uc?id=1Z_qVMzNztOGA2unKzR-UI3Pa-Or4uRCi" alt="IMD/UFRN: Web Developer" width="500" />
+        <a href="https://drive.google.com/file/d/1tWKs_2khKLWCGdopB_1svqUxJpPDltmE/view?usp=drive_link">
+          <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
         </a>
     </li>
-
+    <li>
+      <h4>IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
+        <a href="https://drive.google.com/file/d/1C-PGtoIkp360MJTC3aIOss57mAcjbSGB/view?usp=sharing">
+          <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
+        </a>
+    </li>
+    <li>
+      <h4>UNESA - B. Tech. in Data Science</h4>
+        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+          <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
+        </a>
+    </li>
   
   </ul>
 
@@ -88,15 +95,19 @@
 
 <h2>📊 Stats:</h2>
   <p>
+    <!--
     <a href="https://www.codewars.com/users/fernandoaafonseca">
       <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&name=true&hide_clan=true&top_languages=true&theme=dark" alt="Codewars stats" />
     </a>
   </p>
+    -->
+    <!--
   <p>
     <a href="https://leetcode.com/fernandoaafonseca/">
       <img src="https://leetcard.jacoblin.cool/fernandoaafonseca?border=0&ext=activity&theme=dark" alt="LeetCode stats" width="495" />
     </a>
   </p>
+    -->
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dark" alt="WakaTime stats" width="495" />
