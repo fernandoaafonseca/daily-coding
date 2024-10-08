@@ -95,15 +95,19 @@
 
 <h2>📊 Stats:</h2>
   <p>
+    <!--
     <a href="https://www.codewars.com/users/fernandoaafonseca">
       <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&name=true&hide_clan=true&top_languages=true&theme=dark" alt="Codewars stats" />
     </a>
   </p>
+    -->
+    <!--
   <p>
     <a href="https://leetcode.com/fernandoaafonseca/">
       <img src="https://leetcard.jacoblin.cool/fernandoaafonseca?border=0&ext=activity&theme=dark" alt="LeetCode stats" width="495" />
     </a>
   </p>
+    -->
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dark" alt="WakaTime stats" width="495" />
