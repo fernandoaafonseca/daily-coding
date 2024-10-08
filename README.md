@@ -62,27 +62,30 @@
 
 <h2>🎓 Certificates:</h2>
   <ul>
-    <!--
-    <li>
-      <h4>UNESA - B. Tech. in Data Science</h4>
-        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
-          <img src="https://drive.google.com/uc?id=1x7eYkG2DpulpudA6ZBAr1LVMKmBv9ANx" alt="UNESA: Data Science" width="500" />
-        </a>
-    </li>
-    -->
     <li>
       <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
         <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
-          <img src="https://drive.google.com/uc?id=1surAb4fSpE7t5VgzWa9H6fMov80o95Kv" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+          <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
         </a>
     </li>
     <li>
       <h4>IMD/UFRN: Web Developer</h4>
-        <a href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=drive_link">
-          <img src="https://drive.google.com/uc?id=1BZRSpugEKAniuxxTtIivtH8kmFElHrjo" alt="IMD/UFRN: Web Developer" width="500" />
+        <a href="https://drive.google.com/file/d/1tWKs_2khKLWCGdopB_1svqUxJpPDltmE/view?usp=drive_link">
+          <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
         </a>
     </li>
-
+    <li>
+      <h4>IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
+        <a href="https://drive.google.com/file/d/1C-PGtoIkp360MJTC3aIOss57mAcjbSGB/view?usp=sharing">
+          <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
+        </a>
+    </li>
+    <li>
+      <h4>UNESA - B. Tech. in Data Science</h4>
+        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+          <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
+        </a>
+    </li>
   
   </ul>
 
