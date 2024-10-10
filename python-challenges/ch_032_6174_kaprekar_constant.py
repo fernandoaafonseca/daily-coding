@@ -66,16 +66,11 @@ def get_number():
     return num
 
 
-def check_number(num):
+def separate_digits(num):
     # Separate the digits into a list
     digits = [int(digit) for digit in str(num)]
-    # append() : append the element to the end of the list.
-    # insert() : inserts the element before the given index.
-    while len(digits) < 4:
-        # Insert a leading 0 until the list has 4 digits
-        digits.insert(0, 0)
-    test_repdigit(digits)
-    # if digit
+
+    return digits
 
 
 def test_repdigit(digits):
@@ -93,12 +88,47 @@ x = int(input('Oi! Digite: '))
 
 print(test_repdigit(x))
 
+'''
 n = check_number(x)
 print(check_number(n))
+'''
 
 
-def calc():
+def gen_ascending_num(num):
     pass
+
+
+def gen_descending_num(num):
+    pass
+
+
+def final_test(num):
+    steps = 0
+    subtraction = 0
+
+    while subtraction != 6174:
+        digits = separate_digits(num)
+
+        while len(digits) < 4:
+            # append() : append the element to the end of the list.
+            # insert() : inserts the element before the given index.
+            # Insert a leading 0 until the list has 4 digits
+            digits.insert(0, 0)
+
+        # Order the digits of the number from the smallest to the largest
+        digits_in_ascending_order = gen_ascending_num(num)
+
+        # Order the digits of the number from the largest to the smallest
+        digits_in_descending_order = gen_descending_num(num)
+
+        subtraction = digits_in_descending_order - digits_in_ascending_order
+
+        steps += 1
+    print(f'{digits_in_descending_order:04d} - {digits_in_ascending_order:04d} = {subtraction:04d}')
+
+    # test_repdigit(digits)
+    # if digit
+
 
 # Transformar os numeros em sequencia de digitos.
 
