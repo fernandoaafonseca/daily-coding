@@ -1,5 +1,6 @@
 '''
 Factorial of a Number
+
 Write a function that calculates the factorial of a given number. The factorial of a number n is the product of all the integers from 1 to n. For example, the factorial of 5 (5!) is 5 x 4 x 3 x 2 x 1 = 120.
 '''
 
