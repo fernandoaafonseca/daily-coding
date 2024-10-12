@@ -11,6 +11,9 @@ You can assume, for the purpose of this kata, that the supplied array will not b
 '''
 
 
+import re
+
+
 def main():
     user_int_list = get_user_int_list()
     # Ensure the list is not empty
@@ -29,14 +32,15 @@ def get_user_int_list():
         try:
             user_input = input(
                 'Please enter a list of integers separated by commas: ')
-            user_list = user_input.split(',')
+
+            # Remove characters that are not digits, ",", ".", "+", "-", "*", "/"
+            cleaned_input = re.sub(r'[^0-9,.\-+*/]', '', user_input)
+            user_list = cleaned_input.split(',')
+
             list_of_ints = []
             for num in user_list:
-                try:
-                    list_of_ints.append(int(num.strip()))
-                except ValueError:
-                    print(
-                        f"'{num.strip()}' is not a valid integer and will be skipped.")
+                list_of_ints.append(num)
+
             if list_of_ints:
                 return list_of_ints
             else:
