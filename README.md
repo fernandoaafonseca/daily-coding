@@ -5,6 +5,9 @@
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly-6502-exercises">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly-6502-exercises?color=%23007AAC&label=assembly-6502-exercises&logo=AssemblyScript&type=dir" alt="assembly-6502-exercises file count" height="25" />
   </a>
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/c-sharp-exercises">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp-exercises?color=%23682876&label=c-sharp-exercises&logo=sharp&type=dir" alt="c-sharp-exercises file count" height="25" />
+  </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
   </a>
