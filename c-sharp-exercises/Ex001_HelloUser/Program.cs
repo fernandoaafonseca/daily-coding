@@ -7,6 +7,9 @@
 *
 * - To run and debug the project:
 * Ctrl + Shift + P -> .NET: Generate Assets for Build and Debug
+*
+* - Compile the code:
+* dotnet build
 */
 
 namespace HelloUser;
