@@ -76,52 +76,30 @@
 
 <hr>
 
-<h2>🎓 Certificates:</h2>
-  <ul>
-    <li>
-      <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
-        <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
-          <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>IMD/UFRN: Web Developer</h4>
-        <a href="https://drive.google.com/file/d/1tWKs_2khKLWCGdopB_1svqUxJpPDltmE/view?usp=drive_link">
-          <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
-        <a href="https://drive.google.com/file/d/1C-PGtoIkp360MJTC3aIOss57mAcjbSGB/view?usp=sharing">
-          <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>UNESA - B. Tech. in Data Science</h4>
-        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
-          <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
-        </a>
-    </li>
-  
-  </ul>
-
-<hr>
-
-<h2>📊 Stats:</h2>
+<h2 align="left">📊 Stats:</h2>
   <p>
-    <!--
-    <a href="https://www.codewars.com/users/fernandoaafonseca">
-      <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&name=true&hide_clan=true&top_languages=true&theme=dark" alt="Codewars stats" />
+    <a href="https://github.com/fernandoaafonseca?tab=repositories">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula" alt="Most used languages" />
     </a>
   </p>
-    -->
-    <!--
+  <p>
+
+<!--
+    <p>
+        <a href="https://www.codewars.com/users/fernandoaafonseca">
+            <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&name=true&hide_clan=true&top_languages=true&theme=dark" alt="Codewars stats" />
+        </a>
+    </p>
+-->
+
+<!--
   <p>
     <a href="https://leetcode.com/fernandoaafonseca/">
       <img src="https://leetcard.jacoblin.cool/fernandoaafonseca?border=0&ext=activity&theme=dark" alt="LeetCode stats" width="495" />
     </a>
   </p>
-    -->
+-->
+
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dark" alt="WakaTime stats" width="495" />
@@ -131,16 +109,55 @@
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
 </p>
+
+<hr>
+
+<h2>🎓 Certificates:</h2>
+  <ul>
+    <li>
+      <h4>Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
+        <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
+          <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+        </a>
+    </li>
+
+    <li>
+      <h4>IMD/UFRN: Web Developer</h4>
+        <a href="https://drive.google.com/file/d/1tWKs_2khKLWCGdopB_1svqUxJpPDltmE/view?usp=drive_link">
+          <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
+        </a>
+    </li>
+
+    <li>
+      <h4>IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
+        <a href="https://drive.google.com/file/d/1C-PGtoIkp360MJTC3aIOss57mAcjbSGB/view?usp=sharing">
+          <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
+        </a>
+    </li>
+
+    <li>
+      <h4>UNESA - B. Tech. in Data Science</h4>
+        <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+          <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
+        </a>
+    </li>
+  </ul>
+
+<hr>
+
 <p>
   <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
     <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" height="25" />
   </a>
+
   <a href="https://github.com/fernandoaafonseca/daily-coding/">
     <img src="https://img.shields.io/github/languages/code-size/fernandoaafonseca/daily-coding" alt="Code size" height="25" />
   </a>
+
   <a href="https://github.com/fernandoaafonseca/daily-coding/">
     <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
   </a>
+
   <a href="https://github.com/fernandoaafonseca/daily-coding/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
   </a>
