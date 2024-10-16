@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-challenges?color=%23F7DF1E&label=JavaScript: Challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
     </a>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript/javascript-web-exercises-html-css">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-web-exercises-html-css?color=%23F7DF1E&label=JavaScript: Exercises for web using HTML and CSS&logo=google-chrome&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-web-exercises-html-css?color=%23F7DF1E&label=JavaScript: Exercises for web using HTML and CSS&logo=google-chrome&type&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
     </a>
   </p>
 
