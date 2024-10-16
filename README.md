@@ -26,7 +26,6 @@
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-challenges">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-challenges?color=%233776AB&label=Python: Challenges&logo=python&type=file" alt="python-challenges file count" height="25" />
     </a>
-
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-exercises">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-exercises?color=%233776AB&label=Python: Exercises&logo=python&type=dir" alt="python-exercises file count" height="25" />
     </a>
