@@ -4,7 +4,7 @@
   <p>
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly/assembly-6502-exercises">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?color=%23644240&label=assembly-6502-exercises&logo=AssemblyScript&type=dir" alt="assembly-6502-exercises file count" height="25" />
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?color=%23644240&label=Assembly 6502: Exercises&logo=AssemblyScript&type=dir" alt="assembly-6502-exercises file count" height="25" />
   </a>
   </p>
 
