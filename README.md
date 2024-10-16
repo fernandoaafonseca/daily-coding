@@ -72,13 +72,13 @@
     </li>
     <li>
       <h4>IMD/UFRN: Web Developer</h4>
-        <a href="https://drive.google.com/file/d/1tWKs_2khKLWCGdopB_1svqUxJpPDltmE/view?usp=drive_link">
+        <a href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=sharing">
           <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
         </a>
     </li>
     <li>
       <h4>IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
-        <a href="https://drive.google.com/file/d/1C-PGtoIkp360MJTC3aIOss57mAcjbSGB/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1elqPafawb-YsiaqKvmrRq0HOMBXa0nlW/view?usp=sharing">
           <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
         </a>
     </li>
@@ -90,11 +90,50 @@
     </li>
     <li>
       <h4>Unhide School: Advanced Photoshop</h4>
-        <a href="https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+        <a href="https://drive.google.com/file/d/1hu8N2hxgpgTmJ5MBcwHJI2Iu-hmn2Dor/view?usp=sharing">
           <img src="https://drive.google.com/uc?id=1t8QYr-bJI2aY7Iwg67nHy08IhTIaVUwr" alt="Unhide School: Advanced Photoshop" width="500" />
         </a>
     </li>
   </ul>
+
+<hr>
+
+<h5>🤓 Some other certificates:</h5>
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>
+            <h6>SOS Computadores: IT</h6>
+              <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
+                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" width="250" />
+              </a>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <h6>SoloLearn: HTML</h6>
+              <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
+                <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="SoloLearn: HTML" width="250" />
+              </a>
+            </li>
+          </ul>
+        </td>
+        <td>
+          <ul>
+            <li>
+              <h6>Udemy - Cristian Doru Barin: Ultimate Photoshop Training</h6>
+                <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
+                  <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" width="250" />
+                </a>
+            </li>
+          </ul>
+        </td>
+    </tr>
+  </table>
+
 
 <hr>
 
