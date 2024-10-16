@@ -34,15 +34,15 @@
   </p>
 
 <h2>📚 Frameworks and tools studies:</h2>
-<p>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-web-django">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-web-django?color=%23092E20&label=Python: Web using Django&logo=django&type=dir" alt="python-web-django file count" height="25" />
-  </a>
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-web-django">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-web-django?color=%23092E20&label=Python: Web using Django&logo=django&type=dir" alt="python-web-django file count" height="25" />
+    </a>
 
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-qt-pyside6">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-qt-pyside6?color=%2341CD52&label=Python: GUI apps using Qt (Pyside6)&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
-  </a>
-</p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-qt-pyside6">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-qt-pyside6?color=%2341CD52&label=Python: GUI apps using Qt (Pyside6)&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
+    </a>
+  </p>
 
 <hr>
 
