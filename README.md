@@ -19,14 +19,14 @@
   </a>
 
 <h2>📚 Frameworks and tools studies:</h2>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-django">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-django?color=%23092E20&label=python-django&logo=django&type=dir" alt="python-django file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-web-django">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-web-django?color=%23092E20&label=python-django&logo=django&type=dir" alt="python-web-django file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-qt-pyside6">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-qt-pyside6?color=%2341CD52&label=python-qt-pyside6&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
   </a>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript/javascript-web-exercises-html-css">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript0web-exercises-html-css?color=%23F7DF1E&label=web-exercises-js-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-web-exercises-html-css?color=%23F7DF1E&label=javascript-web-exercises-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
   </a>
 
 <hr>
