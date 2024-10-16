@@ -2,31 +2,31 @@
 
 <h2>🖥️ Programming languages studies:</h2>
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly-6502-exercises">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly-6502-exercises?color=%23644240&label=assembly-6502-exercises&logo=AssemblyScript&type=dir" alt="assembly-6502-exercises file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly/assembly-6502-exercises">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?color=%23644240&label=assembly-6502-exercises&logo=AssemblyScript&type=dir" alt="assembly-6502-exercises file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/c-sharp-exercises">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp-exercises?color=%23682876&label=c-sharp-exercises&logo=sharp&type=dir" alt="c-sharp-exercises file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/c-sharp/c-sharp-exercises">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp/c-sharp-exercises?color=%23682876&label=c-sharp-exercises&logo=sharp&type=dir" alt="c-sharp-exercises file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript-challenges">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript/javascript-challenges">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-challenges?color=%23F7DF1E&label=javascript-challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python-challenges">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-challenges?color=%233776AB&label=python-challenges&logo=python&type=file" alt="python-challenges file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-challenges">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-challenges?color=%233776AB&label=python-challenges&logo=python&type=file" alt="python-challenges file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python-exercises">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-exercises?color=%233776AB&label=python-exercises&logo=python&type=dir" alt="python-exercises file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-exercises">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-exercises?color=%233776AB&label=python-exercises&logo=python&type=dir" alt="python-exercises file count" height="25" />
   </a>
 
 <h2>📚 Frameworks and tools studies:</h2>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/django4">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-django?color=%23092E20&label=python-django&logo=django&type=dir" alt="python-django file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-django">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-django?color=%23092E20&label=python-django&logo=django&type=dir" alt="python-django file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/pyside6-qt">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python-qt-pyside6?color=%2341CD52&label=python-qt-pyside6&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-qt-pyside6">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-qt-pyside6?color=%2341CD52&label=python-qt-pyside6&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
   </a>
-  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/web-exercises-js-html-css">
-    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/web-exercises-js-html-css?color=%23F7DF1E&label=web-exercises-js-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="web-exercises-js-html-css file count" height="25" />
+  <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript/javascript-web-exercises-html-css">
+    <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript0web-exercises-html-css?color=%23F7DF1E&label=web-exercises-js-html-css&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
   </a>
 
 <hr>
