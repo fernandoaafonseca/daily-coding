@@ -1,4 +1,4 @@
-x<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
+<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
 <h2>🖥️ Programming languages studies:</h2>
   <p>
@@ -42,7 +42,7 @@ x<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
   <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-qt-pyside6">
     <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/python/python-qt-pyside6?color=%2341CD52&label=Python: GUI apps using Qt (Pyside6)&logo=qt&type=dir" alt="pyside6-qt file count" height="25" />
   </a>
-<p>
+</p>
 
 <hr>
 
