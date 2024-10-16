@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-challenges?color=%23F7DF1E&label=JavaScript: Challenges&logo=javascript&type=file" alt="javascript-challenges file count" height="25" />
     </a>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/javascript/javascript-web-exercises-html-css">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-web-exercises-html-css?color=%23F7DF1E&label=JavaScript: Exercises for web using HTML and CSS&logo=google-chrome&type&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/javascript/javascript-web-exercises-html-css?color=%23F7DF1E&label=JavaScript: Exercises&logo=google-chrome&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
     </a>
   </p>
 
@@ -53,11 +53,9 @@
       <li>
         <i>challenges</i> in <b><i>Python</i></b> and <b><i>JavaScript</i></b> that I find on books or online, on websites like <a href="https://www.codewars.com/users/fernandoaafonseca/"><b>Codewars</b></a>, <a href="https://www.hackerrank.com/fernando_aaf/"><b>HackerRank</b></a>, <a href="https://leetcode.com/fernandoaafonseca/"><b>LeetCode</b></a>, among others;
       </li>
-
       <li>
         <i>resolution of tutorials</i> from <a href="https://www.freecodecamp.org/fernandoaafonseca"><b>freeCodeCamp</b></a>, <a href="https://www.udemy.com/user/fernando-afonso-alvim-fonseca/"><b>Udemy</b></a>, or from <a href="https://www.youtube.com/"><b>YouTube</b></a> (always avoiding to follow them step-by-step and constantly trying to add my own ideas and challenge myself);
       </li>
-
       <li>
         my progress in studying <i>frameworks</i>, <i>libraries</i> and <i>tools</i>, such as <b><i>Bootstrap</i></b>, <b><i>Django 4</i></b>, <b><i>PySide6 (Qt for Python)</i></b> and <b><i>Selenium</i></b>.
       </li>
@@ -76,11 +74,9 @@
     <ul>
       <li><i>desafios</i> de <b><i>Python</i></b> e <b><i>JavaScript</i></b> que encontro online, em sites como <a href="https://www.codewars.com/users/fernandoaafonseca/"><b>Codewars</b></a>, <a href="https://www.hackerrank.com/fernando_aaf/"><b>HackerRank</b></a>, <a href="https://leetcode.com/fernandoaafonseca/"><b>LeetCode</b></a>, dentre outros;
       </li>
-
       <li>
         <i>resolução de tutoriais</i> de cursos do <a href="https://www.freecodecamp.org/fernandoaafonseca"><b>freeCodeCamp</b></a>, <a href="https://www.udemy.com/user/fernando-afonso-alvim-fonseca/"><b>Udemy</b></a> ou que encontro no <a href="https://www.youtube.com/"><b>YouTube</b></a> (evitando seguir o passo a passo e constantemente tentando adicionar minhas próprias ideias e me auto-desafiar);
       </li>
-
       <li>minha evolução nos estudos de <i>frameworks</i>, <i>bibliotecas</i> e <i>ferramentas</i> como <b><i>Bootstrap</i></b>, </b><b><i>Django 4</i></b>, <b><i>PySide6 (Qt for Python)</i></b> e <b><i>Selenium</i>.
       </li>
     </ul>
@@ -91,25 +87,9 @@
 <h2 align="left">📊 Stats:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula" alt="Most used languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dark" alt="Most used languages"  width="495" />
     </a>
   </p>
-
-<!--
-  <p>
-    <a href="https://www.codewars.com/users/fernandoaafonseca">
-      <img src="https://github.r2v.ch/codewars?user=fernandoaafonseca&name=true&hide_clan=true&top_languages=true&theme=dark" alt="Codewars stats" />
-      </a>
-  </p>
--->
-
-<!--
-  <p>
-    <a href="https://leetcode.com/fernandoaafonseca/">
-      <img src="https://leetcard.jacoblin.cool/fernandoaafonseca?border=0&ext=activity&theme=dark" alt="LeetCode stats" width="495" />
-    </a>
-  </p>
--->
 
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
@@ -131,21 +111,18 @@
           <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
         </a>
     </li>
-
     <li>
       <h4>IMD/UFRN: Web Developer</h4>
         <a href="https://drive.google.com/file/d/1tWKs_2khKLWCGdopB_1svqUxJpPDltmE/view?usp=drive_link">
           <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
         </a>
     </li>
-
     <li>
       <h4>IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
         <a href="https://drive.google.com/file/d/1C-PGtoIkp360MJTC3aIOss57mAcjbSGB/view?usp=sharing">
           <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
         </a>
     </li>
-
     <li>
       <h4>UNESA - B. Tech. in Data Science</h4>
         <a href="  https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
