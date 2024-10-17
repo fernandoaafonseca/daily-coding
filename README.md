@@ -249,7 +249,7 @@
 
 <p>
   <a href="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding">
-    <img src="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding.svg" alt="Wakatime: Total time coding height="25" ">
+    <img src="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding.svg" alt="Wakatime: Total time coding" height="25" >
   </a>
 
   <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
