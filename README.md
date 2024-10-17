@@ -31,6 +31,10 @@
     </a>
   </p>
 
+<!--
+...
+-->
+
 <h2>📚 Frameworks and tools studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/python/python-web-django">
@@ -41,7 +45,15 @@
     </a>
   </p>
 
+<!--
+...
+-->
+
 <hr>
+
+<!--
+...
+-->
 
 <h2 align="left">📊 Stats:</h2>
   <p>
@@ -60,7 +72,15 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
   </p>
 
+<!--
+...
+-->
+
 <hr>
+
+<!--
+...
+-->
 
 <h2>🎓 Certificates:</h2>
   <ul>
@@ -96,7 +116,15 @@
     </li>
   </ul>
 
+<!--
+...
+-->
+
 <hr>
+
+<!--
+...
+-->
 
 <h2>🤓 Some other certificates:</h2>
   <table>
@@ -118,24 +146,24 @@
               <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
                 <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="200" />
               </a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>
-              <h6>(2020-11) Udemy: Photoshop Training</h6>
-                <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
-                  <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" height="150" width="200" />
-                </a>
-            </li>
-          </ul>
-        </td>
+          </li>
+        </ul>
+      </td>
     </tr>
 <!--
 ...
 -->
     <tr>
+      <td>
+        <ul>
+          <li>
+            <h6>(2020-11) Udemy: Photoshop Training</h6>
+              <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
+                <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" height="150" width="200" />
+              </a>
+          </li>
+        </ul>
+      </td>
       <td>
         <ul>
           <li>
@@ -146,6 +174,11 @@
           </li>
         </ul>
       </td>
+    </tr>
+<!--
+...
+-->
+    <tr>
       <td>
         <ul>
           <li>
@@ -153,19 +186,19 @@
               <a href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
                 <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" height="150" width="250" />
               </a>
-            </li>
-          </ul>
-        </td>
-        <td>
-          <ul>
-            <li>
-              <h6>(2022-07) IAEA: ML and DS with Python</h6>
-                <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
-                  <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="200" />
-                </a>
-            </li>
-          </ul>
-        </td>
+          </li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <h6>(2022-07) IAEA: ML and DS with Python</h6>
+              <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
+                <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="200" />
+              </a>
+          </li>
+        </ul>
+      </td>
     </tr>
 <!--
 ...
@@ -191,20 +224,33 @@
           </li>
         </ul>
       </td>
+    </tr>
+<!--
+...
+-->
+    <tr>
       <td>
         <ul>
           <li>
             <h6>(2023-06) Sololearn: Introduction to Python</h6>
               <a href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
                 <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" height="150" width="220" />
-              </a></li>
-          </ul>
-        </td>
+              </a>
+          </li>
+        </ul>
+      </td>
     </tr>
   </table>
 
+<!--
+...
+-->
 
 <hr>
+
+<!--
+...
+-->
 
 <h2><img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> English (EN-US)</h2>
   <p>This repository acts as a <i>record</i> of my <i>learning journey</i> and contains <i>small applications</i> that I create (almost) everyday as part of my studies to enhance my knowledge in <i>computer science</i>.</p>
@@ -225,9 +271,17 @@
     </ul>
   </p>
 
+<!--
+...
+-->
+
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> Português (PT-BR)
 </h2>
+
+<!--
+...
+-->
 
   <p>Este repositório serve como um <i>histórico</i> da minha <i>jornada de aprendizado</i> e contém <i>pequenas aplicações</i> que eu crio (quase) diariamente como parte dos meus estudos para aprimorar meus conhecimentos em <i>ciência da computação</i>.</p>
 
@@ -245,7 +299,15 @@
     </ul>
   </p>
 
+<!--
+...
+-->
+
 <hr>
+
+<!--
+...
+-->
 
 <p>
   <a href="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding">
