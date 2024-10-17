@@ -106,7 +106,7 @@
           <li>
             <h6>(2005-02) SOS Computadores: IT</h6>
               <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="250" />
+                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
               </a>
           </li>
         </ul>
@@ -116,7 +116,7 @@
           <li>
             <h6>(2020-10) Sololearn: HTML</h6>
               <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="250" />
+                <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="200" />
               </a>
             </li>
           </ul>
@@ -126,7 +126,7 @@
             <li>
               <h6>(2020-11) Udemy: Photoshop Training</h6>
                 <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
-                  <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" height="150" width="250" />
+                  <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" height="150" width="200" />
                 </a>
             </li>
           </ul>
@@ -141,7 +141,7 @@
           <li>
             <h6>(2021-11) IAEA: AI Recommendation Systems</h6>
               <a href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" height="150" width="250" />
+                <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" height="150" width="200" />
               </a>
           </li>
         </ul>
@@ -161,7 +161,7 @@
             <li>
               <h6>(2022-07) IAEA: ML and DS with Python</h6>
                 <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
-                  <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="250" />
+                  <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="200" />
                 </a>
             </li>
           </ul>
@@ -176,7 +176,7 @@
           <li>
             <h6>(2023-06) HackerRank: Python (Basic)</h6>
               <a href="https://drive.google.com/file/d/1JV_M2HqlU68AGigXEd61__4qEpQuNmUW/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" height="150" width="250" />
+                <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" height="150" width="200" />
               </a>
           </li>
         </ul>
@@ -186,7 +186,7 @@
           <li>
             <h6>(2023-06) Sololearn: Introduction to JavaScript</h6>
               <a href="https://drive.google.com/file/d/1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" height="150" width="250" />
+                <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" height="150" width="220" />
               </a>
           </li>
         </ul>
@@ -196,7 +196,7 @@
           <li>
             <h6>(2023-06) Sololearn: Introduction to Python</h6>
               <a href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" height="150" width="250" />
+                <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" height="150" width="220" />
               </a></li>
           </ul>
         </td>
