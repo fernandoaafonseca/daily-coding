@@ -139,3 +139,4 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/c-sharp/c-sharp-exercises/Ex001_HelloUser/bin
