@@ -144,7 +144,7 @@
           <li>
             <h6>(2020-10) Sololearn: HTML</h6>
               <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="200" />
+                <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="220" />
               </a>
           </li>
         </ul>
