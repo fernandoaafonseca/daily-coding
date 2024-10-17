@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Fernando Fonseca\\Portfolio\\Programming\\daily-coding\\c-sharp-exercises\\Ex001_HelloUser\\HelloUser.csproj",
+      "projectUniqueName": "D:\\Fernando Fonseca\\Portfolio\\Programming\\daily-coding\\c-sharp\\c-sharp-exercises\\Ex001_HelloUser\\HelloUser.csproj",
       "projectName": "HelloUser",
-      "projectPath": "D:\\Fernando Fonseca\\Portfolio\\Programming\\daily-coding\\c-sharp-exercises\\Ex001_HelloUser\\HelloUser.csproj",
+      "projectPath": "D:\\Fernando Fonseca\\Portfolio\\Programming\\daily-coding\\c-sharp\\c-sharp-exercises\\Ex001_HelloUser\\HelloUser.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "D:\\Fernando Fonseca\\Portfolio\\Programming\\daily-coding\\c-sharp-exercises\\Ex001_HelloUser\\obj\\",
+      "outputPath": "D:\\Fernando Fonseca\\Portfolio\\Programming\\daily-coding\\c-sharp\\c-sharp-exercises\\Ex001_HelloUser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
