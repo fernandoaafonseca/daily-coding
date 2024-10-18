@@ -30,6 +30,8 @@ The only four-digit numbers for which Kaprekar's routine does not reach 6174 are
 Explanation took from the Wikipedia article "6174".
 Source:
 https://en.wikipedia.org/wiki/6174
+
+https://en.wikipedia.org/wiki/Repdigit
 '''
 
 '''
