@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
+w<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
 <h2>🖥️ Programming languages studies:</h2>
   <p>
@@ -250,7 +250,10 @@
 ...
 -->
 
-<h2><img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> English (EN-US)</h2>
+<h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> English (EN-US)
+</h2>
+
   <p>This repository acts as a <i>record</i> of my <i>learning journey</i> and contains <i>small applications</i> that I create (almost) everyday as part of my studies to enhance my knowledge in <i>computer science</i>.</p>
 
   <p>It is a space where I can <i>track my own progress</i>, <i>experiment with creative ideas</i>, and constantly <i>challenge myself</i> in the pursuit of mastering the technologies I study.</p>
@@ -276,10 +279,6 @@
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> Português (PT-BR)
 </h2>
-
-<!--
-...
--->
 
   <p>Este repositório serve como um <i>histórico</i> da minha <i>jornada de aprendizado</i> e contém <i>pequenas aplicações</i> que eu crio (quase) diariamente como parte dos meus estudos para aprimorar meus conhecimentos em <i>ciência da computação</i>.</p>
 
