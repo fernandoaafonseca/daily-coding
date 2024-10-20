@@ -136,7 +136,7 @@ def are_numbers_at_the_end(user_plate: str) -> bool:
         if char.isdigit():
             found_number = True
         elif found_number:
-            # If there's a letter after a number
+            # If the char is not a digit and "found_number" was set to "True" before, i.e. if there's a letter after a number
             return False
 
     # If there's no letter after a number
