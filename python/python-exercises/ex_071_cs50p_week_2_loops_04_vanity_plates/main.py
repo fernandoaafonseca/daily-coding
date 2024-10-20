@@ -136,11 +136,10 @@ def are_numbers_at_the_end(user_plate: str) -> bool:
         if char.isdigit():
             found_number = True
         elif found_number:
-            # If there's a letter after a number, the plate is "Invalid"
+            # If there's a letter after a number
             return False
 
-    return True
-
+    # If there's no letter after a number
     return True
 
 
@@ -149,6 +148,10 @@ if __name__ == '__main__':
 
 
 # Test:
+print(is_valid('ECTO88') == True)
+
+print(is_valid('NRVOUS') == True)
+
 print(is_valid('CS50') == True)
 
 print(is_valid('CS05') == False)
