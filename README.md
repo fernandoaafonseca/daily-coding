@@ -1,5 +1,4 @@
-w<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
-
+<h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
 <h2>🖥️ Programming languages studies:</h2>
   <p>
