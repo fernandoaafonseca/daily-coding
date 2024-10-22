@@ -14,13 +14,14 @@ string myName = "Fernando";
 *  VALUE TYPES
 */
 
+Console.WriteLine(new string('=', 40));
+Console.WriteLine("OVERVIEW OF DATATYPES");
 // "byte" is the only type that is "unsigned (u)" by default
 // The default for other types is "signed (s)"
 // sbyte -> -128 to 127
 // byte -> 0 to 255
 sbyte signedByte = -128;
 byte unsignedByte = 255;
-Console.WriteLine(new string('=', 40));
 Console.WriteLine($"sbyte: {signedByte}");
 Console.WriteLine($"byte: {unsignedByte}");
 Console.WriteLine(new string('=', 40));
