@@ -21,7 +21,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/daily-coding.sln",
+                "${workspaceFolder}/c-sharp/c-sharp-exercises/*/*.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/daily-coding.sln",
+                "${workspaceFolder}/c-sharp/c-sharp-exercises/Ex002_SumOfTwoInputNums/Ex002_SumOfTwoInputNums.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -47,7 +47,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/daily-coding.sln"
+                "${workspaceFolder}/c-sharp/c-sharp-exercises/Ex002_SumOfTwoInputNums/Ex002_SumOfTwoInputNums.sln"
             ],
             "problemMatcher": "$msCompile"
         }
