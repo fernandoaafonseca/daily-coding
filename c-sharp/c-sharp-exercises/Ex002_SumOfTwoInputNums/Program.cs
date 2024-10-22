@@ -10,6 +10,7 @@ Console.Write("Enter the second number: ");
 float userInputNum2 = float.Parse(Console.ReadLine());
 
 float sum = userInputNum1 + userInputNum2;
+// Round the result to 2 decimal places
 sum = MathF.Round(sum, 2);
 
 Console.WriteLine($"The sum of {userInputNum1} + {userInputNum2} = {sum}.");
