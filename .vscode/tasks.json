@@ -21,7 +21,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/c-sharp/c-sharp-exercises/Ex002_SumOfTwoInputNums/Ex002_SumOfTwoInputNums.sln",
+                "${workspaceFolder}/c-sharp/c-sharp-exercises/*/*.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
