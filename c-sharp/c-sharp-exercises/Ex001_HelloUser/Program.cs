@@ -1,15 +1,15 @@
 ﻿/*
 * - Create a new Console project:
-* dotnet console -o NewProjectFolder
-*
-* - Inside the folder, run the project:
-* dotnet run
+* dotnet new console -o NewProjectFolder
 *
 * - To run and debug the project:
 * Ctrl + Shift + P -> .NET: Generate Assets for Build and Debug
 *
 * - Compile the code:
 * dotnet build
+*
+* - Inside the folder, run the project:
+* dotnet run
 */
 
 namespace HelloUser;
