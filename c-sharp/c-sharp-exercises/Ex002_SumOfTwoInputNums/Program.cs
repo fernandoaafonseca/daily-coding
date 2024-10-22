@@ -1,10 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.Write("Enter the first whole number: ");
-int userInputNum1 = int.Parse(Console.ReadLine());
+﻿using System.Globalization;
 
-Console.Write("Enter the second whole number: ");
-int userInputNum2 = int.Parse(Console.ReadLine());
+// Set the culture to en-US, which uses a period as the decimal separator
+CultureInfo.CurrentCulture = CultureInfo.InvariantCulture;
 
-int sum = userInputNum1 + userInputNum2;
+Console.Write("Enter the first number: ");
+float userInputNum1 = float.Parse(Console.ReadLine());
+
+Console.Write("Enter the second number: ");
+float userInputNum2 = float.Parse(Console.ReadLine());
+
+float sum = userInputNum1 + userInputNum2;
+sum = MathF.Round(sum, 2);
 
 Console.WriteLine($"The sum of {userInputNum1} + {userInputNum2} = {sum}.");
