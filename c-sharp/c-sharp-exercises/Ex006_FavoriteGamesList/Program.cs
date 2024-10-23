@@ -118,7 +118,7 @@ class Program
             case 3:
                 // Display the title
                 PrintTitle();
-                Console.WriteLine("Exiting...");
+                Console.WriteLine("[X] Exiting...");
                 Console.WriteLine("\nPress any key to close the window...");
                 Console.ReadKey();
                 // Exit the application cleanly
