@@ -8,6 +8,9 @@
 * - Compile the code:
 * dotnet build
 *
+* - Compile the code in a new folder:
+* dotnet build -c NewFolderName
+*
 * - Inside the folder, run the project:
 * dotnet run
 */
