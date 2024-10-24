@@ -83,7 +83,7 @@
 <h2 align="left">📊 Stats:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula" alt="Most used languages"  width="495" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula" alt="Most used languages"  width="495" />
     </a>
   </p>
 
