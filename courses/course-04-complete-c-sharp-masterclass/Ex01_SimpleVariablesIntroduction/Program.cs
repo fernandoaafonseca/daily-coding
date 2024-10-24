@@ -20,7 +20,6 @@ Create a simple C# program that declares an integer variable, assigns it a value
 
 using System;
 
-
 public class Program
 {
     static void Main(string[] args)
