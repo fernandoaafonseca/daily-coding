@@ -21,13 +21,13 @@
 <h2>🖥️ Programming languages studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly/assembly-6502-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23709BC0&type=dir" alt="assembly-6502-exercises file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="assembly-6502-exercises file count" height="25" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/c-sharp/c-sharp-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp/c-sharp-exercises?label=C%23: Exercises&logo=dotnet&color=%239B4993&logoColor=%239B4993&type=dir" alt="c-sharp-exercises file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp/c-sharp-exercises?label=C%23: Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
     </a>
   </p>
 
