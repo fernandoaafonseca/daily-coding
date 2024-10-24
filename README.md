@@ -1,14 +1,24 @@
 <h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
-<h2>🧑🏻‍🎓 Courses exercises:</h2>
+<h2>🧑🏻‍🎓 Courses:</h2>
   <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp&logo=python&color=%233776AB&type=dir" alt="the-modern-python-3-bootcamp file count" height="25" />
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp - Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
     </a>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp - Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Udemy (Angela Yu): 100 Days of Code&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
+    </a>
+  </p>
 
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Harvard Online: CS50 Python&logo=python&color=%233776AB&type=dir" alt="cs50p file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Harvard Online: CS50 Python&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
     </a>
 
 <!--
@@ -18,13 +28,13 @@
 <h2>🖥️ Programming languages studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly/assembly-6502-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23709BC0&type=dir" alt="assembly-6502-exercises file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="assembly-6502-exercises file count" height="25" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/c-sharp/c-sharp-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp/c-sharp-exercises?label=C%23: Exercises&logo=sharp&color=%239B4993&logoColor=%239B4993&type=dir" alt="c-sharp-exercises file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/c-sharp/c-sharp-exercises?label=C%23: Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
     </a>
   </p>
 
