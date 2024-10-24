@@ -20,6 +20,13 @@
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Harvard Online: CS50 Python&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
     </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-complete-c-sharp-masterclass">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-complete-c-sharp-masterclass?label=Udemy (Denis Panjuta): Complete C%23 Masterclass&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+    </a>
+  </p>
 
 <!--
 ...
