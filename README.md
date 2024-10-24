@@ -8,6 +8,13 @@
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp - Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
     </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Udemy (Angela Yu): 100 Days of Code&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
+    </a>
+  </p>
 
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
