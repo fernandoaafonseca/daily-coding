@@ -1,5 +1,20 @@
 <h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
+<h2>🧑🏻‍🎓 Courses exercises:</h2>
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp&logo=python&color=%233776AB&type=dir" alt="the-modern-python-3-bootcamp file count" height="25" />
+    </a>
+
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Harvard Online: CS50 Python&logo=python&color=%233776AB&type=dir" alt="cs50p file count" height="25" />
+    </a>
+
+<!--
+...
+-->
+
 <h2>🖥️ Programming languages studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/assembly/assembly-6502-exercises">
@@ -45,15 +60,6 @@
     </a>
   </p>
 
-<!--
-...
--->
-
-<h2>🧑🏻‍🎓 Courses exercises:</h2>
-  <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/cs50p">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/cs50p?label=Harvard Online: CS50 Python&logo=python&color=%233776AB&type=dir" alt="cs50p file count" height="25" />
-    </a>
 <!--
 ...
 -->
