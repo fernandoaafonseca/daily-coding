@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
-<h2>🧑🏻‍🎓 Courses exercises:</h2>
+<h2>🧑🏻‍🎓 Courses:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp - Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
