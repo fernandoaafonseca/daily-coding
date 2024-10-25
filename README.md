@@ -3,16 +3,16 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp - Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Colt Steele: The Modern Python 3 Bootcamp - Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
     </a>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Udemy (Colt Steele): The Modern Python 3 Bootcamp - Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Colt Steele: The Modern Python 3 Bootcamp - Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
     </a>
   </p>
 
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Udemy (Angela Yu): 100 Days of Code&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Angela Yu: 100 Days of Code&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
     </a>
   </p>
 
@@ -24,7 +24,13 @@
 
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-complete-c-sharp-masterclass">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-complete-c-sharp-masterclass?label=Udemy (Denis Panjuta): Complete C%23 Masterclass&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-complete-c-sharp-masterclass?label=Denis Panjuta: Complete C%23 Masterclass&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-atari-2600-programming-with-6502-assembly">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-atari-2600-programming-with-6502-assembly?label=Gustavo Pezzi: Atari 2600 Programming with 6502 Assembly&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
     </a>
   </p>
 
@@ -34,8 +40,8 @@
 
 <h2>🖥️ Programming languages studies:</h2>
   <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/assembly-6502-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="assembly-6502-exercises file count" height="25" />
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
     </a>
   </p>
 
