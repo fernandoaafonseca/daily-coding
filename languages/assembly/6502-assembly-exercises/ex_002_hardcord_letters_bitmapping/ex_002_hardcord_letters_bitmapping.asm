@@ -27,9 +27,11 @@
 ; It is divided into 4 pages, with 8 strips of 32 "pixels" in each.
 ; Each page has its own most significant byte and contains 256 bytes
 ; ($00 to $FF).
-
-; Source: https://gist.github.com/kjayawar/94c1341cc1409b572259e641ea4d6e79
-; Source: https://github.com/skilldrick/easy6502/tree/gh-pages
+;
+; Source 1:
+; https://gist.github.com/kjayawar/94c1341cc1409b572259e641ea4d6e79
+; Source 2:
+; https://github.com/skilldrick/easy6502/tree/gh-pages
 ; ==========================================================================
 
 ; ==========================================================================
