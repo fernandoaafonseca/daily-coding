@@ -41,7 +41,7 @@
 <h2>🖥️ Programming languages studies:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/assembly-6502-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/6502-assembly-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
     </a>
   </p>
 
