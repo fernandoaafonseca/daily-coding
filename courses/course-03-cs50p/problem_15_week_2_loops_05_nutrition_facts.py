@@ -32,7 +32,7 @@ fruits_calories: list[int] = [
 
 
 def main():
-    dict_fruits_calories = create_fuits_calories_dict(
+    dict_fruits_calories = create_dict_fruits_calories(
         fruits_names, fruits_calories)
     user_input_fruit = get_user_input_fruit()
     calories = get_calories_value(user_input_fruit, dict_fruits_calories)
@@ -40,12 +40,12 @@ def main():
     print(result)
 
 
-def create_fuits_calories_dict(fruits_names: list[str], fruits_calories: list[int]) -> dict[str, int]:
+def create_dict_fruits_calories(fruits_names: list[str], fruits_calories: list[int]) -> dict[str, int]:
     '''
     Create a dictionary where the keys are the names of the fruits and the values ​​are their respective calories
     '''
-    fruits_calories = dict(zip(fruits_names, fruits_calories))
-    return fruits_calories
+    dict_fruits_calories = dict(zip(fruits_names, fruits_calories))
+    return dict_fruits_calories
 
 
 def get_user_input_fruit() -> str:
