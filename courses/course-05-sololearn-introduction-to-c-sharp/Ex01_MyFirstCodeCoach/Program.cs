@@ -1,4 +1,6 @@
 ﻿/*
+My First Code Coach
+
 Your First C# Program
 Let's code for real!
 
