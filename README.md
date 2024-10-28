@@ -23,14 +23,20 @@
   </p>
 
   <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-complete-c-sharp-masterclass">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-complete-c-sharp-masterclass?label=Denis Panjuta: Complete C%23 Masterclass&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Gustavo Pezzi: Atari 2600 Programming with 6502 Assembly&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
     </a>
   </p>
 
   <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-atari-2600-programming-with-6502-assembly">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-atari-2600-programming-with-6502-assembly?label=Gustavo Pezzi: Atari 2600 Programming with 6502 Assembly&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Sololearn: Introduction to C%23&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?label=Denis Panjuta: Complete C%23 Masterclass&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
     </a>
   </p>
 
