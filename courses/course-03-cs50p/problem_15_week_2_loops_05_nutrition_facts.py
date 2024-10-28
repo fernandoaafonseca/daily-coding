@@ -18,23 +18,26 @@ Take care to output the fruit’s calories, not calories from fat!
 
 
 def main():
-    ...
+    fruits_calories = create_fuits_calories_dict()
 
 
-raw_fruits_dict_keys = ['fruit', 'calories']
+def create_fuits_calories_dict() -> dict:
+    # List with the names of fruits
+    fruits_names: str = [
+        'Apple', 'Avocado', 'Banana', 'Cantaloupe', 'Grapefruit', 'Grapes',
+        'Honeydew Melon', 'Kiwifruit', 'Lemon', 'Lime', 'Nectarine', 'Orange',
+        'Peach', 'Pear', 'Pineapple', 'Plums', 'Strawberries', 'Sweet Cherries',
+        'Tangerine', 'Watermelon'
+    ]
 
-# List with the names of fruits
-fruit_names = [
-    'Apple', 'Avocado', 'Banana', 'Cantaloupe', 'Grapefruit', 'Grapes',
-    'Honeydew Melon', 'Kiwifruit', 'Lemon', 'Lime', 'Nectarine', 'Orange',
-    'Peach', 'Pear', 'Pineapple', 'Plums', 'Strawberries', 'Sweet Cherries',
-    'Tangerine', 'Watermelon'
-]
+    # List with the calories of each fruit
+    calories: int = [
+        130, 50, 110, 50, 60, 90, 50, 90, 15, 20, 60, 80, 60, 100, 50, 70, 50, 100, 50, 80
+    ]
 
-# List with the calories of each fruit
-calories = [
-    130, 50, 110, 50, 60, 90, 50, 90, 15, 20, 60, 80, 60, 100, 50, 70, 50, 100, 50, 80
-]
+    # Create a dictionary where the keys are the names of the fruits and the values ​​are their respective calories
+    fruits_calories = dict(zip(fruits_names, calories))
+    return fruits_calories
 
 
 if __name__ == '__main__':
