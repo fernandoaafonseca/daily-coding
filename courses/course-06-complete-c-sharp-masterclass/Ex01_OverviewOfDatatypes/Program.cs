@@ -16,6 +16,7 @@ string myName = "Fernando";
 
 Console.WriteLine(new string('=', 40));
 Console.WriteLine("OVERVIEW OF DATATYPES");
+
 // "byte" is the only type that is "unsigned (u)" by default
 // The default for other types is "signed (s)"
 // sbyte -> -128 to 127
