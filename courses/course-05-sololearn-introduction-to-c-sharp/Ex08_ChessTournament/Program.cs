@@ -28,5 +28,34 @@ public class Program
 
         double totalPoints = wins + ties * 0.5;
         Console.WriteLine(totalPoints);
+
+        Tests();
+    }
+
+    static void Tests()
+    {
+        int wins;
+        int ties;
+        double totalPoints;
+
+        wins = 54;
+        ties = 31;
+        totalPoints = wins + ties * 0.5;
+        Console.WriteLine(totalPoints == 69.5);
+
+        wins = 5;
+        ties = 6;
+        totalPoints = wins + ties * 0.5;
+        Console.WriteLine(totalPoints == 8);
+        
+        wins = 14;
+        ties = 7;
+        totalPoints = wins + ties * 0.5;
+        Console.WriteLine(totalPoints == 17.5);
+                
+        wins = 1;
+        ties = 2;
+        totalPoints = wins + ties * 0.5;
+        Console.WriteLine(totalPoints == 2);
     }
 }
