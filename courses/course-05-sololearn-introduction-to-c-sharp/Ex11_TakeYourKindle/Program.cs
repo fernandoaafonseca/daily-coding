@@ -31,7 +31,7 @@ public class Program
             Console.WriteLine(message);
         }
 
-        Tests();
+        RunSimpleTests();
     }
 
     static string TestCondition(int age)
@@ -43,7 +43,7 @@ public class Program
         return "";
     }
 
-    static void Tests()
+    static void RunSimpleTests()
     {
         int age;
 
