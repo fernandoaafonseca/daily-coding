@@ -29,10 +29,10 @@ public class Program
         double totalPoints = wins + ties * 0.5;
         Console.WriteLine(totalPoints);
 
-        Tests();
+        RunSimpleTests();
     }
 
-    static void Tests()
+    static void RunSimpleTests()
     {
         int wins;
         int ties;
