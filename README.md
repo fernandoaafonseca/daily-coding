@@ -102,13 +102,7 @@
 <h2 align="left">📊 Stats:</h2>
   <p>
     <a href="https://github.com/fernandoaafonseca?tab=repositories">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula" alt="Most used languages"  width="495" />
-    </a>
-  </p>
-
-  <p>
-    <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="495" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="495" />
     </a>
   </p>
 
@@ -118,6 +112,12 @@
 
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
+  </p>
+
+  <p>
+    <a href="https://wakatime.com/@fernandoaafonseca">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="495" />
+    </a>
   </p>
 
 <!--
