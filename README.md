@@ -107,7 +107,7 @@
   </p>
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=15" alt="Activity graph" width="495" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="495" />
   </p>
 
   <p>
@@ -116,7 +116,7 @@
 
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="495" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="600" />
     </a>
   </p>
 
