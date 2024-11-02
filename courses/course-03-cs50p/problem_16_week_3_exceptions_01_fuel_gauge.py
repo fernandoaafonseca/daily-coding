@@ -77,10 +77,9 @@ def generate_result(remaining_fuel: str | int) -> str:
         return f'{remaining_fuel}'
 
 
-'''
 if __name__ == '__main__':
     main()
-'''
+
 
 # Test:
 numerator, denominator = get_numerator_denominator('3/4')
