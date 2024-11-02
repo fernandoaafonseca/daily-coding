@@ -70,6 +70,5 @@ public class Program
         
         color = "black";
         Console.WriteLine(CheckColorBox(color) == "box #3");
-
     }
 }
