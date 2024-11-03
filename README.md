@@ -3,29 +3,40 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th align="left" height="25" rowspan="2">🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>:
-    </th>
+    <th colspan="2"><b>Course</b></th>
+    <th colspan="1"><b>Repo</b></th>
   </tr>
-
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
-    </a>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
-    </a>
-  </td>
+  
+  <tr>
+    <th align="left" width="10">
+      01
+    </th>
+    <th  align="left"  height="25">
+      🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>:
+    </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
+      </a>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
+      </a>
+    </td>
+  </tr>
 
   <tr>
-    <th align="left" height="25" rowspan="2">🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>:
+    <th align="left" width="10">
+      02
     </th>
+    <th align="left" height="25">
+      🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>:
+    </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
+      </a>
+    </td>
   </tr>
-
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
-    </a>
-  </td>
 
   <tr>
     <th align="left" height="25" rowspan="2">🐍 <b>Harvard Online</b> | <i>CS50 Python</i>:
