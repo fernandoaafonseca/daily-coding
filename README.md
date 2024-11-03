@@ -10,7 +10,7 @@
   
   <tr>
     <th align="left" width="10">
-      01
+      Udemy
     </th>
     <th  align="left"  height="25">
       🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>
@@ -30,7 +30,7 @@
 
   <tr>
     <th align="left" width="10">
-      02
+      Udemy
     </th>
     <th align="left" height="25">
       🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>
@@ -47,7 +47,7 @@
 
   <tr>
     <th align="left" width="10">
-      03
+      Harvard Online
     </th>
     <th align="left" height="25" rowspan="2">🐍 <b>Harvard Online</b> | <i>CS50 Python</i>
     </th>
