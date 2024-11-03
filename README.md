@@ -4,6 +4,7 @@
 <table>
   <tr>
     <th colspan="2"><b>Course</b></th>
+    <th colspan="1"><b>Subject</b></th>
     <th colspan="1"><b>Repo</b></th>
   </tr>
   
@@ -13,6 +14,9 @@
     </th>
     <th  align="left"  height="25">
       🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>:
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
     </th>
     <td>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
@@ -31,6 +35,9 @@
     <th align="left" height="25">
       🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>:
     </th>
+    <th>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+    </th>
     <td>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
@@ -39,15 +46,20 @@
   </tr>
 
   <tr>
+    <th align="left" width="10">
+      03
+    </th>
     <th align="left" height="25" rowspan="2">🐍 <b>Harvard Online</b> | <i>CS50 Python</i>:
     </th>
+  <th>
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+  </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
+      </a>
+    </td>
   </tr>
-
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
-    </a>
-  </td>
 
   <tr>
     <th align="left" height="25" rowspan="2">💾 <b>Gustavo Pezzi</b> | <i>Atari 2600 Programming with 6502 Assembly</i>:
