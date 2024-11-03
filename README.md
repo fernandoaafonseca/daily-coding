@@ -13,7 +13,7 @@
       01
     </th>
     <th  align="left"  height="25">
-      🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>:
+      🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>
     </th>
     <th>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
@@ -33,7 +33,7 @@
       02
     </th>
     <th align="left" height="25">
-      🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>:
+      🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>
     </th>
     <th>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
@@ -49,7 +49,7 @@
     <th align="left" width="10">
       03
     </th>
-    <th align="left" height="25" rowspan="2">🐍 <b>Harvard Online</b> | <i>CS50 Python</i>:
+    <th align="left" height="25" rowspan="2">🐍 <b>Harvard Online</b> | <i>CS50 Python</i>
     </th>
   <th>
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
