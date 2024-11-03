@@ -40,6 +40,11 @@
     </a>
   </p>
 
+  <p>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
+      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Sololearn: Python Intermediate&logo=python&color=%233776AB&type=file" alt="python-intermediate file count" height="25" />
+    </a>
+  </p>
 <!--
 ...
 -->
