@@ -1,6 +1,6 @@
 *.pyc
 *.cache
-languages/python/python-exercises/ex_018_twilio_sms_cold_temps_warning/data/twilio_account.py
+daily-coding/languages/python/python-exercises/ex_018_twilio_sms_cold_temps_warning/data/twilio_account.py
 /z_ideas
 
 ## Ignore Visual Studio temporary files, build results, and
