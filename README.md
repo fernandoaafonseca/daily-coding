@@ -118,7 +118,7 @@
     <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-exercises">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-exercises?label=C%23: Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
     </a>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges>
+    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges">
       <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-challenges?label=C%23: Challenges&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-challenges file count" height="25" />
     </a>
   </p>
