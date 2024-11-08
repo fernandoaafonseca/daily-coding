@@ -168,7 +168,6 @@
 <h2 align="left">📊 Stats:</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="495" />
-    </a>
   </p>
 
   <p>
