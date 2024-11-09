@@ -49,11 +49,12 @@
     <th align="left" width="10">
       Harvard Online
     </th>
-    <th align="left" height="25" rowspan="2">🐍 <b>Harvard Online</b> | <i>CS50 Python</i>
+    <th align="left" height="25">
+      🐍 <b>Harvard Online</b> | <i>CS50 Python</i>
     </th>
-  <th>
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-  </th>
+    <th>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+    </th>
     <td>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
@@ -62,46 +63,73 @@
   </tr>
 
   <tr>
-    <th align="left" height="25" rowspan="2">💾 <b>Gustavo Pezzi</b> | <i>Atari 2600 Programming with 6502 Assembly</i>:
+    <th align="left" width="10">
+      Udemy
     </th>
-  </tr>
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
-    </a>
-  </td>
-
-  <tr>
-    <th align="left" height="25" rowspan="2">#️⃣ <b>Sololearn</b> | <i>Introduction to C#</i>:
+    <th align="left" height="25">
+      💾 <b>Gustavo Pezzi</b> | <i>Atari 2600 Programming with 6502 Assembly</i>
     </th>
-  </tr>
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
-    </a>
-  </td>
- 
-  <tr>
-    <th align="left" height="25" rowspan="2">#️⃣ <b>Denis Panjuta</b> | <i>Complete C# Masterclass</i>:
+    <th>
+      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" />
     </th>
-  </tr>
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
-    </a>
-  </td>  
-
-  <tr>
-    <th align="left" height="25" rowspan="2">🐍 <b>Sololearn</b> | <i>Python Intermediate</i>:
-    </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+      </a>
+    </td>
   </tr>
 
-  <td>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Exercises&logo=python&color=%233776AB&type=file" alt="python-intermediate file count" height="25" />
-    </a>
-  </td>
-  </table>
+  <tr>
+    <th align="left" width="10">
+      Sololearn
+    </th>
+    <th align="left" height="25">
+      #️⃣ <i>Introduction to C#</i>
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/C%23-A179DC?style=for-the-badge&logo=dotnet&logoColor=%23280068" />
+    </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left" width="10">
+      Udemy
+    </th>
+    <th align="left" height="25">
+      #️⃣ <b>Denis Panjuta</b> | <i>Complete C# Masterclass</i>
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/C%23-A179DC?style=for-the-badge&logo=dotnet&logoColor=%23280068" />
+    </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <th align="left" width="10">
+      Sololearn
+    </th>
+    <th align="left" height="25">
+      🐍 <i>Python Intermediate</i>
+    </th>
+    <th>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+    </th>
+    <td>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Exercises&logo=python&color=%233776AB&type=file" alt="python-intermediate file count" height="25" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 ...
