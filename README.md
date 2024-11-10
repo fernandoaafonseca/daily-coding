@@ -3,9 +3,21 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th colspan="2"><b>Course</b></th>
-    <th colspan="1"><b>Subject</b></th>
-    <th colspan="1"><b>Repo</b></th>
+    <th colspan="2">
+      <h3>
+        Course
+      </h3>
+    </th>
+    <th colspan="1">
+      <h3>
+        Subject
+      </h3>
+    </th>
+    <th colspan="1">
+      <h3>
+        Repo
+      </h3>
+    </th>
   </tr>
   
   <tr>
@@ -14,7 +26,7 @@
     </th>
     <th  align="left"  height="25">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
-      🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>
+        🐍 The Modern Python 3 Bootcamp | <i>Colt Steele</i>
       </a>
     </th>
     <th>
@@ -35,7 +47,9 @@
       Udemy
     </th>
     <th align="left" height="25">
-      🐍 <b>Angela Yu</b> | <i>100 Days of Code</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+        🐍 100 Days of Code | <i>Angela Yu</i>
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
@@ -52,7 +66,9 @@
       Harvard Online
     </th>
     <th align="left" height="25">
-      🐍 <b>Harvard Online</b> | <i>CS50 Python</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
+        🐍 CS50 Python
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
@@ -69,7 +85,9 @@
       Udemy
     </th>
     <th align="left" height="25">
-      💾 <b>Gustavo Pezzi</b> | <i>Atari 2600 Programming with 6502 Assembly</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
+        💾 Atari 2600 Programming with 6502 Assembly | <i>Gustavo Pezzi</i>
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" />
@@ -86,7 +104,9 @@
       Sololearn
     </th>
     <th align="left" height="25">
-      #️⃣ <i>Introduction to C#</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+        #️⃣ Introduction to C#
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/C%23-A179DC?style=for-the-badge&logo=dotnet&logoColor=%23280068" />
@@ -103,7 +123,9 @@
       Udemy
     </th>
     <th align="left" height="25">
-      #️⃣ <b>Denis Panjuta</b> | <i>Complete C# Masterclass</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
+        #️⃣ Complete C# Masterclass | <i>Denis Panjuta</i>
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/C%23-A179DC?style=for-the-badge&logo=dotnet&logoColor=%23280068" />
@@ -120,7 +142,9 @@
       Sololearn
     </th>
     <th align="left" height="25">
-      🐍 <i>Python Intermediate</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
+        🐍 Python Intermediate
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
