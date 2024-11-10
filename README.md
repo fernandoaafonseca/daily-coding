@@ -13,7 +13,9 @@
       Udemy
     </th>
     <th  align="left"  height="25">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
       🐍 <b>Colt Steele</b> | <i>The Modern Python 3 Bootcamp</i>
+      </a>
     </th>
     <th>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
