@@ -117,7 +117,7 @@
     </td>
     <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
-        #️⃣ Introduction to C#
+        #️⃣ <b>Introduction to C#</b>
       </a>
     </td>
     <td align="center">
@@ -138,7 +138,7 @@
     </td>
     <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
-        #️⃣ Complete C# Masterclass | <i>Denis Panjuta</i>
+        #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
       </a>
     </td>
     <td align="center">
@@ -159,7 +159,7 @@
     </td>
     <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
-        🐍 Python Intermediate
+        🐍 <b>Python Intermediate</b>
       </a>
     </td>
     <td align="center">
@@ -193,62 +193,62 @@
   </tr>
 
   <tr>
-    <th align="left">
-      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="28"/>
-    </th>
-    <th colspan="2">
+    <td align="center">
+      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/6502-assembly-exercises?label=Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
       </a>      
-    </th>
+    </td>
   </tr>
 
   <tr>
-    <th align="left">
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" />
-    </th>
-    <th>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-challenges?label=Challenges&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-challenges file count" height="25" />
       </a>
-    </th>
-    <th>
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-exercises?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
       </a>
-    </th>
+    </td>
   </tr>
 
   <tr>
-    <th align="left">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-    </th>
-    <th>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" />
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-challenges?label=Challenges&logo=javascript&color=%23F7DF1E&type=file" alt="javascript-challenges file count" height="25" />
       </a>
-    </th>
-    <th>
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-web-exercises-html-css?label=Web Exercises&logo=google-chrome&color=%23F7DF1E&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
       </a>
-    </th>
+    </td>
   </tr>
 
   <tr>
-    <th align="left">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-    </th>
-    <th align="left">
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="python-challenges file count" height="25" />
       </a>
-    </th>
-    <th>
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-exercises?label=Exercises&logo=python&color=%233776AB&type=dir" alt="python-exercises file count" height="25" />
       </a>
-    </th>
+    </td>
   </tr>
 </table>
 
@@ -279,10 +279,10 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25" />
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-web-django">
@@ -293,10 +293,10 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Qt (PySide6)-092E20?style=for-the-badge&logo=django&logoColor=green" />
+      <img src="https://img.shields.io/badge/Qt (PySide6)-092E20?style=for-the-badge&logo=django&logoColor=green" height="25" />
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
@@ -318,21 +318,21 @@
 
 <h2 align="left">📊 Stats:</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="495" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="495" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="500" />
   </p>
 
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="600" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="500" />
     </a>
+  </p>
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" width="500" />
+  </p>
+
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="500" />
   </p>
 
 <!--
@@ -513,12 +513,15 @@
 ...
 -->
 
+<!--
 <hr>
+-->
 
 <!--
 ...
 -->
 
+<!--
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/323/323329.png" width="15" height="15" alt="United Kingdom" /> English (EN-US)
 </h2>
@@ -540,11 +543,13 @@
       </li>
     </ul>
   </p>
+-->
 
 <!--
 ...
 -->
 
+<!--
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> Português (PT-BR)
 </h2>
@@ -564,6 +569,7 @@
       </li>
     </ul>
   </p>
+-->
 
 <!--
 ...
