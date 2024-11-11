@@ -3,17 +3,17 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th colspan="2">
+    <th colspan="2" width="280" >
       <h3>
         Course
       </h3>
     </th>
-    <th colspan="1">
+    <th colspan="1"  width="120" >
       <h3>
         Subject
       </h3>
     </th>
-    <th colspan="2">
+    <th colspan="2"  width="250" >
       <h3>
         Repo
       </h3>
@@ -21,25 +21,25 @@
   </tr>
   
   <tr height ="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Udemy
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python"  height="25" />
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
       </a>
@@ -47,20 +47,20 @@
   </tr>
 
   <tr height="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Udemy
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
         🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
       </a>
@@ -68,20 +68,20 @@
   </tr>
 
   <tr height="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Harvard Online
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         🐍 <b>CS50 Python</b>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
       </a>
@@ -89,20 +89,20 @@
   </tr>
 
   <tr height="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Udemy
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         💾 <b>Atari 2600 Programming with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
       </a>
@@ -110,20 +110,20 @@
   </tr>
 
   <tr height="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Sololearn
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         #️⃣ <b>Introduction to C#</b>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
       </a>
@@ -131,20 +131,20 @@
   </tr>
 
   <tr height="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Udemy
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
         #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
       </a>
@@ -152,20 +152,20 @@
   </tr>
 
   <tr height="60">
-    <td align="left">
+    <td align="left" width="30" >
       <b>
         Sololearn
       </b>
     </td>
-    <td align="left">
+    <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
         🐍 <b>Python Intermediate</b>
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="80" >
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
-    <td align="center" colspan="2">
+    <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Exercises&logo=python&color=%233776AB&type=file" alt="python-intermediate file count" height="25" />
       </a>
