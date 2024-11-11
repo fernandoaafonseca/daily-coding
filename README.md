@@ -177,7 +177,7 @@
 ...
 -->
 
-<h2>🖥️ Programming languages studies:</h2>
+<h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
     <th colspan="1">
@@ -257,7 +257,7 @@
 ...
 -->
 
-<h2>📚 Frameworks and tools studies:</h2>
+<h2>📚 Frameworks and tools:</h2>
 <table>
   <tr>
     <th colspan="1">
