@@ -96,7 +96,7 @@
     </td>
     <td align="left" width="250" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-        💾 <b>Atari 2600 Programming with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+        💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
     <td align="center" width="80" >
