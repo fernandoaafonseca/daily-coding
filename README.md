@@ -21,10 +21,10 @@
   </tr>
   
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Udemy
     </th>
-    <th  align="left"  height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         🐍 The Modern Python 3 Bootcamp | <i>Colt Steele</i>
       </a>
@@ -43,10 +43,10 @@
   </tr>
 
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Udemy
     </th>
-    <th align="left" height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
         🐍 100 Days of Code | <i>Angela Yu</i>
       </a>
@@ -62,10 +62,10 @@
   </tr>
 
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Harvard Online
     </th>
-    <th align="left" height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         🐍 CS50 Python
       </a>
@@ -81,10 +81,10 @@
   </tr>
 
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Udemy
     </th>
-    <th align="left" height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         💾 Atari 2600 Programming with 6502 Assembly | <i>Gustavo Pezzi</i>
       </a>
@@ -100,16 +100,16 @@
   </tr>
 
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Sololearn
     </th>
-    <th align="left" height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         #️⃣ Introduction to C#
       </a>
     </th>
     <th>
-      <img src="https://img.shields.io/badge/C%23-A179DC?style=for-the-badge&logo=dotnet&logoColor=%23280068" />
+      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" />
     </th>
     <td>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
@@ -119,16 +119,16 @@
   </tr>
 
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Udemy
     </th>
-    <th align="left" height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
         #️⃣ Complete C# Masterclass | <i>Denis Panjuta</i>
       </a>
     </th>
     <th>
-      <img src="https://img.shields.io/badge/C%23-A179DC?style=for-the-badge&logo=dotnet&logoColor=%23280068" />
+      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" />
     </th>
     <td>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
@@ -138,10 +138,10 @@
   </tr>
 
   <tr>
-    <th align="left" width="10">
+    <th align="left">
       Sololearn
     </th>
-    <th align="left" height="25">
+    <th align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
         🐍 Python Intermediate
       </a>
@@ -162,38 +162,80 @@
 -->
 
 <h2>🖥️ Programming languages studies:</h2>
-  <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/6502-assembly-exercises?label=Assembly 6502: Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
-    </a>
-  </p>
+<table>
+  <tr>
+    <th colspan="1">
+      <h3>
+        Language
+      </h3>
+    </th>
+    <th colspan="2">
+      <h3>
+        Repo
+      </h3>
+    </th>
+  </tr>
 
-  <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-challenges?label=C%23: Challenges&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-challenges file count" height="25" />
-    </a>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-exercises?label=C%23: Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
-    </a>
-  </p>
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="28"/>
+    </th>
+    <th colspan="2">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/6502-assembly-exercises?label=Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
+      </a>      
+    </th>
+  </tr>
 
-  <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-challenges?label=JavaScript: Challenges&logo=javascript&color=%23F7DF1E&type=file" alt="javascript-challenges file count" height="25" />
-    </a>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-web-exercises-html-css?label=JavaScript: Exercises&logo=google-chrome&color=%23F7DF1E&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
-    </a>
-  </p>
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" />
+    </th>
+    <th>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-challenges?label=Challenges&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-challenges file count" height="25" />
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-exercises">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-exercises?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
+      </a>
+    </th>
+  </tr>
 
-  <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-challenges">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-challenges?label=Python: Challenges&logo=python&color=%233776AB&type=file" alt="python-challenges file count" height="25" />
-    </a>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-exercises">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-exercises?label=Python: Exercises&logo=python&color=%233776AB&type=dir" alt="python-exercises file count" height="25" />
-    </a>
-  </p>
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    </th>
+    <th>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-challenges?label=Challenges&logo=javascript&color=%23F7DF1E&type=file" alt="javascript-challenges file count" height="25" />
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-web-exercises-html-css?label=Web Exercises&logo=google-chrome&color=%23F7DF1E&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
+      </a>
+    </th>
+  </tr>
+
+  <tr>
+    <th align="left">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+    </th>
+    <th align="left">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-challenges">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="python-challenges file count" height="25" />
+      </a>
+    </th>
+    <th>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-exercises">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-exercises?label=Exercises&logo=python&color=%233776AB&type=dir" alt="python-exercises file count" height="25" />
+      </a>
+    </th>
+  </tr>
+</table>
+
 
 <!--
 ...
