@@ -13,143 +13,159 @@
         Subject
       </h3>
     </th>
-    <th colspan="1">
+    <th colspan="2">
       <h3>
         Repo
       </h3>
     </th>
   </tr>
   
-  <tr>
-    <th align="left">
-      Udemy
-    </th>
-    <th align="left">
+  <tr height ="60">
+    <td align="left">
+      <b>
+        Udemy
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
-        🐍 The Modern Python 3 Bootcamp | <i>Colt Steele</i>
+        🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python"  height="25" />
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
       </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
       </a>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">
-      Udemy
-    </th>
-    <th align="left">
+  <tr height="60">
+    <td align="left">
+      <b>
+        Udemy
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-        🐍 100 Days of Code | <i>Angela Yu</i>
+        🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
       </a>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">
-      Harvard Online
-    </th>
-    <th align="left">
+  <tr height="60">
+    <td align="left">
+      <b>
+        Harvard Online
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        🐍 CS50 Python
+        🐍 <b>CS50 Python</b>
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
       </a>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">
-      Udemy
-    </th>
-    <th align="left">
+  <tr height="60">
+    <td align="left">
+      <b>
+        Udemy
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-        💾 Atari 2600 Programming with 6502 Assembly | <i>Gustavo Pezzi</i>
+        💾 <b>Atari 2600 Programming with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
       </a>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">
-      Sololearn
-    </th>
-    <th align="left">
+  <tr height="60">
+    <td align="left">
+      <b>
+        Sololearn
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         #️⃣ Introduction to C#
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
       </a>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">
-      Udemy
-    </th>
-    <th align="left">
+  <tr height="60">
+    <td align="left">
+      <b>
+        Udemy
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
         #️⃣ Complete C# Masterclass | <i>Denis Panjuta</i>
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
       </a>
     </td>
   </tr>
 
-  <tr>
-    <th align="left">
-      Sololearn
-    </th>
-    <th align="left">
+  <tr height="60">
+    <td align="left">
+      <b>
+        Sololearn
+      </b>
+    </td>
+    <td align="left">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
         🐍 Python Intermediate
       </a>
-    </th>
-    <th>
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
-    </th>
-    <td>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+    </td>
+    <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Exercises&logo=python&color=%233776AB&type=file" alt="python-intermediate file count" height="25" />
       </a>
@@ -242,14 +258,53 @@
 -->
 
 <h2>📚 Frameworks and tools studies:</h2>
-  <p>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-web-django">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-web-django?label=Python: Web using Django&logo=django&color=%23092E20&logoColor=%23092E20&type=dir" alt="python-web-django file count" height="25" />
-    </a>
-    <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
-      <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Python: GUI apps using Qt (Pyside6)&logo=qt&color=%2341CD52&type=dir" alt="pyside6-qt file count" height="25" />
-    </a>
-  </p>
+<table>
+  <tr>
+    <th colspan="1">
+      <h3>
+        Language
+      </h3>
+    </th>
+    <th colspan="1">
+      <h3>
+        Framework
+      </h3>
+    </th>
+    <th colspan="1">
+      <h3>
+        Repo
+      </h3>
+    </th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-web-django">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-web-django?label=Python: Web using Django&logo=django&color=%23092E20&logoColor=%23092E20&type=dir" alt="python-web-django file count" height="25" />
+      </a>    
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Qt (PySide6)-092E20?style=for-the-badge&logo=django&logoColor=green" />
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Python: GUI apps using Qt (PySide6)&logo=qt&color=%2341CD52&type=dir" alt="pyside6-qt file count" height="25" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 ...
