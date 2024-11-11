@@ -21,6 +21,7 @@ public class Program
         double foot = Convert.ToDouble(Console.ReadLine());
         double inches = Converter(foot);
         Console.WriteLine(inches);
+
         RunSimpleTests();
     }
 
@@ -41,22 +42,22 @@ public class Program
         inches = Converter(foot);
         expectedResult = 96;
         Console.WriteLine(inches == expectedResult);
-        
+
         foot = 55;
         inches = Converter(foot);
         expectedResult = 660;
         Console.WriteLine(inches == expectedResult);
-        
+
         foot = 12;
         inches = Converter(foot);
         expectedResult = 144;
         Console.WriteLine(inches == expectedResult);
-        
+
         foot = 1000;
         inches = Converter(foot);
         expectedResult = 12000;
         Console.WriteLine(inches == expectedResult);
-        
+
         foot = 1;
         inches = Converter(foot);
         expectedResult = 12;
