@@ -8,7 +8,7 @@
         Course
       </h3>
     </th>
-    <th colspan="1"  width="120" >
+    <th colspan="1"  width="160" >
       <h3>
         Subject
       </h3>
