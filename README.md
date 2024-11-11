@@ -282,7 +282,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25" />
+      <img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=%23092E20" height="25" />
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-web-django">
@@ -296,7 +296,7 @@
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Qt (PySide6)-092E20?style=for-the-badge&logo=django&logoColor=green" height="25" />
+      <img src="https://img.shields.io/badge/Qt (PySide6)-000000?style=for-the-badge&logo=qt&logoColor=41CD52" height="25" />
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
