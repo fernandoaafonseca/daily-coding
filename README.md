@@ -8,12 +8,12 @@
         Course
       </h3>
     </th>
-    <th colspan="1"  width="160" >
+    <th colspan="1"  width="80" >
       <h3>
         Subject
       </h3>
     </th>
-    <th colspan="2"  width="250" >
+    <th colspan="1"  width="160" >
       <h3>
         Repo
       </h3>
@@ -38,8 +38,6 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
       </a>
-    </td>
-    <td align="center" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
       </a>
