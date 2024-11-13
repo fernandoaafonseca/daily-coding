@@ -3,12 +3,12 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th colspan="1" >
+    <th>
       <h3>
         Course
       </h3>
     </th>
-    <th width="200">
+    <th width="220">
       <h3>
         Repo
       </h3>
@@ -193,7 +193,7 @@
         Language
       </h3>
     </th>
-    <th width="200">
+    <th width="220">
       <h3>
         Repo
       </h3>
@@ -272,7 +272,7 @@
         Language / Framework
       </h3>
     </th>
-    <th width="200">
+    <th width="220">
       <h3>
         Repo
       </h3>
@@ -286,7 +286,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-web-django">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-web-django?label=Web using Django&logo=django&color=%23092E20&logoColor=%23092E20&type=dir" alt="python-web-django file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-web-django?label=Django&logo=django&color=%23092E20&logoColor=%23092E20&type=dir" alt="python-web-django file count" height="25" />
       </a>    
     </td>
   </tr>
@@ -298,7 +298,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=GUI apps using Qt (PySide6)&logo=qt&color=%2341CD52&type=dir" alt="pyside6-qt file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Qt (PySide6)&logo=qt&color=%2341CD52&type=dir" alt="pyside6-qt file count" height="25" />
       </a>
     </td>
   </tr>
