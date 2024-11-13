@@ -185,7 +185,7 @@
       <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
     </td>
     <td align="center" colspan="2" width="80" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-08-sololearn-c-sharp-intermediate">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-08-sololearn-c-sharp-intermediate?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-intermediate file count" height="25" />
       </a>
     </td>
