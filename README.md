@@ -202,7 +202,9 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly">
+        <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      </a>
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
@@ -213,7 +215,9 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp">
+        <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges">
@@ -227,7 +231,9 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="25" />
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
@@ -241,7 +247,9 @@
 
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python">
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      </a>
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-challenges">
