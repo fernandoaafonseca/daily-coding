@@ -188,12 +188,12 @@
 <h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
-    <th colspan="1">
+    <th>
       <h3>
         Language
       </h3>
     </th>
-    <th colspan="2">
+    <th width="200">
       <h3>
         Repo
       </h3>
@@ -219,8 +219,6 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-challenges?label=Challenges&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-challenges file count" height="25" />
       </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c-sharp/c-sharp-exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c-sharp/c-sharp-exercises?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-exercises file count" height="25" />
       </a>
@@ -235,8 +233,6 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-challenges?label=Challenges&logo=javascript&color=%23F7DF1E&type=file" alt="javascript-challenges file count" height="25" />
       </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-web-exercises-html-css?label=Web Exercises&logo=google-chrome&color=%23F7DF1E&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
       </a>
@@ -251,8 +247,6 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="python-challenges file count" height="25" />
       </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-exercises?label=Exercises&logo=python&color=%233776AB&type=dir" alt="python-exercises file count" height="25" />
       </a>
@@ -273,17 +267,12 @@
 <h2>📚 Frameworks and tools:</h2>
 <table>
   <tr>
-    <th colspan="1">
+    <th>
       <h3>
-        Language
+        Language / Framework
       </h3>
     </th>
-    <th colspan="1">
-      <h3>
-        Framework
-      </h3>
-    </th>
-    <th colspan="1">
+    <th width="200">
       <h3>
         Repo
       </h3>
@@ -293,8 +282,6 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Django-FFFFFF?style=for-the-badge&logo=django&logoColor=%23092E20" height="25" />
     </td>
     <td align="center">
@@ -307,8 +294,6 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
-    </td>
-    <td align="center">
       <img src="https://img.shields.io/badge/Qt (PySide6)-000000?style=for-the-badge&logo=qt&logoColor=41CD52" height="25" />
     </td>
     <td align="center">
