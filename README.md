@@ -3,17 +3,12 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th colspan="2" width="280" >
+    <th colspan="1" >
       <h3>
         Course
       </h3>
     </th>
-    <th colspan="1"  width="80" >
-      <h3>
-        Subject
-      </h3>
-    </th>
-    <th colspan="1"  width="160" >
+    <th width="200">
       <h3>
         Repo
       </h3>
@@ -21,49 +16,37 @@
   </tr>
   
   <tr height ="60">
-    <td align="left" width="30" >
-      <b>
-        Udemy
-      </b>
-    </td>
-    <td align="left" width="250" >
+    <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
-        🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+        <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
     </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python"  height="25" />
-    </td>
-    <td align="center" width="80" >
+    <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
+         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
       </a>
     </td>
   </tr>
 
   <tr height="60">
-    <td align="left" width="30" >
-      <b>
-        Udemy
-      </b>
-    </td>
-    <td align="left" width="250" >
+    <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-        🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
+         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+         <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
     </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
-    </td>
-    <td align="center" colspan="2" width="80" >
+    <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
       </a>
     </td>
   </tr>
+  </table>
+  <table>
 
   <tr height="60">
     <td align="left" width="30" >
