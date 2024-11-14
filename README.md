@@ -50,7 +50,7 @@
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
-        🐍 <i>Harvard Online</i> | <b>CS50 Python</b>
+        <i>Harvard Online</i> | 🐍 <b>CS50 Python</b>
       </a>
     </td>
     <td align="center" >
