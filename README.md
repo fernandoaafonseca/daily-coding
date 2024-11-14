@@ -45,24 +45,15 @@
       </a>
     </td>
   </tr>
-  </table>
-  <table>
 
   <tr height="60">
-    <td align="left" width="30" >
-      <b>
-        Harvard Online
-      </b>
-    </td>
-    <td align="left" width="250" >
+    <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        🐍 <b>CS50 Python</b>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+        🐍 <i>Harvard Online</i> | <b>CS50 Python</b>
       </a>
     </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
-    </td>
-    <td align="center" colspan="2" width="80" >
+    <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&logo=python&color=%233776AB&type=file" alt="cs50p file count" height="25" />
       </a>
