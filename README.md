@@ -18,7 +18,7 @@
   <tr height ="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
           <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
     </td>
