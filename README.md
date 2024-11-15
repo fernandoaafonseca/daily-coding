@@ -82,18 +82,11 @@
   </tr>
 
   <tr height="60">
-    <td align="left" width="30" >
-      <b>
-        Sololearn
-      </b>
-    </td>
-    <td align="left" width="250" >
+    <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
-        #️⃣ <b>Introduction to C#</b>
+        <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+        <i>Sololearn</i> | #️⃣ <b>Introduction to C#</b>
       </a>
-    </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
