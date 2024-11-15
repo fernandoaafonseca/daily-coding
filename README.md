@@ -8,14 +8,14 @@
         Course
       </h3>
     </th>
-    <th width="220">
+    <th width="220" >
       <h3>
         Repo
       </h3>
     </th>
   </tr>
   
-  <tr height ="60">
+  <tr height ="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
@@ -32,7 +32,7 @@
     </td>
   </tr>
 
-  <tr height="60">
+  <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
@@ -46,7 +46,7 @@
     </td>
   </tr>
 
-  <tr height="60">
+  <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
@@ -60,7 +60,7 @@
     </td>
   </tr>
 
-  <tr height="60">
+  <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
@@ -74,7 +74,7 @@
     </td>
   </tr>
 
-  <tr height="60">
+  <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
@@ -88,7 +88,7 @@
     </td>
   </tr>
 
-  <tr height="60">
+  <tr height="60" >
     <td align="left" width="30" >
       <b>
         Udemy
@@ -109,7 +109,7 @@
     </td>
   </tr>
 
-  <tr height="60">
+  <tr height="60" >
     <td align="left" width="30" >
       <b>
         Sololearn
@@ -130,7 +130,7 @@
     </td>
   </tr>
   
-  <tr height="60">
+  <tr height="60" >
     <td align="left" width="30" >
       <b>
         Sololearn
