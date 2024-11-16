@@ -88,25 +88,14 @@
     </td>
   </tr>
 
-<<<<<<< Updated upstream
   <tr height="60" >
-    <td align="left" width="30" >
-      <b>
-        Udemy
-      </b>
-    </td>
-    <td align="left" width="250" >
-=======
-  <tr height="60">
     <td align="left" >
->>>>>>> Stashed changes
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
           <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
-            <i>Udemy</i>#️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
-sdss
+            <i>Udemy</i> | #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
       </a>
     </td>
-    <td align="center" colspan="2" width="80" >
+    <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
       </a>
@@ -114,18 +103,11 @@ sdss
   </tr>
 
   <tr height="60" >
-    <td align="left" width="30" >
-      <b>
-        Sololearn
-      </b>
-    </td>
-    <td align="left" width="250" >
+    <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
-        🐍 <b>Python Intermediate</b>
+        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+          <i>Sololearn</i> | 🐍 <b>Python Intermediate</b>
       </a>
-    </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
@@ -135,18 +117,11 @@ sdss
   </tr>
   
   <tr height="60" >
-    <td align="left" width="30" >
-      <b>
-        Sololearn
-      </b>
-    </td>
-    <td align="left" width="250" >
+    <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-08-sololearn-c-sharp-intermediate">
-        #️⃣ <b>C# Intermediate</b>
+        <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+          <i>Sololearn</i> | #️⃣ <b>C# Intermediate</b>
       </a>
-    </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-08-sololearn-c-sharp-intermediate">
