@@ -88,6 +88,7 @@
     </td>
   </tr>
 
+<<<<<<< Updated upstream
   <tr height="60" >
     <td align="left" width="30" >
       <b>
@@ -95,12 +96,15 @@
       </b>
     </td>
     <td align="left" width="250" >
+=======
+  <tr height="60">
+    <td align="left" >
+>>>>>>> Stashed changes
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
-        #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
+          <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+            <i>Udemy</i>#️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
+sdss
       </a>
-    </td>
-    <td align="center" width="80" >
-      <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
