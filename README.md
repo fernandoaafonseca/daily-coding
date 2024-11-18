@@ -19,6 +19,9 @@
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
           <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
     </td>
@@ -32,10 +35,17 @@
     </td>
   </tr>
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
          <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
            <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
     </td>
@@ -46,10 +56,17 @@
     </td>
   </tr>
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
           <i>Harvard Online</i> | 🐍 <b>CS50 Python</b>
       </a>
     </td>
@@ -60,10 +77,17 @@
     </td>
   </tr>
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
           <i>Udemy</i> |💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
@@ -74,10 +98,17 @@
     </td>
   </tr>
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
         <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
           <i>Sololearn</i> | #️⃣ <b>Introduction to C#</b>
       </a>
     </td>
@@ -88,10 +119,17 @@
     </td>
   </tr>
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
           <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
             <i>Udemy</i> | #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
       </a>
     </td>
@@ -102,10 +140,17 @@
     </td>
   </tr>
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
           <i>Sololearn</i> | 🐍 <b>Python Intermediate</b>
       </a>
     </td>
@@ -116,10 +161,17 @@
     </td>
   </tr>
   
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-08-sololearn-c-sharp-intermediate">
         <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+        </a>
+        <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-08-sololearn-c-sharp-intermediate">
           <i>Sololearn</i> | #️⃣ <b>C# Intermediate</b>
       </a>
     </td>
