@@ -85,6 +85,9 @@
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
         <img src="https://img.shields.io/badge/6502 Assembly-821510?style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
           <i>Udemy</i> |💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
