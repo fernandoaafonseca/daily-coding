@@ -88,7 +88,7 @@
       </a>
       <br>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-          <i>Udemy</i> |💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+          <i>Udemy</i> | 💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
     <td align="center" colspan="2" width="80" >
