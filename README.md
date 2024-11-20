@@ -1,6 +1,3 @@
-.|.
-
-
 <h1 align="center">👨‍💻 Daily coding: my learning journey</h1>
 
 <h2>🧑🏻‍🎓 Courses:</h2>
