@@ -201,7 +201,7 @@
         Language
       </h3>
     </th>
-    <th width="220">
+    <th>
       <h3>
         Repo
       </h3>
