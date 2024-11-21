@@ -196,12 +196,12 @@
 <h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
-    <th width="200" >
+    <th width="180" >
       <h3>
         Language
       </h3>
     </th>
-    <th width="200" >
+    <th width="180" >
       <h3>
         Repo
       </h3>
