@@ -3,19 +3,19 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th>
+    <th width="200" >
       <h3>
         Course
       </h3>
     </th>
-    <th width="220" >
+    <th width="200" >
       <h3>
         Repo
       </h3>
     </th>
   </tr>
   
-  <tr height ="60" >
+  <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
