@@ -3,12 +3,12 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th width="180" >
+    <th width="360" >
       <h3>
         Course
       </h3>
     </th>
-    <th width="180" >
+    <th width="360" >
       <h3>
         Repo
       </h3>
