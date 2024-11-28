@@ -1,6 +1,5 @@
 {
     "editor.wordWrap": "on",
-    "terminal.integrated.sendKeybindingsToShell": true,
     "cmake.configureOnOpen": false,
     "python.linting.pylintEnabled": false,
     "python.linting.enabled": false,
