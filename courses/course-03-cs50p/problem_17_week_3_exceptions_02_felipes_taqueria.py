@@ -67,7 +67,7 @@ def main():
         display_total_price(total_price)
 
 
-def get_item():
+def get_item() -> str:
     return input('Item: ').title()
 
 
