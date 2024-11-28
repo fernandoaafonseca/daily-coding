@@ -196,12 +196,12 @@
 <h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
-    <th width="180" >
+    <th width="240" >
       <h3>
         Language
       </h3>
     </th>
-    <th width="180" >
+    <th width="240" >
       <h3>
         Repo
       </h3>
@@ -283,12 +283,12 @@
 <h2>📚 Frameworks and tools:</h2>
 <table>
   <tr>
-    <th width="180" >
+    <th width="240" >
       <h3>
         Language / Framework
       </h3>
     </th>
-    <th width="180" >
+    <th width="240" >
       <h3>
         Repo
       </h3>
