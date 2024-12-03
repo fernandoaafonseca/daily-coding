@@ -3,12 +3,12 @@
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th width="250" >
+    <th width="375" >
       <h3>
         Course
       </h3>
     </th>
-    <th width="250" >
+    <th width="375" >
       <h3>
         Repo
       </h3>
@@ -196,12 +196,12 @@
 <h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
-    <th width="250" >
+    <th width="375" >
       <h3>
         Language
       </h3>
     </th>
-    <th width="250" >
+    <th width="375" >
       <h3>
         Repo
       </h3>
@@ -283,12 +283,12 @@
 <h2>📚 Frameworks and tools:</h2>
 <table>
   <tr>
-    <th width="250" >
+    <th width="375" >
       <h3>
         Language / Framework
       </h3>
     </th>
-    <th width="250" >
+    <th width="375" >
       <h3>
         Repo
       </h3>
@@ -332,12 +332,12 @@
 
 <h2 align="left">📊 Stats:</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="500" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="750" />
   </p>
 
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="500" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="750" />
     </a>
   </p>
 
@@ -346,7 +346,7 @@
   </p>
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="850" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="750" />
   </p>
 
 <!--
