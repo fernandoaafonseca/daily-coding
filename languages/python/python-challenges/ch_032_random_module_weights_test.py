@@ -116,10 +116,10 @@ def count_repetitions(cards_faces: list[str], cards_chosen: list[str]) -> list[i
 def display_results(cards_faces: list[str], cards_weights: list[int], num_of_tests: int, expected_results: list[int], repetitions: list[int]) -> None:
     '''
     Display the results of the simulation, including:
-    - The card faces and weights.
-    - The number of tests.
-    - The statistically expected results.
-    - The actual results.
+        - The card faces and weights.
+        - The number of tests.
+        - The statistically expected results.
+        - The actual results.
     '''
     # Display card faces and weights
     print('=' * 20)
@@ -160,3 +160,36 @@ def display_results(cards_faces: list[str], cards_weights: list[int], num_of_tes
 
 if __name__ == '__main__':
     main()
+
+
+'''
+Results of my test of the "random" module using 100 million draws:
+
+Enter the number of tests: 100000000
+====================
+Card faces and their weights:
+
+Face: Jack - Weight: 60
+Face: Queen - Weight: 30
+Face: King - Weight: 10
+====================
+Number of tests: 100000000
+====================
+Results:
+
+Jack: 59996145
+Queen: 30007555
+King: 9996300
+====================
+Comparison (Actual vs Expected):
+
+Jack:
+Expected 60000000, Got 59996145 | AE: 3855 | RE: 0.01%
+--------------------
+Queen:
+Expected 30000000, Got 30007555 | AE: 7555 | RE: 0.03%
+--------------------
+King:
+Expected 10000000, Got 9996300 | AE: 3700 | RE: 0.04%
+====================
+'''
