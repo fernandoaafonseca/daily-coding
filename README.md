@@ -1,3 +1,7 @@
+<!--
+...
+...
+-->
 <h1 align="center">👨‍💻 Daily coding</h1>
 
 <h2>🧑🏻‍🎓 Courses:</h2>
