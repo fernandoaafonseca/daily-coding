@@ -11,7 +11,7 @@
         Course
       </h3>
     </th>
-    <th width="400" >
+    <th width="400" colspan="2">
       <h3>
         Repo
       </h3>
@@ -27,6 +27,9 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
           <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
+    </td>
+    <td align="center" >
+        ✔️
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
@@ -51,6 +54,9 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
            <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
+    <td align="center" >
+        ⏳
+    </td>
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
@@ -72,6 +78,9 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
           <i>Harvard Online</i> | 🐍 <b>CS50 Python</b>
       </a>
+    <td align="center" >
+        ⏳
+    </td>
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
