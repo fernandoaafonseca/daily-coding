@@ -11,7 +11,7 @@
         Course
       </h3>
     </th>
-    <th width="400" >
+    <th width="400" colspan="2">
       <h3>
         Repo
       </h3>
@@ -27,6 +27,9 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
           <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
+    </td>
+    <td align="center" >
+        ✔️
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
@@ -51,6 +54,9 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
            <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
+    <td align="center" >
+        ⏳
+    </td>
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
@@ -72,6 +78,9 @@
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
           <i>Harvard Online</i> | 🐍 <b>CS50 Python</b>
       </a>
+    <td align="center" >
+        ⏳
+    </td>
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
@@ -84,19 +93,23 @@
 ...
 -->
 
+<!--
+...
+-->
+
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-        <img src="https://img.shields.io/badge/6502 Assembly-821510?&style=plastic&logo=gnometerminal&logoColor=%23000000" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
+        <img src="https://img.shields.io/badge/C%23-280068?style=plastic&logo=dotnet&logoColor=%23A179DC" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-          <i>Udemy</i> | 💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
+          <i>Sololearn</i> | #️⃣ <b>Introduction to C#</b>
       </a>
     </td>
-    <td align="center" colspan="2" width="80" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&style=plastic&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+    <td align="center" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Exercises&style=plastic&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
       </a>
     </td>
   </tr>
@@ -107,16 +120,16 @@
 
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-freecodecamp-foundational-c-sharp-with-microsoft-learn">
         <img src="https://img.shields.io/badge/C%23-280068?style=plastic&logo=dotnet&logoColor=%23A179DC" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
-          <i>Sololearn</i> | #️⃣ <b>Introduction to C#</b>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-freecodecamp-foundational-c-sharp-with-microsoft-learn">
+          <i>freecodecamp / Microsoft Learn </i> | #️⃣ <b>Foundational C#</b>
       </a>
     </td>
     <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-freecodecamp-foundational-c-sharp-with-microsoft-learn">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-introduction-to-c-sharp?label=Exercises&style=plastic&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
       </a>
     </td>
@@ -149,17 +162,38 @@
 
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
+        <img src="https://img.shields.io/badge/6502 Assembly-821510?&style=plastic&logo=gnometerminal&logoColor=%23000000" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
+          <i>Udemy</i> | 💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+      </a>
+    </td>
+    <td align="center" colspan="2" width="80" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&style=plastic&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+      </a>
+    </td>
+  </tr>
+
+<!--
+...
+-->
+
+  <tr height="60" >
+    <td align="left" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-sololearn-python-intermediate">
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-sololearn-python-intermediate">
           <i>Sololearn</i> | 🐍 <b>Python Intermediate</b>
       </a>
     </td>
     <td align="center" colspan="2" width="80" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-python-intermediate">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Exercises&logo=python&color=%233776AB&type=file" alt="python-intermediate file count" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-sololearn-python-intermediate">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-python-intermediate?label=Exercises&logo=python&color=%233776AB&type=file" alt="sololearn-python-intermediate file count" height="25" />
       </a>
     </td>
   </tr>
@@ -180,7 +214,7 @@
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-08-sololearn-c-sharp-intermediate">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-08-sololearn-c-sharp-intermediate?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="c-sharp-intermediate file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-08-sololearn-c-sharp-intermediate?label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="sololearn-c-sharp-intermediate file count" height="25" />
       </a>
     </td>
   </tr>
