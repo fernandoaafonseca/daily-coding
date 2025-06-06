@@ -13,7 +13,7 @@ Randomly generates ten (10) math problems formatted as X + Y = , wherein each of
  digits. No need to support operations other than addition (+).
 Prompts the user to solve each of those problems. If an answer is not correct (or not even a number), the program should output EEE and prompt the user again, allowing the user up to three tries in total for that problem. If the user has still not answered correctly after three tries, the program should output the correct answer.
 The program should ultimately output the user’s score: the number of correct answers out of 10.
-Structure your program as follows, wherein get_level prompts (and, if need be, re-prompts) the user for a level and returns 1, 2, or 3, and generate_integer returns a randomly generated non-negative integer with level digits or raises a ValueError if level is not 1, 2, or 3:
+Structure your program as follows, wherein get_level prompts (and, if need be, re-prompts) the user for a level and returns 1, 2, or 3, and generate_integereger returns a randomly generated non-negative integer with level digits or raises a ValueError if level is not 1, 2, or 3:
 
 import random
 
@@ -26,7 +26,7 @@ def get_level():
     ...
 
 
-def generate_integer(level):
+def generate_integereger(level):
     ...
 
 
@@ -47,32 +47,65 @@ import sys
 
 
 def main():
+    num_of_problems = 10
     level = get_level()
-    generated_num = gen_random_num(level)
-    is_game_over = False
-    game_engine(is_game_over, generated_num)
+    problem_set = generate_problem_set(level, num_of_problems)
+    game_engine(problem_set)
 
 
 def get_level() -> int:
+    accepted_levels = [1, 2, 3]
     while True:
         try:
             level = int(input('Level: '))
-            if level >= 1:
+            if level in accepted_levels:
                 return level
             else:
-                continue
+                raise ValueError
         except:
             continue
 
 
-def gen_random_num(level: int) -> int:
-    return random.randint(1, level)
+def generate_integer(level: int) -> tuple[int]:
+    try:
+        if level in [1, 2, 3]:
+            match level:
+                case 1:
+                    min_num = 0
+                    max_num = 9
+                case 2:
+                    min_num = 10
+                    max_num = 99
+                case 3:
+                    min_num = 100
+                    max_num = 999
+
+            return random.randint(min_num, max_num)
+
+    except:
+        raise ValueError
+
+
+def generate_problem_set(level: int, num_of_problems: int) -> list:
+    problem_set = []
+
+    for i in range(num_of_problems):
+        problem_num = i + 1
+        x = generate_integer(level)
+        y = generate_integer(level)
+        result = x + y
+        problem_set.append({'Problem #': problem_num,
+                           'x': x,
+                            'y': y,
+                            'Result': result})
+
+    return problem_set
 
 
 def get_user_guess() -> int:
     while True:
         try:
-            user_guess = int(input('Guess: '))
+            user_guess = int(input('\nGuess: '))
             break
         except:
             continue
@@ -80,29 +113,38 @@ def get_user_guess() -> int:
     return user_guess
 
 
-def check_user_guess(user_guess: int, generated_num: int, is_game_over: bool) -> list[bool, str]:
-    if user_guess == generated_num:
-        text = 'Just right!'
-        is_game_over = True
-    elif user_guess >= generated_num:
-        text = 'Too large!'
-        is_game_over = False
-    else:
-        text = 'Too small!'
-        is_game_over = False
+def game_engine(problem_set: list) -> None:
+    current_problem_num = 1
+    qty_of_problems = len(problem_set)
+    user_num_of_tries = 3
+    user_score = 0
 
-    return text, is_game_over
+    while current_problem_num <= qty_of_problems:
+        current_problem = problem_set[current_problem_num - 1]
+        result = current_problem['Result']
 
+        print(f'{current_problem['x']} + {current_problem['y']} = ')
 
-def game_engine(is_game_over: bool, generated_num: int) -> None:
-    while True:
-        if not is_game_over:
+        if user_num_of_tries > 0:
             user_guess = get_user_guess()
-            text, is_game_over = check_user_guess(
-                user_guess, generated_num, is_game_over)
-            print(text)
+            if user_guess == result:
+                user_score += 1
+                current_problem_num += 1
+            else:
+                print('EEE')
+                user_num_of_tries -= 1
+
         else:
-            sys.exit()
+            print(
+                f'{current_problem['x']} + {current_problem['y']} = {result}')
+            if current_problem_num <= qty_of_problems:
+                user_num_of_tries = 3
+                current_problem_num += 1
+            else:
+                break
+
+    print(f'{user_score}')
+    sys.exit()
 
 
 if __name__ == '__main__':
