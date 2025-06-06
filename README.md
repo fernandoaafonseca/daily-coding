@@ -84,7 +84,7 @@
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problems&style=for-the-badge&logo=python&color=%233776AB&type=dir" alt="cs50p file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problem Sets&style=for-the-badge&logo=python&color=%233776AB&type=dir" alt="cs50p file count" height="25" />
       </a>
     </td>
   </tr>
