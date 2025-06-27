@@ -1,8 +1,0 @@
-'''
-Find the sum of all even elements of the Fibonacci sequence with values less than 1,000,000 (1 million).
-
-Present the solution in the form of a function called "calculate()". In response, call "calculate()" function and print the result to the console.
-'''
-
-
-# Expected result: 1.089.154
