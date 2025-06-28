@@ -8,7 +8,7 @@ Expected result: 1,089,154.
 
 
 def main():
-    upper_bound = 100
+    upper_bound = 1000000
     expected_result = 1089154
 
     fibonacci_even_numbers = even_numbers_fibonacci_sequence(upper_bound)
@@ -25,10 +25,10 @@ def even_numbers_fibonacci_sequence(upper_bound: int) -> list[int]:
     last_number = 0
     current_number = 1
 
-    while current_number < upper_bound:
+    while last_number < upper_bound:
         next_number = last_number + current_number
 
-        if next_number % 2 == 0 and next_number <= upper_bound:
+        if next_number % 2 == 0:
             fibonacci_even_numbers.append(next_number)
 
         last_number = current_number
