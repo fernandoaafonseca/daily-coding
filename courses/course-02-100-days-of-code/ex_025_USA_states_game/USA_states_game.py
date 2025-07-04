@@ -39,24 +39,26 @@ def final_screen():
         pointer.goto(0, 50)
         pointer.write(f'CONGRATULATIONS!', font=BIG_FONT, align='center')
         pointer.goto(0, -50)
-        pointer.write(f'You know all the USA States!', font=BIG_FONT, align='center')
+        pointer.write(f'You know all the USA States!',
+                      font=BIG_FONT, align='center')
 
     else:
         pointer.goto(-200, 50)
         pointer.write(f'GAME OVER!', font=BIG_FONT, align='center')
 
         pointer.goto(-200, -50)
-        pointer.write(f'You guessed {len(guessed_states)}/50 States', font=BIG_FONT, align='center')
+        pointer.write(
+            f'You guessed {len(guessed_states)}/50 States', font=BIG_FONT, align='center')
 
         pointer.color('white')
         pointer.goto(250, 400)
-        pointer.write(f'Missing States:',font=BIG_FONT,  align='center')
+        pointer.write(f'Missing States:', font=BIG_FONT,  align='center')
 
         pointer.goto(250, 350)
         for missing_state in missing_states:
             new_y = pointer.ycor() - 15
             pointer.goto(pointer.xcor(), new_y)
-            pointer.write(f'{missing_state}',font=SMALL_FONT,  align='center')
+            pointer.write(f'{missing_state}', font=SMALL_FONT,  align='center')
 
     screen.exitonclick()
 
@@ -69,14 +71,15 @@ def game_engine():
             final_screen()
             game_over = True
             break
-        
-        user_input = screen.textinput(title='Guess the State', prompt=f'Right answers: {len(guessed_states)}/50\n\nGuess a State name:')
-        
+
+        user_input = screen.textinput(
+            title='Guess the State', prompt=f'Right answers: {len(guessed_states)}/50\n\nGuess a State name:')
+
         if user_input == None:
             final_screen()
             game_over = True
             break
-        
+
         answer = user_input.strip().title()
 
         if answer in states and answer not in guessed_states:
@@ -91,7 +94,7 @@ def game_engine():
             pointer.hideturtle()
             pointer.write(answer, font=SMALL_FONT)
             guessed_states.append(answer)
-        
+
 
 df = pd.read_csv(CSV_FILE)
 states = df['state'].to_list()
