@@ -59,7 +59,7 @@ class GetRequests:
 
 
     def read_categories_csv(self):
-        with open('data/050_categories.csv', mode='r') as file:
+        with open('data/categories.csv', mode='r') as file:
             reader = csv.reader(file)
             categories_list_raw = next(reader)
             categories_list = [eval(string_tuple) for string_tuple in categories_list_raw]
@@ -75,7 +75,7 @@ class GetRequests:
         if not os.path.exists('data'):
             os.makedirs('data')
 
-        with open('data/050_categories.csv', mode='w', newline='') as file:
+        with open('data/categories.csv', mode='w', newline='') as file:
             writer = csv.writer(file)
             writer.writerow(self.categories_list)
             writer.writerow(self.categories_ids)
