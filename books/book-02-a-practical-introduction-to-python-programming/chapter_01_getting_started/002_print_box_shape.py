@@ -11,7 +11,7 @@ Print a box like the one below.
 def main() -> None:
 	for row in range(4):
 		if row in [0, 3]:
-			print('*' *19)
+			print('*' * 19)
 		else:
 			for column in range(19):
 				#print(column)
