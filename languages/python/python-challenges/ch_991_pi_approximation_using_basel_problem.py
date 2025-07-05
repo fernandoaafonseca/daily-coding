@@ -15,6 +15,7 @@ As "x" increases, the sum approaches the exact solution for the infinite series,
 You can approximate the value of π by:
 (6 * (1/1² + 1/2² + ... + 1/x²)) ** 0.5 ≈ π
 '''
+summation = 0
 
 
 def calc_pi(num_terms):
@@ -29,7 +30,7 @@ def calc_pi(num_terms):
 
     for n in range(1, num_terms):
         # Accumulate the sum
-        summation += 1 / n**2
+        summation = summation + 1 / n**2
 
     '''
     Calculate pi without using the math module.
@@ -42,10 +43,6 @@ def calc_pi(num_terms):
 
 
 # Variable to define the number of terms to sum
-num_terms = 1000
-approximated_pi = calc_pi
+num_terms = 1000000
+approximated_pi = calc_pi(num_terms)
 print(f"Approximated value of π using {num_terms} terms is: {approximated_pi}")
-
-
-# Call the function to perform the calculation
-calc_pi()
