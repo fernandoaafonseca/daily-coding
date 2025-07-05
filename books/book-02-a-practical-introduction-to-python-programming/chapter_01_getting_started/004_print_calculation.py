@@ -11,7 +11,7 @@ It is roughly .1017.
 
 def main() -> None:
 	expected_result = 0.1017
-	calc_result = (512 -282) / (47 * 48 + 5)
+	calc_result = (512 - 282) / (47 * 48 + 5)
 	rounded_calc_result = round(calc_result, 4)
 
 	print(calc_result)
