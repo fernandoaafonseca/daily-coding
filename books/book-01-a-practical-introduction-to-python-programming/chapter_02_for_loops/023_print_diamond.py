@@ -25,7 +25,6 @@ def print_diamond(diamond_height: int) -> None:
 	else:
 		is_height_even = False
 
-	# 5 de altura, 3 é a linha do meio
 	if is_height_even:
 		middle_line = int((diamond_height + 1) / 2)
 	else:
