@@ -1,12 +1,6 @@
 '''
 Print the Python version to the console.
-'''
 
-
-import sys
-
-
-'''
 Example:
 
 The "split()" function separates the string into a list, which the default separator is a blank space. So the first element on the list will be the version number:
@@ -27,6 +21,11 @@ system.split() => [
     ]'
         ]
 '''
+
+
+import sys
+
+
 python_version = sys.version.split()[0]
 
 print(f'Your current Python version is: {python_version}')
