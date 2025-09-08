@@ -9,7 +9,6 @@ def main() -> None:
 	secs = get_secs()
 	total_mins, remaining_secs = convert_secs_to_mins(secs)
 	display_result(total_mins, remaining_secs)
-	pass
 
 
 def get_secs() -> int:
