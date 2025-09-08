@@ -17,7 +17,7 @@ def get_hour() -> int:
 	while True:
 		try:
 			hour = int(input('Enter hour: '))
-		except:
+		except ValueError:
 			print('Please enter a number (1 - 12).')
 			print()
 			continue
