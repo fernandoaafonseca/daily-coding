@@ -204,4 +204,7 @@ IRQ:
 ;
 ; To view the raw opcode:
 ; hexdump clearmem.nes
+;
+; To run the ROM with the FCEUX emulator:
+; fceux clearmem.nes
 ; **************************************************************************
