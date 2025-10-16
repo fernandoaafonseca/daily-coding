@@ -34,13 +34,14 @@
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&style=for-the-badge&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
+<!--
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
          <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&style=for-the-badge&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
       </a>
     </td>
   </tr>
-
+-->
 <!--
 ...
 -->
@@ -127,11 +128,11 @@
 
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
           <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-introduction-to-c-sharp">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
             <i>Udemy</i> | #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
       </a>
     </td>
@@ -139,8 +140,8 @@
         ⏳
     </td>
     <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-complete-c-sharp-masterclass?style=for-the-badge&label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-complete-c-sharp-masterclass?style=for-the-badge&label=Exercises&logo=dotnet&color=%23A179DC&logoColor=%23A179DC&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
       </a>
     </td>
   </tr>
@@ -168,7 +169,7 @@
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-atari-2600-programming-with-6502-assembly">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-atari-2600-programming-with-6502-assembly?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-atari-2600-programming-with-6502-assembly?label=Exercises&style=for-the-badge&color=%233776AB&logo=gnometerminal&logoColor=%233776AB&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
       </a>
     </td>
   </tr>
@@ -196,7 +197,7 @@
     </td>
     <td align="center" colspan="2" width="80" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&color=%233776AB&logo=gnometerminal&logoColor=%233776AB&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
       </a>
     </td>
   </tr>
