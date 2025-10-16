@@ -25,6 +25,3 @@ IRQ:
 
 ; ca65 warmup_01.asm -o warmup_01.o
 ; d65 -C nes.cfg warmup_01.o -o warmup_01.nes
-;
-; To view the raw opcode:
-; hexdump warmup_01.nes
