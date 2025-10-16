@@ -121,60 +121,10 @@
 ...
 -->
 
-  <tr height="60" >
-    <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=A8B9CC" height="25" />
-      </a>
-      <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
-          <i>Harvard Online</i> | ⌨️ <b>CS50x</b>
-      </a>
-    <td align="center" >
-        ⏳
-    </td>
-    </td>
-    <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-cs50x?label=Problem%20Sets&style=for-the-badge&logo=c&logoColor=%AA00599C&type=dir" alt="cs50x file count" height="25" />
-      </a>
-    </td>
-  </tr>
-
 <!--
 ...
 -->
 
-<!--
-======================
-COURSES TO START LATER
-======================
-
-  <tr height="60" >
-    <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
-        <img src="https://img.shields.io/badge/Lua-A8B9CC?style=for-the-badge&logo=lua&logoColor=000080" height="25" />
-      </a>
-      <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
-          <i>Harvard Online</i> | 🌛 <b>CS502D</b>
-      </a>
-    <td align="center" >
-        ⏳
-    </td>
-    </td>
-    <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-cs502d?label=Problem%20Sets&style=for-the-badge&logo=c&logoColor=%AA000080&type=dir" alt="cs502d file count" height="25" />
-      </a>
-    </td>
-  </tr>
-
-<!--
-...
--->
-
-<!--
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-complete-c-sharp-masterclass">
@@ -194,7 +144,79 @@ COURSES TO START LATER
       </a>
     </td>
   </tr>
+
+<!--
+...
 -->
+
+<!--
+...
+-->
+
+  <tr height="60" >
+    <td align="left" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-atari-2600-programming-with-6502-assembly">
+        <img src="https://img.shields.io/badge/6502 Assembly-821510?&style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-atari-2600-programming-with-6502-assembly">
+          <i>Pikuma</i> | 💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+      </a>
+    </td>
+    <td align="center" >
+        ⏳
+    </td>
+    <td align="center" colspan="2" width="80" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-atari-2600-programming-with-6502-assembly">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-atari-2600-programming-with-6502-assembly?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+      </a>
+    </td>
+  </tr>
+
+<!--
+...
+-->
+
+<!--
+...
+-->
+
+  <tr height="60" >
+    <td align="left" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
+        <img src="https://img.shields.io/badge/6502 Assembly-821510?&style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
+          <i>Pikuma</i> | 💾 <b>NES / Famicon with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+      </a>
+    </td>
+    <td align="center" >
+        ⏳
+    </td>
+    <td align="center" colspan="2" width="80" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+      </a>
+    </td>
+  </tr>
+
+
+
+<!--
+...
+-->
+
+<!--
+...
+-->
+
+<!--
+======================
+COURSES TO START LATER
+======================
+-->
+
 <!--
 ...
 -->
@@ -202,23 +224,49 @@ COURSES TO START LATER
 <!--
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-        <img src="https://img.shields.io/badge/6502 Assembly-821510?&style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
+        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=A8B9CC" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-          <i>Udemy</i> | 💾 <b>Atari 2600 with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
+          <i>Harvard Online</i> | ⌨️ <b>CS50x</b>
       </a>
-    </td>
     <td align="center" >
         ⏳
     </td>
-    <td align="center" colspan="2" width="80" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-atari-2600-programming-with-6502-assembly">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-atari-2600-programming-with-6502-assembly?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+    </td>
+    <td align="center" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-cs50x?label=Problem%20Sets&style=for-the-badge&logo=c&logoColor=%AA00599C&type=dir" alt="cs50x file count" height="25" />
       </a>
     </td>
   </tr>
+-->
+
+<!--
+  <tr height="60" >
+    <td align="left" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
+        <img src="https://img.shields.io/badge/Lua-A8B9CC?style=for-the-badge&logo=lua&logoColor=000080" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
+          <i>Harvard Online</i> | 🌛 <b>CS502D</b>
+      </a>
+    <td align="center" >
+        ⏳
+    </td>
+    </td>
+    <td align="center" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-06-cs502d?label=Problem%20Sets&style=for-the-badge&logo=c&logoColor=%AA000080&type=dir" alt="cs502d file count" height="25" />
+      </a>
+    </td>
+  </tr>
+-->
+
+<!--
+...
 -->
 
 <!--
@@ -278,15 +326,11 @@ COURSES TO START LATER
 ...
 -->
 
-
-
-
-
-
 <!--
 ...
 -->
 
+<!--
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-freecodecamp-foundational-c-sharp-with-microsoft-learn">
@@ -306,7 +350,7 @@ COURSES TO START LATER
       </a>
     </td>
   </tr>
-
+-->
 
 
 
@@ -335,6 +379,10 @@ COURSES TO START LATER
     </th>
   </tr>
 
+<!--
+ASSEMBLY
+-->
+
   <tr>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly">
@@ -347,6 +395,27 @@ COURSES TO START LATER
       </a>      
     </td>
   </tr>
+
+<!--
+C
+-->
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c">
+        <img src="https://img.shields.io/badge/C-00599?style=for-the-badge&logo=gnometerminal&logoColor=%2300599" height="25" />
+      </a>
+    </td>
+    <td align="center" colspan="2">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c/c-exercises">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c/c-exercises?label=Exercises&logo=c&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
+      </a>      
+    </td>
+  </tr>
+
+<!--
+C#
+-->
 
   <tr>
     <td align="center">
@@ -364,6 +433,10 @@ COURSES TO START LATER
     </td>
   </tr>
 
+<!--
+JavaScript
+-->
+
   <tr>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript">
@@ -375,10 +448,34 @@ COURSES TO START LATER
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-challenges?label=Challenges&logo=javascript&color=%23F7DF1E&type=file" alt="javascript-challenges file count" height="25" />
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-web-exercises-html-css?label=Web Exercises&logo=google-chrome&color=%23F7DF1E&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-web-exercises-html-css?label=Web%20Exercises&logo=google-chrome&color=%23F7DF1E&logoColor=%23F7DF1E&type=dir" alt="javascript-web-exercises-html-css file count" height="25" />
       </a>
     </td>
   </tr>
+
+<!--
+Lua
+-->
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/lua">
+        <img src="https://img.shields.io/badge/Lua-A8B9CC?style=for-the-badge&logo=lua&logoColor=%23000080" height="25" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/love2d-exercises?label=L%C3%B6ve2D%20Exercises&logo=lua&color=%23000080&logoColor=%23000080&type=dir" alt="love2d-exercises file count" height="25" />
+      </a>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/lua-exercises?label=Exercises&logo=lua&color=%23000080&logoColor=%23000080&type=file" alt="lua-exercises file count" height="25" />
+      </a>
+    </td>
+  </tr>
+
+<!--
+Python
+-->
 
   <tr>
     <td align="center">
@@ -441,7 +538,7 @@ COURSES TO START LATER
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Qt (PySide6)&logo=qt&color=%2341CD52&type=dir" alt="pyside6-qt file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Qt%20(PySide6)&logo=qt&color=%2341CD52&type=dir" alt="pyside6-qt file count" height="25" />
       </a>
     </td>
   </tr>
