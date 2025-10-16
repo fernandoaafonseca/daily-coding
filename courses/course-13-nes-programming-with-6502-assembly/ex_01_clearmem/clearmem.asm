@@ -200,7 +200,7 @@ IRQ:
 ; No outputs means "no errors".
 ;
 ; The LINKER ("ld65") needs a configuration file (".cfg").
-; d65 -C nes.cfg clearmem.o -o clearmem.nes
+; ld65 -C nes.cfg clearmem.o -o clearmem.nes
 ;
 ; To view the raw opcode:
 ; hexdump clearmem.nes
