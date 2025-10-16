@@ -1,9 +1,9 @@
-; ************************************************************************** ;
-; Exercise 1:																 ;
-;																			 ;
-; Your goal here is simply load the processor registers A, X and Y with		 ;
-; some values.																 ;
-; ************************************************************************** ;
+; *****************************************************************************	;
+; Exercise 1:																	;
+;																				;
+; Your goal here is simply load the processor registers A, X and Y with			;
+; some values.																	;
+; *****************************************************************************	;
 
 .segment "HEADER"
 .org $7FF0
