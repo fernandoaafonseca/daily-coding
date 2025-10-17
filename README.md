@@ -531,7 +531,7 @@ Lua
   <tr>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/lua">
-        <img src="https://img.shields.io/badge/Lua-00007D?style=for-the-badge&logo=lua&logoColor=%238C8C8C" height="25" />
+        <img src="https://img.shields.io/badge/Lua-6B6bB3?style=for-the-badge&logo=lua&logoColor=%2300007D" height="25" />
       </a>
     </td>
     <td align="center">
