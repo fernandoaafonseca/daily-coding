@@ -531,15 +531,15 @@ Lua
   <tr>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/lua">
-        <img src="https://img.shields.io/badge/Lua-A8B9CC?style=for-the-badge&logo=lua&logoColor=%23000080" height="25" />
+        <img src="https://img.shields.io/badge/Lua-00007D?style=for-the-badge&logo=lua&logoColor=%238C8C8C" height="25" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/love2d-exercises?label=L%C3%B6ve2D%20Exercises&style=for-the-badge&logo=lua&color=%23000080&logoColor=%23000080&type=dir" alt="love2d-exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/love2d-exercises?label=L%C3%B6ve2D%20Exercises&style=for-the-badge&logo=lua&color=%2300007D&logoColor=%2300007D&type=dir" alt="love2d-exercises file count" height="25" />
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-web-exercises-html-css">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/lua-exercises?label=Exercises&style=for-the-badge&logo=lua&color=%23000080&logoColor=%23000080&type=file" alt="lua-exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/lua-exercises?label=Exercises&style=for-the-badge&logo=lua&color=%2300007D&logoColor=%2300007D&type=file" alt="lua-exercises file count" height="25" />
       </a>
     </td>
   </tr>
