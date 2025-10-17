@@ -42,7 +42,7 @@ COURSES
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&style=for-the-badge&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&style=for-the-badge&logo=python&color=%23306998&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
 <!--
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
@@ -71,7 +71,7 @@ COURSES
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&style=for-the-badge&logo=python&color=%233776AB&type=dir" alt="100-days-of-code file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="100-days-of-code file count" height="25" />
       </a>
     </td>
   </tr>
@@ -83,7 +83,7 @@ COURSES
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+        <img src="https://img.shields.io/badge/Python-FFE43B?style=for-the-badge&logo=python" height="25" />
       </a>
       <br>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
@@ -95,7 +95,7 @@ COURSES
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problem%20Sets&style=for-the-badge&logo=python&color=%233776AB&type=dir" alt="cs50p file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problem%20Sets&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="cs50p file count" height="25" />
       </a>
     </td>
   </tr>
@@ -406,7 +406,7 @@ BOOKS
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-01-a-practical-introduction-to-python-programming">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-01-a-practical-introduction-to-python-programming?label=Chapters&style=for-the-badge&logo=python&color=%233776AB&type=dir" alt="chapters file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-01-a-practical-introduction-to-python-programming?label=Chapters&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="chapters file count" height="25" />
     </td>
 
 <!--
@@ -427,7 +427,7 @@ BOOKS
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-02-77-python-advanced-programming-exercises/">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-02-77-python-advanced-programming-exercises?label=Exercises&style=for-the-badge&logo=python&color=%233776AB&type=file" alt="exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-02-77-python-advanced-programming-exercises?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=file" alt="exercises file count" height="25" />
     </td>
 </table>
 
@@ -556,10 +556,10 @@ Python
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-challenges">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-challenges?label=Challenges&style=for-the-badge&logo=python&color=%233776AB&type=file" alt="python-challenges file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-challenges?label=Challenges&style=for-the-badge&logo=python&color=%23306998&type=file" alt="python-challenges file count" height="25" />
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-exercises">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-exercises?label=Exercises&style=for-the-badge&logo=python&color=%233776AB&type=dir" alt="python-exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-exercises?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="python-exercises file count" height="25" />
       </a>
     </td>
   </tr>
