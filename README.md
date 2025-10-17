@@ -373,7 +373,7 @@ COURSES TO START LATER
 BOOKS
 -->
 
-<h2>🧑🏻‍🎓 Books:</h2>
+<h2>📖 Books:</h2>
 <table>
   <tr>
     <th width="350" >
