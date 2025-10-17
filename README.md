@@ -199,7 +199,7 @@ COURSES
       </a>
       <br>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
-          <i>Pikuma</i> | 💾 <b>NES / Famicon with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
+          <i>Pikuma</i> | 💾 <b>NES / Famicom with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
     <td align="center" >
