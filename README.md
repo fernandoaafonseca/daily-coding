@@ -201,7 +201,7 @@
       </a>
     </td>
   </tr>
-
+</table>
 
 
 <!--
@@ -321,7 +321,6 @@ COURSES TO START LATER
     </td>
   </tr>
 -->
-</table>
 
 <!--
 ...
@@ -360,6 +359,40 @@ COURSES TO START LATER
 
 
 <hr>
+<!--
+...
+-->
+
+<h2>🧑🏻‍🎓 Books:</h2>
+<table>
+  <tr>
+    <th width="350" >
+      <h3>
+        Course
+      </h3>
+    </th>
+    <th width="400" colspan="1">
+      <h3>
+        Repo
+      </h3>
+    </th>
+  </tr>
+  
+  <tr height="60" >
+    <td align="left" >
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
+        <img src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python" height="25" />
+      </a>
+      <br>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
+          <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/javascript/javascript-challenges">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/javascript/javascript-challenges?label=Challenges&logo=javascript&color=%23F7DF1E&type=file" alt="javascript-challenges file count" height="25" />
+    </td>
+</table>
 
 <!--
 ...
