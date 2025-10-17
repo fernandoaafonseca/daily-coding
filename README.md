@@ -479,7 +479,7 @@ C
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/c/c-exercises">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c/c-exercises?label=Exercises&style=for-the-badge&logo=c&color=%23000599&logoColor=%23000599&type=dir" alt="c-exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/c/c-exercises?label=Exercises&style=for-the-badge&logo=c&color=%23000599&logoColor=%23000599&type=file" alt="c-exercises file count" height="25" />
       </a>      
     </td>
   </tr>
