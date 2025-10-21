@@ -462,7 +462,7 @@ ASSEMBLY
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/assembly/6502-assembly-exercises">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/6502-assembly-exercises?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23000000&type=dir" alt="6502-assembly-exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/assembly/6502-assembly-exercises?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23821510&logoColor=%23821510&type=dir" alt="6502-assembly-exercises file count" height="25" />
       </a>      
     </td>
   </tr>
@@ -480,7 +480,7 @@ BASIC
     </td>
     <td align="center" colspan="2">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/basic/basic-exercises">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/basic/basic-exercises?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23241F31&logoColor=%23FFFFFF&type=file" alt="basic-exercises file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/basic/basic-exercises?label=Exercises&style=for-the-badge&logo=gnometerminal&color=%23241F31&logoColor=%23241F31&type=file" alt="basic-exercises file count" height="25" />
       </a>      
     </td>
   </tr>
