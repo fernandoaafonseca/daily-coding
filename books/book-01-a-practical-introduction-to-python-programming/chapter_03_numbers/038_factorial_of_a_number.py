@@ -1,4 +1,4 @@
-'''
+waw'''
 Write a program that asks the user for a number and prints out the factorial of that number.
 '''
 
@@ -12,13 +12,13 @@ def main() -> None:
 def get_user_num() -> int:
 	while True:
 		try:
-			num = int(input('Enter a positive integer number: '))
+			num = int(input('Enter a non-negative integer number: '))
 			if num >= 0:
 				return num
 			else:
 				raise ValueError()
 		except ValueError:
-			print('Please enter a integer number.\n')
+			print('Please enter a non-negative integer number.\n')
 
 
 def calculate_factorial(num: int) -> int:
