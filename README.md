@@ -398,7 +398,7 @@ BOOKS
         <img src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/book-01-a-practical-introduction-to-python-programming/">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-01-a-practical-introduction-to-python-programming/">
           🐍 <b>A Practical Introduction to Python Programming</b> | <i>Brian Heinold</i>
       </a>
     <td align="center" >
@@ -419,7 +419,7 @@ BOOKS
         <img src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/book-02-77-python-advanced-programming-exercises/">
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-02-77-python-advanced-programming-exercises/">
           🐍 <b>77 Python Advanced Programming Exercises</b> | <i>Eccorner Learning</i>
       </a>
     <td align="center" >
