@@ -1,4 +1,4 @@
-waw'''
+'''
 Write a program that asks the user for a number and prints out the factorial of that number.
 '''
 
