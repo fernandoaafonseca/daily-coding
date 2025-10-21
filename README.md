@@ -406,7 +406,7 @@ BOOKS
     </td>
     <td align="center">
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-01-a-practical-introduction-to-python-programming">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-01-a-practical-introduction-to-python-programming?label=Chapters&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="chapters file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-01-a-practical-introduction-to-python-programming?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=file" alt="chapters file count" height="25" />
     </td>
 
 <!--
