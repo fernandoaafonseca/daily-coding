@@ -30,10 +30,10 @@ def calculate_sin_cos_tan(angle_in_radians: float) -> tuple[float, float, float 
 	sine = math.sin(angle_in_radians)
 	cosine = math.cos(angle_in_radians)
 
-	try:
-		tangent = sine / cosine
-	except ZeroDivisionError:
+	if abs(cosine) < 1e-12:
 		tangent = 'undefined'
+	else:
+		tangent = sine / cosine
 
 	return sine, cosine, tangent
 
@@ -42,7 +42,10 @@ def display_result(angle_in_degrees: float, angle_in_radians: float, sine: float
 	print(f'The angle {angle_in_degrees:.2f}° is {angle_in_radians:.4f} rad.')
 	print(f'Sine: {sine:.6f}')
 	print(f'Cosine: {cosine:.6f}')
-	print(f'Tangent: {tangent:.6f}')
+	if isinstance(tangent, float):
+		print(f'Tangent: {tangent:.6f}')
+	else:
+		print(f'Tangent: {tangent}')
 
 
 if __name__ == '__main__':
