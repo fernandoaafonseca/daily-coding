@@ -653,7 +653,15 @@ Activity graph
 -->
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=7&height=495" alt="Activity graph" width="375" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_longest_streak=true" alt="Streak stats" width="375" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=30&height=495" alt="Activity graph" width="750" />
+  </p>
+
+<!--
+Streak Stats
+-->
+
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=false&hide_longest_streak=true" alt="Streak stats" width="750" />
   </p>
 
 <!--
