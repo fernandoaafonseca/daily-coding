@@ -2,7 +2,8 @@
 *.cache
 *.sln
 *.ini
-/z_ideas
+/.vs
+/.vscode
 languages/python/python-exercises/ex_018_twilio_sms_cold_temps_warning/data/
 
 ## Ignore Visual Studio temporary files, build results, and
