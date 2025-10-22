@@ -7,12 +7,12 @@ COURSES
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th width="450" colspan="2" >
+    <th width="425" colspan="2" >
       <h3>
         Course
       </h3>
     </th>
-    <th width="300" >
+    <th width="325" >
       <h3>
         Repo
       </h3>
@@ -350,12 +350,12 @@ BOOKS
 <h2>📖 Books:</h2>
 <table>
   <tr>
-    <th width="450" colspan="2" >
+    <th width="425" colspan="2" >
       <h3>
         Book
       </h3>
     </th>
-    <th width="300" >
+    <th width="325" >
       <h3>
         Repo
       </h3>
