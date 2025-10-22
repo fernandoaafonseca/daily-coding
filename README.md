@@ -635,7 +635,7 @@ Most used languages
 -->
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="750" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=pie&langs_count=8&stats_format=percentages" alt="Most used languages"  width="750" />
   </p>
 
 <!--
