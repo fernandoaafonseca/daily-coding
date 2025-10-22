@@ -635,7 +635,7 @@ Most used languages
 -->
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=pie&langs_count=8&stats_format=percentages" alt="Most used languages"  width="750" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut&langs_count=8&stats_format=percentages" alt="Most used languages"  width="750" />
   </p>
 
 <!--
@@ -644,7 +644,7 @@ WakaTime
 
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula&langs_count=8&display_format=time" alt="WakaTime stats" width="750" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&theme=dracula&layout=compact&langs_count=8&hide=other&display_format=time" alt="WakaTime stats" width="750" />
     </a>
   </p>
 
