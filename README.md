@@ -1,8 +1,4 @@
-<!--
-...
--->
 <h1 align="center">👨‍💻 Daily coding</h1>
-
 
 <!--
 COURSES
@@ -24,9 +20,9 @@ COURSES
   </tr>
 
 <!--
-...
+The Modern Python 3 Bootcamp
 -->
-  
+
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
@@ -43,6 +39,11 @@ COURSES
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&style=for-the-badge&logo=python&color=%23306998&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
+
+<!--
+EXERCISES
+-->
+
 <!--
       </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
@@ -53,7 +54,7 @@ COURSES
 -->
 
 <!--
-...
+100 Days of Code
 -->
 
   <tr height="60" >
@@ -77,7 +78,7 @@ COURSES
   </tr>
 
 <!--
-...
+CS50P
 -->
 
   <tr height="60" >
@@ -101,11 +102,7 @@ COURSES
   </tr>
 
 <!--
-...
--->
-
-<!--
-...
+Sololearn - Introduction to C#
 -->
 
   <tr height="60" >
@@ -129,11 +126,7 @@ COURSES
   </tr>
 
 <!--
-...
--->
-
-<!--
-...
+Complete C# Masterclass
 -->
 
   <tr height="60" >
@@ -157,11 +150,7 @@ COURSES
   </tr>
 
 <!--
-...
--->
-
-<!--
-...
+Atari 2600 Programming with 6502 Assembly
 -->
 
   <tr height="60" >
@@ -185,11 +174,7 @@ COURSES
   </tr>
 
 <!--
-...
--->
-
-<!--
-...
+NES Programming with 6502 Assembly
 -->
 
   <tr height="60" >
@@ -213,11 +198,6 @@ COURSES
   </tr>
 </table>
 
-
-<!--
-...
--->
-
 <!--
 ...
 -->
@@ -229,7 +209,7 @@ COURSES TO START LATER
 -->
 
 <!--
-...
+CS50x
 -->
 
 <!--
@@ -255,6 +235,10 @@ COURSES TO START LATER
 -->
 
 <!--
+CS502D
+-->
+
+<!--
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-06-cs502d">
@@ -277,11 +261,7 @@ COURSES TO START LATER
 -->
 
 <!--
-...
--->
-
-<!--
-...
+Sololearn - Python Intermediate
 -->
 
 <!--
@@ -307,7 +287,7 @@ COURSES TO START LATER
 -->
 
 <!--
-...
+Sololearn - C# Intermediate
 -->
 
 <!--
@@ -333,11 +313,7 @@ COURSES TO START LATER
 -->
 
 <!--
-...
--->
-
-<!--
-...
+freeCodeCamp - Foundational C# with Microsoft Learn
 -->
 
 <!--
@@ -362,11 +338,9 @@ COURSES TO START LATER
   </tr>
 -->
 
-
-
-
-
-
+<!--
+...
+-->
 
 <hr>
 <!--
@@ -389,7 +363,7 @@ BOOKS
   </tr>
 
 <!--
-...
+A Practical Introduction to Python Programming
 -->
     
   <tr height="60" >
@@ -410,7 +384,7 @@ BOOKS
     </td>
 
 <!--
-...
+77 Python Advanced Programming Exercises
 -->
   
   <tr height="60" >
@@ -433,6 +407,10 @@ BOOKS
 
 <!--
 ...
+-->
+
+<!--
+PROGRAMMING LANGUAGES
 -->
 
 <h2>🖥️ Programming languages:</h2>
@@ -466,7 +444,6 @@ ASSEMBLY
       </a>      
     </td>
   </tr>
-
 
 <!--
 BASIC
@@ -583,14 +560,14 @@ Python
   </tr>
 </table>
 
+<hr>
 <!--
 ...
 -->
 
-<hr>
 
 <!--
-...
+FRAMEWORKS AND TOOLS
 -->
 
 <h2>📚 Frameworks and tools:</h2>
@@ -638,31 +615,97 @@ Python
 -->
 
 <hr>
-
 <!--
-...
+STATS
 -->
 
 <h2 align="left">📊 Stats:</h2>
+
+<!--
+Most used languages
+-->
+
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="750" />
   </p>
 
+
 <!--
+WakaTime
+-->
+
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="750" />
     </a>
   </p>
+
+<!--
+Streak Stats
 -->
 
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" width="750" />
   </p>
 
+<!--
+Activity graph
+-->
+
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="750" />
   </p>
+
+<!--
+...
+-->
+
+<hr>
+<!--
+FOOTER BADGES
+-->
+
+<!--
+WakaTime
+-->
+
+<p>
+  <a href="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding">
+    <img src="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding.svg" alt="Wakatime: Total time coding" height="25" >
+  </a>
+
+<!--
+Last commit
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
+    <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" height="25" />
+  </a>
+
+<!--
+Code size
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/">
+    <img src="https://img.shields.io/github/languages/code-size/fernandoaafonseca/daily-coding" alt="Code size" height="25" />
+  </a>
+
+<!--
+Repo size
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/">
+    <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
+  </a>
+
+<!--
+License
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
+  </a>
+</p>
 
 <!--
 ...
@@ -673,7 +716,7 @@ Python
 -->
 
 <!--
-...
+CERTIFICATES
 -->
 
 <!--
@@ -717,11 +760,18 @@ Python
 -->
 
 <!--
-...
+SOME OTHER CERTIFICATES
 -->
 
 <!--
 <h2>🤓 Some other certificates:</h2>
+-->
+
+<!--
+SOS Computadores: IT
+-->
+
+<!--
   <table>
     <tr>
       <td>
@@ -734,6 +784,13 @@ Python
           </li>
         </ul>
       </td>
+-->
+
+<!--
+Sololearn: HTML
+-->
+
+<!--
       <td>
         <ul>
           <li>
@@ -745,9 +802,13 @@ Python
         </ul>
       </td>
     </tr>
+-->
 
+<!--
+Udemy: Photoshop Training
+-->
 
-
+<!--
     <tr>
       <td>
         <ul>
@@ -759,6 +820,13 @@ Python
           </li>
         </ul>
       </td>
+-->
+
+<!--
+IAEA: AI Recommendation Systems
+-->
+
+<!--
       <td>
         <ul>
           <li>
@@ -770,9 +838,13 @@ Python
         </ul>
       </td>
     </tr>
+-->
 
+<!--
+Kaggle: Data Visualization
+-->
 
-
+<!--
     <tr>
       <td>
         <ul>
@@ -784,6 +856,13 @@ Python
           </li>
         </ul>
       </td>
+-->
+
+<!--
+IAEA: ML and DS with Python
+-->
+
+<!--
       <td>
         <ul>
           <li>
@@ -795,9 +874,13 @@ Python
         </ul>
       </td>
     </tr>
+-->
 
+<!--
+HackerRank: Python (Basic)
+-->
 
-
+<!--
     <tr>
       <td>
         <ul>
@@ -809,6 +892,13 @@ Python
           </li>
         </ul>
       </td>
+-->
+
+<!--
+Sololearn: Introduction to JavaScript
+-->
+
+<!--
       <td>
         <ul>
           <li>
@@ -820,9 +910,13 @@ Python
         </ul>
       </td>
     </tr>
+-->
 
+<!--
+Sololearn: Introduction to Python
+-->
 
-
+<!--
     <tr>
       <td>
         <ul>
@@ -847,7 +941,7 @@ Python
 -->
 
 <!--
-...
+OLD INFO ABOUT ME (EN-US)
 -->
 
 <!--
@@ -879,6 +973,10 @@ Python
 -->
 
 <!--
+OLD INFO ABOUT ME (PT-BR)
+-->
+
+<!--
 <h2>
   <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="15" height="15" alt="Brazil" /> Português (PT-BR)
 </h2>
@@ -899,35 +997,3 @@ Python
     </ul>
   </p>
 -->
-
-<!--
-...
--->
-
-<hr>
-
-<!--
-...
--->
-
-<p>
-  <a href="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding">
-    <img src="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding.svg" alt="Wakatime: Total time coding" height="25" >
-  </a>
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
-    <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" height="25" />
-  </a>
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/">
-    <img src="https://img.shields.io/github/languages/code-size/fernandoaafonseca/daily-coding" alt="Code size" height="25" />
-  </a>
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/">
-    <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
-  </a>
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
-  </a>
-</p>
