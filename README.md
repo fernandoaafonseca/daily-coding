@@ -635,7 +635,7 @@ Most used languages
 -->
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=normal&langs_count=8&stats_format=percentages" alt="Most used languages"  width="375" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=normal&langs_count=8&stats_format=percentages" alt="Most used languages"  width="750" />
   </p>
 
 <!--
@@ -649,12 +649,19 @@ WakaTime
   </p>
 
 <!--
+Activity graph
+-->
+
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="750" />
+  </p>
+
+<!--
 Streak Stats
 -->
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_longest_streak=true" alt="Streak stats" width="750" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="750" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_longest_streak=true" alt="Streak stats" width="100" height="100" />
   </p>
 
 <!--
