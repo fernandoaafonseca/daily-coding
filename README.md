@@ -653,7 +653,7 @@ Activity graph
 -->
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=30&height=495" alt="Activity graph" width="750" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernandoaafonseca&custom_title=Activity%20graph&color=FE6E97&theme=dracula&bg_color=282B37&area=true&area_color=FFFFFF&hide_border=true&days=14&height=495" alt="Activity graph" width="750" />
   </p>
 
 <!--
