@@ -1,5 +1,7 @@
 *.pyc
 *.cache
+*.sln
+*.ini
 /z_ideas
 languages/python/python-exercises/ex_018_twilio_sms_cold_temps_warning/data/
 
