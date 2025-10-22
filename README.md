@@ -7,12 +7,12 @@ COURSES
 <h2>🧑🏻‍🎓 Courses:</h2>
 <table>
   <tr>
-    <th width="350" colspan="2" >
+    <th width="375" colspan="2" >
       <h3>
         Course
       </h3>
     </th>
-    <th width="400" >
+    <th width="375" >
       <h3>
         Repo
       </h3>
@@ -23,7 +23,7 @@ COURSES
 The Modern Python 3 Bootcamp
 -->
 
-  <tr height="60" colspan="2">
+  <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         <img src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python" height="25" />
@@ -350,12 +350,12 @@ BOOKS
 <h2>📖 Books:</h2>
 <table>
   <tr>
-    <th width="350" colspan="2" >
+    <th width="375" colspan="2" >
       <h3>
         Book
       </h3>
     </th>
-    <th width="400" >
+    <th width="375" >
       <h3>
         Repo
       </h3>
