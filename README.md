@@ -23,7 +23,7 @@ COURSES
 The Modern Python 3 Bootcamp
 -->
 
-  <tr height="60" >
+  <tr height="60" colspan="2">
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         <img src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python" height="25" />
