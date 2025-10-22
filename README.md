@@ -95,7 +95,7 @@ COURSES
     </td>
     <td align="center" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Problem%20Sets&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="cs50p file count" height="25" />
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="cs50p file count" height="25" />
       </a>
     </td>
   </tr>
@@ -648,11 +648,13 @@ Python
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="750" />
   </p>
 
+<!--
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="750" />
     </a>
   </p>
+-->
 
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats" width="750" />
