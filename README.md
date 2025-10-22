@@ -102,7 +102,7 @@ CS50P
   </tr>
 
 <!--
-Sololearn - Introduction to C#
+Sololearn: Introduction to C#
 -->
 
   <tr height="60" >
@@ -150,7 +150,7 @@ Complete C# Masterclass
   </tr>
 
 <!--
-Atari 2600 Programming with 6502 Assembly
+Pikuma: Atari 2600 Programming with 6502 Assembly
 -->
 
   <tr height="60" >
@@ -174,7 +174,7 @@ Atari 2600 Programming with 6502 Assembly
   </tr>
 
 <!--
-NES Programming with 6502 Assembly
+Pikuma: NES Programming with 6502 Assembly
 -->
 
   <tr height="60" >
@@ -261,7 +261,7 @@ CS502D
 -->
 
 <!--
-Sololearn - Python Intermediate
+Sololearn: Python Intermediate
 -->
 
 <!--
@@ -287,7 +287,7 @@ Sololearn - Python Intermediate
 -->
 
 <!--
-Sololearn - C# Intermediate
+Sololearn: C# Intermediate
 -->
 
 <!--
@@ -313,7 +313,7 @@ Sololearn - C# Intermediate
 -->
 
 <!--
-freeCodeCamp - Foundational C# with Microsoft Learn
+freeCodeCamp: Foundational C# with Microsoft Learn
 -->
 
 <!--
@@ -413,6 +413,7 @@ A Practical Introduction to Python Programming
 PROGRAMMING LANGUAGES
 -->
 
+<hr>
 <h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
@@ -560,7 +561,6 @@ Python
   </tr>
 </table>
 
-<hr>
 <!--
 ...
 -->
@@ -570,6 +570,7 @@ Python
 FRAMEWORKS AND TOOLS
 -->
 
+<hr>
 <h2>📚 Frameworks and tools:</h2>
 <table>
   <tr>
@@ -585,6 +586,10 @@ FRAMEWORKS AND TOOLS
     </th>
   </tr>
 
+<!--
+Python - Django
+-->
+
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
@@ -596,6 +601,10 @@ FRAMEWORKS AND TOOLS
       </a>    
     </td>
   </tr>
+
+<!--
+Python - Qt (PySide6)
+-->
 
   <tr>
     <td align="center">
@@ -614,11 +623,11 @@ FRAMEWORKS AND TOOLS
 ...
 -->
 
-<hr>
 <!--
 STATS
 -->
 
+<hr>
 <h2 align="left">📊 Stats:</h2>
 
 <!--
@@ -629,14 +638,13 @@ Most used languages
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoaafonseca&hide_border=true&custom_title=Most%20used%20languages&theme=dracula&layout=donut" alt="Most used languages"  width="750" />
   </p>
 
-
 <!--
 WakaTime
 -->
 
   <p>
     <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula" alt="WakaTime stats" width="750" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&hide=other&layout=compact&theme=dracula&langs_count=8&display_format=time" alt="WakaTime stats" width="750" />
     </a>
   </p>
 
@@ -937,11 +945,11 @@ Sololearn: Introduction to Python
 -->
 
 <!--
-<hr>
+OLD INFO ABOUT ME (EN-US)
 -->
 
 <!--
-OLD INFO ABOUT ME (EN-US)
+<hr>
 -->
 
 <!--
@@ -974,6 +982,10 @@ OLD INFO ABOUT ME (EN-US)
 
 <!--
 OLD INFO ABOUT ME (PT-BR)
+-->
+
+<!--
+<hr>
 -->
 
 <!--
