@@ -79,9 +79,9 @@ def calculate_day_and_month(m:int, d: int, e: int) -> tuple[int, str]:
 
 
 def display_result(year: int, month: int, day: int) -> None:
-	if day == 1:
+	if day in [1, 21, 31]:
 		day_suffix = 'st'
-	elif day == 2:
+	elif day in [2, 22]:
 		day_suffix = 'nd'
 	elif day == 3:
 		day_suffix = 'rd'
