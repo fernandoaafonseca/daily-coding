@@ -71,7 +71,7 @@ def calculate_day_and_month(m:int, d: int, e: int) -> tuple[int, str]:
 	if d == 29 and e == 6:
 		day = 19
 		month = 'April'
-	elif d == 28 and e == 6 and m in [2, 5, 10, 13, 16, 21, 24, 39]:
+	elif d == 28 and e == 6 and m in [2, 5, 10, 13, 16, 21, 24, 29]:
 		day = 18
 		month = 'April'
 
