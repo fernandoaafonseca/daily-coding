@@ -25,7 +25,8 @@ The Modern Python 3 Bootcamp
 
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
+      <a
+        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
         <img
           src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python"
           height="25"
@@ -84,8 +85,13 @@ EXERCISES
         ⏳
     </td>
     <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="100-days-of-code file count" height="25" />
+      <a
+        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+          <img
+            src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir"
+              alt="100-days-of-code file count"
+                height="25"
+          />
       </a>
     </td>
   </tr>
