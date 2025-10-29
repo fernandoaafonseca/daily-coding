@@ -26,10 +26,14 @@ The Modern Python 3 Bootcamp
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
-        <img src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python" height="25" />
+        <img
+          src="https://img.shields.io/badge/Python-FFD43B?&style=for-the-badge&logo=python"
+          height="25"
+        />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
+      <a
+        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/">
           <i>Udemy</i> | 🐍 <b>The Modern Python 3 Bootcamp</b> | <i>Colt Steele</i>
       </a>
     </td>
@@ -37,8 +41,18 @@ The Modern Python 3 Bootcamp
         ✔️
     </td>
     <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?label=Challenges&style=for-the-badge&logo=python&color=%23306998&type=file" alt="the-modern-python-3-bootcamp/challenges file count" height="25" />
+      <a
+        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
+          <img
+            src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?
+              label=Challenges
+              &style=for-the-badge
+              &logo=python
+              &color=%23306998
+              &type=file"
+              alt="the-modern-python-3-bootcamp/challenges file count"
+              height="25"
+          />
 
 <!--
 EXERCISES
