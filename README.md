@@ -40,7 +40,6 @@ The Modern Python 3 Bootcamp
     <td align="center" >
         ✔️
     </td>
-
     <td align="center" >
       <a
         href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
@@ -70,12 +69,15 @@ EXERCISES
 
   <tr height="60" >
     <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+      <a
+        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+          <img
+            src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
-           <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
+      <a
+        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+          <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
     </td>
     <td align="center" >
