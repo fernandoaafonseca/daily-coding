@@ -43,15 +43,15 @@ The Modern Python 3 Bootcamp
     <td align="center" >
       <a
         href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
-          <img
-            src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?
-              label=Challenges
-              &style=for-the-badge
-              &logo=python
-              &color=%23306998
-              &type=file"
-              alt="the-modern-python-3-bootcamp/challenges file count"
-              height="25"
+        <img
+          src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/challenges?
+            label=Challenges
+            &style=for-the-badge
+            &logo=python
+            &color=%23306998
+            &type=file"
+            alt="the-modern-python-3-bootcamp/challenges file count"
+            height="25"
           />
 
 <!--
