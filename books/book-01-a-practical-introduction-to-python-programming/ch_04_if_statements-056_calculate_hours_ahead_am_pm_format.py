@@ -49,21 +49,29 @@ def get_hours_ahead() -> int:
 			else:
 				raise ValueError
 		except ValueError:
-			print('\nPlease enter a valid hour amount between 0 and 24.\n')
+			print('\nPlease enter a valid hour amount between 0 and 24 (included).\n')
+
+
+def invert_am_pm(am_pm: int) -> int:
+	'''
+	If am_pm == 1, then: 3 - 1 = 2.
+	If am_pm == 2, then: 3 - 2 = 1
+	'''
+	return 3 - am_pm
 
 
 def calculate_new_hour(hour: int, am_pm: int, hours_ahead: int) -> tuple[int, int]:
-	new_hour = hour + hours_ahead
-	new_am_pm = am_pm
+	# Add and subtract to the 12-hour cycle
+	new_hour = (hour + hours_ahead - 1) % 12 + 1
 
-	if new_hour > 12:
-		new_hour = new_hour % 12
-	if hour + new_hour > 24:
-		new_am_pm = am_pm
-	elif (hour + new_hour > 12) and hour != 12:
-		new_am_pm = 2
+	# Count how many times it passed through 12 → 1
+	flips = (hour - 1 + hours_ahead) // 12
 
-	return new_hour, new_am_pm
+	# Invert a.m./p.m. if the number of revolutions is odd
+	if flips % 2 == 1:
+		am_pm = invert_am_pm(am_pm)
+
+	return new_hour, am_pm
 
 
 def display_result(new_hour: int, new_am_pm: int) -> None:
