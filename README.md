@@ -40,6 +40,7 @@ The Modern Python 3 Bootcamp
     <td align="center" >
         ✔️
     </td>
+
     <td align="center" >
       <a
         href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/challenges">
