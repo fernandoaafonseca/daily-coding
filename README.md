@@ -64,8 +64,13 @@ EXERCISES
 
 <!--
       </a>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
-         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&style=for-the-badge&logo=python&color=%233776AB&type=file" alt="the-modern-python-3-bootcamp/exercises file count" height="25" />
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-01-the-modern-python-3-bootcamp/exercises">
+         <img
+         src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-01-the-modern-python-3-bootcamp/exercises?label=Exercises&style=for-the-badge&logo=python&color=%233776AB&type=file"
+         alt="the-modern-python-3-bootcamp/exercises file count"
+         height="25"
+         />
       </a>
     </td>
   </tr>
@@ -75,12 +80,16 @@ EXERCISES
 100 Days of Code
 -->
 
-  <tr height="60" >
-    <td align="left" >
+  <tr
+  height="60" >
+    <td
+    align="left" >
       <a
-        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
           <img
-            src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python" height="25" />
+          src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python"
+          height="25"
+          />
       </a>
       <br>
       <a
@@ -88,16 +97,18 @@ EXERCISES
           <i>Udemy</i> | 🐍 <b>100 Days of Code</b> | <i>Angela Yu</i>
       </a>
     </td>
-    <td align="center" >
+    <td
+    align="center" >
         ⏳
     </td>
-    <td align="center" >
+    <td
+    align="center" >
       <a
-        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-02-100-days-of-code">
           <img
-            src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir"
-            alt="100-days-of-code file count"
-            height="25"
+          src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-02-100-days-of-code?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir"
+          alt="100-days-of-code file count"
+          height="25"
           />
       </a>
     </td>
@@ -107,23 +118,34 @@ EXERCISES
 CS50P
 -->
 
-  <tr height="60" >
-    <td align="left" >
+  <tr
+  height="60" >
+    <td
+    align="left" >
       <a
-        href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        <img src="https://img.shields.io/badge/Python-FFE43B?style=for-the-badge&logo=python" height="25" />
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
+        <img
+        src="https://img.shields.io/badge/Python-FFE43B?style=for-the-badge&logo=python"
+        height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-          <i>Harvard Online</i> | 🐍 <b>CS50 Python</b>
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
+        <i>Harvard Online</i> | 🐍 <b>CS50 Python</b>
       </a>
-    <td align="center" >
+    <td
+    align="center" >
         ⏳
     </td>
     </td>
-    <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="cs50p file count" height="25" />
+    <td
+    align="center" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-03-cs50p">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-03-cs50p?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=dir" alt="cs50p file count"
+        height="25"
+        />
       </a>
     </td>
   </tr>
@@ -132,22 +154,36 @@ CS50P
 Sololearn: Introduction to C#
 -->
 
-  <tr height="60" >
-    <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
-        <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+  <tr
+  height="60" >
+    <td
+    align="left" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
+        <img
+        src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC"
+        height="25"
+        />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
-          <i>Sololearn</i> | #️⃣ <b>Introduction to C#</b>
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
+        <i>Sololearn</i> | #️⃣ <b>Introduction to C#</b>
       </a>
     </td>
-    <td align="center" >
+    <td
+    align="center" >
         ✔️
     </td>
-    <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-sololearn-introduction-to-c-sharp?label=Exercises&style=for-the-badge&logo=dotnet&color=%23280068&logoColor=%23280068&type=dir" alt="sololearn-introduction-to-c-sharp file count" height="25" />
+    <td
+    align="center" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-04-sololearn-introduction-to-c-sharp">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-04-sololearn-introduction-to-c-sharp?label=Exercises&style=for-the-badge&logo=dotnet&color=%23280068&logoColor=%23280068&type=dir"
+        alt="sololearn-introduction-to-c-sharp file count"
+        height="25"
+        />
       </a>
     </td>
   </tr>
@@ -156,22 +192,36 @@ Sololearn: Introduction to C#
 Complete C# Masterclass
 -->
 
-  <tr height="60" >
-    <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
-          <img src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC" height="25" />
+  <tr
+  height="60" >
+    <td
+    align="left" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
+        <img
+        src="https://img.shields.io/badge/C%23-280068?style=for-the-badge&logo=dotnet&logoColor=%23A179DC"
+        height="25"
+        />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
-            <i>Udemy</i> | #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
+        <i>Udemy</i> | #️⃣ <b>Complete C# Masterclass</b> | <i>Denis Panjuta</i>
       </a>
     </td>
-    <td align="center" >
+    <td
+    align="center" >
         ⏳
     </td>
-    <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-complete-c-sharp-masterclass?style=for-the-badge&label=Exercises&logo=dotnet&color=%23280068&logoColor=%23280068&type=dir" alt="complete-c-sharp-masterclass file count" height="25" />
+    <td
+    align="center" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-complete-c-sharp-masterclass">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-complete-c-sharp-masterclass?style=for-the-badge&label=Exercises&logo=dotnet&color=%23280068&logoColor=%23280068&type=dir"
+        alt="complete-c-sharp-masterclass file count"
+        height="25"
+        />
       </a>
     </td>
   </tr>
