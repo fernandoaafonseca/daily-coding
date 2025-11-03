@@ -23,7 +23,7 @@ def get_user_num() -> int:
 
 def calculate_factorial(num: int) -> int:
 	if num > 0:
-		factorial = 0
+		factorial = num
 
 		for i in range(num - 1, 1, -1):
 			factorial *= i
