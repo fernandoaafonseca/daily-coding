@@ -22,7 +22,6 @@ def find_perfect_numbers(higher_bound: int) -> tuple[int]:
 	return perfect_numbers
 
 
-
 def get_divisors(number: int) -> list[int]:
 	divisors = []
 
