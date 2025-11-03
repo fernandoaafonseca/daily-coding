@@ -16,7 +16,7 @@ def get_user_num() -> int:
 			if num >= 0:
 				return num
 			else:
-				raise ValueError()
+				raise ValueError
 		except ValueError:
 			print('Please enter a non-negative integer number.\n')
 
