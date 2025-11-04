@@ -99,6 +99,7 @@ def check_player_guess(player_guess: int, generated_num: int) -> bool:
 		print(f'\n✔️  RIGHT! 📌\n')
 
 	print(points_output)
+	print('-' * 24)
 
 	return player_guess == generated_num
 
