@@ -86,11 +86,19 @@ def get_player_guess(current_round: int, player_lives: int, player_score: int) -
 
 
 def check_player_guess(player_guess: int, generated_num: int) -> bool:
+	if player_guess == generated_num:
+		points_output = '➖ 1 point'
+	else:
+		points_output = '➕ 10 points'
+
 	if player_guess > generated_num:
 		print(f'\n❌ WRONG! TOO HIGH! ⬇️\n')
 	elif player_guess < generated_num:
 		print(f'\n❌ WRONG! TOO LOW! ⬆️ \n')
-	else: print(f'\n✔️  RIGHT! 📌\n')
+	else:
+		print(f'\n✔️  RIGHT! 📌\n')
+
+	print(points_output)
 
 	return player_guess == generated_num
 
