@@ -117,7 +117,7 @@ def display_final_screen(final_round: int, player_score: int, player_lives: int)
 		print('You didn\'t manage to complete all 5 rounds.')
 	else:
 		print('\nCONGRATULATIONS!')
-		print('You managed to complete all 5 rounds with {player_lives} lives remaining!')
+		print(f'You managed to complete all 5 rounds with {player_lives} lives remaining!')
 
 
 if __name__ == '__main__':
