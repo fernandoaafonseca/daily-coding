@@ -59,11 +59,12 @@ def ask_user_wants_change_door(possible_doors: list[int], user_guess: int, monty
 	while True:
 		try:
 			user_choice = str(input('Do you want to change your door? Enter Y or N: '))
-			if user_choice.lower()[0] == 'y':
-				user_guess = possible_doors[0]
-				return user_guess
-			elif user_choice.lower()[0] == 'n':
-				return user_guess
+			if user_choice:
+				if user_choice.lower()[0] == 'y':
+					user_guess = possible_doors[0]
+					return user_guess
+				elif user_choice.lower()[0] == 'n':
+					return user_guess
 			else:
 				raise ValueError
 		except ValueError:
