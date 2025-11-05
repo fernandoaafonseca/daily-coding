@@ -141,3 +141,4 @@ $RECYCLE.BIN/
 _NCrunch*
 /unity-projects
 *.sublime-workspace
+books/book-01-a-practical-introduction-to-python-programming/sample.py
