@@ -23,7 +23,7 @@ def main():
 def get_user_string() -> str:
 	while True:
 		try:
-			user_string = str(input('Enter a string (at least 3 characters long: '))
+			user_string = str(input('Enter a string (at least 3 characters long): '))
 			if len(user_string) >= 3:
 				return user_string
 			else:
