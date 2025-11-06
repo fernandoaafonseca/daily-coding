@@ -9,7 +9,7 @@ Write a program that asks the user to enter a string. The program should then pr
 	(g) The seventh character of the string if the string is long enough and a message otherwise
 	(h) The string with its first and last characters removed
 	(i) The string in all caps
-	(j) The string with every a replaced with an e52 CHAPTER 6. STRINGS
+	(j) The string with every a replaced with an e
 	(k) The string with every letter replaced by a space
 '''
 
