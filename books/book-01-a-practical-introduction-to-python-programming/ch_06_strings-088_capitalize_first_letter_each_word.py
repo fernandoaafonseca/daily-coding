@@ -17,7 +17,7 @@ def get_user_name() -> str:
 			print('\nPlease enter a valid string.\n')
 
 
-def display_result(user_name:str, user_name_capitalized: str) -> None:
+def display_result(user_name: str, user_name_capitalized: str) -> None:
 	print()
 	print(f'You entered your name as follows: {user_name}.')
 	print(f'Capitalizing your name: {user_name_capitalized}.')
