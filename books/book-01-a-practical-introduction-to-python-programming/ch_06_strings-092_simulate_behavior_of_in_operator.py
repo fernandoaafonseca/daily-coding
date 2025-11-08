@@ -27,7 +27,7 @@ def get_user_string() -> str:
 			print('\nPlease enter a valid string.\n')
 
 
-def get_user_letter(alphabet: str]) -> str:
+def get_user_letter(alphabet: str) -> str:
 	while True:
 		try:
 			user_letter = str(input(f'Enter the letter you want to check: ')).lower()
