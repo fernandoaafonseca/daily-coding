@@ -31,7 +31,7 @@ def get_expression(VALID_CHARS: list[str, ...]) -> str:
 			are_all_chars_valid = check_all_chars_are_valid(expression, VALID_CHARS)
 			is_num_of_enclosure_symbols_correct = check_correct_num_of_enclosure_symbols(expression)
 
-			if are_all_chars_valid and is_num_of_enclosure_symbols_correct:
+			if are_all_chars_valid and is_num_of_enclosure_symbols_correct and len(expression) > 0:
 				return expression
 			else:
 				raise ValueError
