@@ -65,29 +65,28 @@ def insert_multiplication_symbols(expression: str, NUMBERS: list[str, ...], LETT
 	MULTIPLICATION_SYMBOL = '*'
 	new_expression = ''
 
-	for index in range(len(expression)):
-		if index < len(expression) - 1:
-			current_char = expression[index]
-			next_char = expression[index + 1]
+	for index in range(len(expression) - 1):
+		current_char = expression[index]
+		next_char = expression[index + 1]
 
-			if current_char in OPERATORS or next_char in OPERATORS:
-				# Checks whether the current or next character is an operator
-				new_expression += current_char
-			elif current_char in NUMBERS and next_char in LETTERS + OPENING_SYMBOLS:
-				# Checks between number and letter: 3x → 3*x;
-				# and between number and opening parenthesis, brackets or braces: 3(x+5) → 3*(x+5)
-				new_expression += current_char + MULTIPLICATION_SYMBOL
-			elif current_char in LETTERS and next_char in OPENING_SYMBOLS + LETTERS:
-				# Checks between letter and opening parenthesis, brackets or braces: x(y+1) → x*(y+1);
-				# and between letter and another letter: x(yz) → x*(y*z).
-				new_expression += current_char + MULTIPLICATION_SYMBOL
-			elif current_char in CLOSING_SYMBOLS and next_char in LETTERS + NUMBERS:
-				# Checks between closing parenthesis, brackets or braces and letter: (x+1)y → (x+1)*y;
-				# and between closing parenthesis, brackets or braces and number: (x+1)3 → (x+1)*3
-				new_expression += current_char + MULTIPLICATION_SYMBOL
-			else:
-				# If the pair does not imply multiplication, it just adds the character of the current iteration
-				new_expression += current_char
+		if current_char in OPERATORS or next_char in OPERATORS:
+			# Checks whether the current or next character is an operator
+			new_expression += current_char
+		elif current_char in NUMBERS and next_char in LETTERS + OPENING_SYMBOLS:
+			# Checks between number and letter: 3x → 3*x;
+			# and between number and opening parenthesis, brackets or braces: 3(x+5) → 3*(x+5)
+			new_expression += current_char + MULTIPLICATION_SYMBOL
+		elif current_char in LETTERS and next_char in OPENING_SYMBOLS + LETTERS:
+			# Checks between letter and opening parenthesis, brackets or braces: x(y+1) → x*(y+1);
+			# and between letter and another letter: x(yz) → x*(y*z).
+			new_expression += current_char + MULTIPLICATION_SYMBOL
+		elif current_char in CLOSING_SYMBOLS and next_char in LETTERS + NUMBERS:
+			# Checks between closing parenthesis, brackets or braces and letter: (x+1)y → (x+1)*y;
+			# and between closing parenthesis, brackets or braces and number: (x+1)3 → (x+1)*3
+			new_expression += current_char + MULTIPLICATION_SYMBOL
+		else:
+			# If the pair does not imply multiplication, it just adds the character of the current iteration
+			new_expression += current_char
 
 	# Adds the last character of the expression
 	new_expression += expression[-1]
