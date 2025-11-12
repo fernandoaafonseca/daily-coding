@@ -13,7 +13,7 @@ def get_list_of_ints() -> list[int]:
 	while True:
 		try:
 			str_of_ints = str(input('Enter a list of integers between 1 and 12: '))
-			# Generates a list of "ints" splitting the string by "commas""
+			# Generates a list of "ints" splitting the string by "commas"
 			list_of_ints = [int(item) for item in str_of_ints.split(',')]
 
 			# Check if all values in my_list are within the range [lower_bound, upper_bound]
