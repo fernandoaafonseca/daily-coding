@@ -20,10 +20,11 @@ def main():
 	num_of_fives = list_of_ints.count(5)
 	list_of_ints_removing_first_and_last_items = list_of_ints[1:-1]
 	num_of_ints_less_than_5 = len([item for item in list_of_ints if item < 5])
+
 	display_result(list_of_ints, num_items, last_item, reversed_list, contains_a_five, num_of_fives, list_of_ints_removing_first_and_last_items, num_of_ints_less_than_5)
 
 
-def get_list_of_ints() -> list[int, ...]:
+def get_list_of_ints() -> list[int]:
 	while True:
 		try:
 			str_of_ints = str(input('Enter a list of integers separated by commas (like "1, 2, 3": '))
@@ -34,11 +35,11 @@ def get_list_of_ints() -> list[int, ...]:
 			print('\nPlease only enter integers separated by commas.\n')
 
 
-def display_result(list_of_ints: list[int, ...], num_items: int, last_item: int, reversed_list: list[int, ...], contains_a_five: bool, num_of_fives: int, list_of_ints_removing_first_and_last_items: list[int, ...], num_of_ints_less_than_5: int) -> None:
+def display_result(list_of_ints: list[int], num_items: int, last_item: int, reversed_list: list[int], contains_a_five: bool, num_of_fives: int, list_of_ints_removing_first_and_last_items: list[int], num_of_ints_less_than_5: int) -> None:
 	print()
 	print(f'Original list: {list_of_ints}')
 	print(f'Total number of items: {num_items}')
-	print(f'Last item : {last_item}')
+	print(f'Last item: {last_item}')
 	print(f'Reversed list: {reversed_list}')
 	print(f'List contains a 5: {contains_a_five}')
 	print(f'Number of fives: {num_of_fives}')
