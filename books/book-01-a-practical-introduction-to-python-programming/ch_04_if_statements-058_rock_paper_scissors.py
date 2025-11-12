@@ -41,7 +41,7 @@ def game_loop():
 
 
 def clear_terminal() -> None:
-	input('PLEASE ANY KEY TO CONTINUE...')
+	input('PRESS ANY KEY TO CONTINUE...')
 	os.system('cls' if os.name == 'nt' else 'clear')
 
 
