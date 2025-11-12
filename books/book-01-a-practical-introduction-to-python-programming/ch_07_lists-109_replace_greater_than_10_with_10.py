@@ -6,7 +6,7 @@ Ask the user to enter a list containing numbers between 1 and 12. Then replace a
 def main():
 	user_list = get_list_of_ints()
 	new_list = replace_greater_than_10_with_10(user_list)
-	print(new_list)
+	display_result(user_list, new_list)
 
 
 def get_list_of_ints() -> list[int]:
@@ -32,8 +32,8 @@ def replace_greater_than_10_with_10(user_list: list[int]) -> list[int]:
 
 def display_result(user_list: list[int], new_list: list[int]) -> None:
 	print()
-	print(f'Original list: \n{l}')
-	print(f'\nReplacing values greater than 10 with 10: \n{EXPECTED_FINAL_LIST}')
+	print(f'Original list: \n{user_list}')
+	print(f'\nReplacing values greater than 10 with 10: \n{new_list}')
 
 
 if __name__ == '__main__':
