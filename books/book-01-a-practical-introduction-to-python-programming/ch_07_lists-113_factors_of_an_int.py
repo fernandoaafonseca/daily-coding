@@ -36,7 +36,10 @@ def get_factors(user_num: int) -> list[int]:
 
 def display_result(user_num: int, factors: list[int]) -> None:
 	print()
-	print(f'Factors of {user_num}: {factors}')
+	if user_num != 0:
+		print(f'Factors of {user_num}: {factors}')
+	else:
+		print(f'Every nonzero number is a factor of {user_num}!')
 
 
 if __name__ == '__main__':
