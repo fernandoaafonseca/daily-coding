@@ -21,7 +21,9 @@ def get_user_num() -> int:
 def get_factors(user_num: int) -> list[int]:
 	factors = []
 
-	if user_num >= 0:
+	if user_num == 0:
+		return factors
+	elif user_num >= 0:
 		for i in range(1, user_num + 1):
 			if user_num % i == 0:
 				factors.append(i)
