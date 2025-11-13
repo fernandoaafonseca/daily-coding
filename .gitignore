@@ -2,6 +2,8 @@
 *.cache
 *.sln
 *.ini
+/.venv
+/__pycache__
 /.vs
 /.vscode
 languages/python/python-exercises/ex_018_twilio_sms_cold_temps_warning/data/
