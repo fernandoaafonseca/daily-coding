@@ -293,8 +293,7 @@ Pikuma: NES Programming with 6502 Assembly
       <a
       href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
         <img
-        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&color=%23821510&logo=gnometerminal&logoColor=%23821510&type=dir" alt="atari-2600-programming-with-6502-assembly file count"
-        height="25" />
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&color=%23821510&logo=gnometerminal&logoColor=%23821510&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
       </a>
     </td>
   </tr>
