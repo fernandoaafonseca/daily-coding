@@ -267,22 +267,34 @@ Pikuma: Atari 2600 Programming with 6502 Assembly
 Pikuma: NES Programming with 6502 Assembly
 -->
 
-  <tr height="60" >
-    <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
-        <img src="https://img.shields.io/badge/6502 Assembly-821510?&style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
+  <tr
+  height="60" >
+    <td
+    align="left" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
+        <img
+        src="https://img.shields.io/badge/6502 Assembly-821510?&style=for-the-badge&logo=gnometerminal&logoColor=%23000000" height="25" />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
           <i>Pikuma</i> | 💾 <b>NES / Famicom with 6502 Assembly</b> | <i>Gustavo Pezzi</i>
       </a>
     </td>
-    <td align="center" >
+    <td
+    align="center" >
         ⏳
     </td>
-    <td align="center" colspan="2" width="80" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&color=%23821510&logo=gnometerminal&logoColor=%23821510&type=dir" alt="atari-2600-programming-with-6502-assembly file count" height="25" />
+    <td
+    align="center"
+    colspan="2"
+    width="80" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-07-nes-programming-with-6502-assembly">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-07-nes-programming-with-6502-assembly?label=Exercises&style=for-the-badge&color=%23821510&logo=gnometerminal&logoColor=%23821510&type=dir" alt="atari-2600-programming-with-6502-assembly file count"
+        height="25" />
       </a>
     </td>
   </tr>
