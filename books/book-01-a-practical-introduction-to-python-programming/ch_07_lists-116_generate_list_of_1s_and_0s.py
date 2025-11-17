@@ -6,27 +6,27 @@ Using a for loop, create the list below, which consists of ones separated by inc
 
 
 def main():
-	ones_and_zeroes = generate_list_of_ones_and_zeroes()
-	display_result(ones_and_zeroes)
+	ones_and_zeros = generate_list_of_ones_and_zeros()
+	display_result(ones_and_zeros)
 
 
-def generate_list_of_ones_and_zeroes() -> list[int]:
-	ones_and_zeroes = []
+def generate_list_of_ones_and_zeros() -> list[int]:
+	ones_and_zeros = []
 
 	for i in range(11):
-		ones_and_zeroes.append(1)
+		ones_and_zeros.append(1)
 
 		if i > 0:
 			for _ in range(i):
-				ones_and_zeroes.append(0)
+				ones_and_zeros.append(0)
 
-	ones_and_zeroes.append(1)
+	ones_and_zeros.append(1)
 
-	return ones_and_zeroes
+	return ones_and_zeros
 
 
-def display_result(ones_and_zeroes: list[int]) -> None:
-	print(ones_and_zeroes)
+def display_result(ones_and_zeros: list[int]) -> None:
+	print(ones_and_zeros)
 
 
 if __name__ == '__main__':
