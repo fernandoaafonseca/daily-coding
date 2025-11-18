@@ -66,10 +66,11 @@ def get_shifts_from_user() -> list[int]:
 
 def decrypt_message(encrypted_message: str, shifts: list[int]) -> str:
 	'''
-	Encrypt a message using a one-time pad.
-	Letters are shifted forward in the alphabet by an amount determined by the "shifts" list. Non-letter characters are preserved.
-	This function assumes that "shifts" has the same length as "encrypted_message".
+	Decrypt a one-time-pad-encrypted message.
+	Letters are shifted backward in the alphabet by the amount specified in the corresponding position of the "shifts" list. Non-letter characters are preserved unchanged.
+	This function assumes that "shifts" has the same length as the "encrypted_message".
 	'''
+
 	decrypted_message = ''
 
 	for index, char in enumerate(encrypted_message):
