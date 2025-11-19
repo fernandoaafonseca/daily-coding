@@ -58,7 +58,7 @@ def display_result(text: str, every_third_word: list[str] | str) -> None:
 	press_any_key_to_continue()
 	clear_terminal()
 
-	print(f'YOur text: {text}')
+	print(f'Your text: {text}')
 	print(f'Every third word: {every_third_word}')
 
 
