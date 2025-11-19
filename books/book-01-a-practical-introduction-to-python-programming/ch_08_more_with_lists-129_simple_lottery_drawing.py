@@ -14,9 +14,10 @@ def main():
 def get_lottery_drawing() -> list[int]:
     lottery_drawing = []
 
-    for _ in range(6):
+    while len(lottery_drawing) < 6:
         new_num = draw_a_random_number()
-        lottery_drawing.append(new_num)
+        if new_num not in lottery_drawing:
+            lottery_drawing.append(new_num)
 
     return lottery_drawing
 
