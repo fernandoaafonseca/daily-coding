@@ -6,7 +6,7 @@ Write a program that removes any repeated items from a list so that each item ap
 import random
 
 
-def main():
+def main() -> None:
 	list_of_ints = generate_random_int_list()
 	unique_items_list = get_unique_items_list(list_of_ints)
 	display_result(list_of_ints, unique_items_list)

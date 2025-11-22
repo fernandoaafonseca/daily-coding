@@ -7,7 +7,7 @@
 import os, string
 
 
-def main():
+def main() -> None:
 	text = get_text()
 	every_third_word = find_every_third_word(text)
 	display_result(text, every_third_word)

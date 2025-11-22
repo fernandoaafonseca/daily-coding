@@ -7,7 +7,7 @@
 import os, string
 
 
-def main():
+def main() -> None:
 	text = get_text()
 	third_word = find_third_word(text)
 	display_result(text, third_word)

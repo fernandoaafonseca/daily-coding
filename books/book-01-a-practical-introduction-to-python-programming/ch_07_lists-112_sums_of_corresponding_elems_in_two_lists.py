@@ -3,7 +3,7 @@ Write a program that takes any two lists L and M of the same size and adds their
 '''
 
 
-def main():
+def main() -> None:
 	L, M = get_two_lists_same_size()
 	sums_L_M = sum_lists_elements(L, M)
 	display_result(L, M, sums_L_M)

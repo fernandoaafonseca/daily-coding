@@ -11,7 +11,7 @@ Write a program that asks the user to enter a list of integers. Do the following
 '''
 
 
-def main():
+def main() -> None:
 	list_of_ints = get_list_of_ints()
 	num_items = len(list_of_ints)
 	last_item = list_of_ints[-1]

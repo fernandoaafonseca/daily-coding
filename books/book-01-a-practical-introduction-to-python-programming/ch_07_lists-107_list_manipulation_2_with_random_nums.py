@@ -12,7 +12,7 @@ Write a program that generates a list of 20 random numbers between 1 and 100.
 import random
 
 
-def main():
+def main() -> None:
 	random_nums = generate_list_random_nums()
 	average = sum(random_nums) / len(random_nums)
 	smallest_value = min(random_nums)

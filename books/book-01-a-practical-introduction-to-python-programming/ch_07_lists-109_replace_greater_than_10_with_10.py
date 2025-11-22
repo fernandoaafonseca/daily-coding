@@ -3,7 +3,7 @@ Ask the user to enter a list containing numbers between 1 and 12. Then replace a
 '''
 
 
-def main():
+def main() -> None:
 	user_list = get_list_of_ints()
 	new_list = replace_greater_than_10_with_10(user_list)
 	display_result(user_list, new_list)

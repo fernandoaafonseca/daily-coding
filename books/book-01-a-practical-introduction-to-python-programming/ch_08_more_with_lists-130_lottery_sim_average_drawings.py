@@ -9,7 +9,7 @@ import random
 SIM_LENGTH = 1000
 
 
-def main():
+def main() -> None:
     attempts_list = run_simulation()
     average_attempts = get_average_attempts(attempts_list)
     display_result(average_attempts)

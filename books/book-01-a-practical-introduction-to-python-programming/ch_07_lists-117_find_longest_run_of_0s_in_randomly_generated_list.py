@@ -6,7 +6,7 @@ Write a program that generates 100 random integers that are either 0 or 1. Then 
 import random
 
 
-def main():
+def main() -> None:
 	ones_and_zeros = generate_list_of_ones_and_zeros()
 	longest_run = find_longest_run_of_zeros(ones_and_zeros)
 	display_result(ones_and_zeros, longest_run)

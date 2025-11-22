@@ -14,7 +14,7 @@ CLOSING_SYMBOLS = [')', ']', '}']
 VALID_CHARS = NUMBERS + LETTERS + OPERATORS + OPENING_SYMBOLS + CLOSING_SYMBOLS
 
 
-def main():
+def main() -> None:
 	expression = get_expression(VALID_CHARS)
 	new_expression = insert_multiplication_symbols(expression, NUMBERS, LETTERS, OPERATORS, OPENING_SYMBOLS, CLOSING_SYMBOLS)
 

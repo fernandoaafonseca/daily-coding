@@ -6,7 +6,7 @@ Write a program that asks the user to enter a length in feet. The program should
 import os
 
 
-def main():
+def main() -> None:
 	feet = get_length_in_feet()
 	choice = get_conversion_choice()
 	converted_unit, converted_value = convert_length(feet, choice)

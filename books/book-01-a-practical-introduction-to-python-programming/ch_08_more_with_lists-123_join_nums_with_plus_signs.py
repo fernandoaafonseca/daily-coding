@@ -6,7 +6,7 @@ Write a program that allows the user to enter five numbers (read as strings). Cr
 import os
 
 
-def main():
+def main() -> None:
 	nums_list = get_nums()
 	nums_string = add_plus_signs(nums_list)
 	display_result(nums_list, nums_string)

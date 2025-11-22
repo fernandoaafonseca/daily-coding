@@ -13,7 +13,7 @@ Start with the list [8, 9, 10]. Do the following:
 import random
 
 
-def main():
+def main() -> None:
 	EXPECTED_FINAL_LIST = [4, 5, 6, 25, 10, 17, 4, 5, 6, 10, 17]
 
 	l = [8, 9, 10]

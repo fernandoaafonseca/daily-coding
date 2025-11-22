@@ -5,7 +5,7 @@ Using a for loop, create the list below, which consists of ones separated by inc
 '''
 
 
-def main():
+def main() -> None:
 	ones_and_zeros = generate_list_of_ones_and_zeros()
 	display_result(ones_and_zeros)
 

@@ -7,7 +7,7 @@
 import os, random
 
 
-def main():
+def main() -> None:
     text = get_text()
     randomized = randomize_words_order_proper(text)
     display_result(text, randomized)

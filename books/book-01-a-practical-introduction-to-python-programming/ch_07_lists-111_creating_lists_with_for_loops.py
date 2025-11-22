@@ -13,7 +13,7 @@ import string
 ALPHABET = string.ascii_lowercase
 
 
-def main():
+def main() -> None:
 	list_of_ints = generate_list_of_ints()
 	list_of_squares = generate_list_of_squares()
 	list_of_letters = generate_list_of_letters(ALPHABET)

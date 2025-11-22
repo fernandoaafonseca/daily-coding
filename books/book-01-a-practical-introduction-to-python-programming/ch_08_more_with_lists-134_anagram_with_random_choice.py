@@ -6,7 +6,7 @@ Section 8.3 described how to use the shuffle method to create a random anagram o
 import os, random
 
 
-def main():
+def main() -> None:
     word = get_user_word()
     anagram = create_anagram(word)
     display_result(word, anagram)

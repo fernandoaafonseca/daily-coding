@@ -6,7 +6,7 @@ Write a program that simulates drawing names out of a hat. In this drawing, the 
 import os, random
 
 
-def main():
+def main() -> None:
     names = get_names()
     entries = get_entries(names)
     hat = build_hat(names, entries)

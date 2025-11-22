@@ -3,7 +3,7 @@ Write a program that rotates the elements of a list so that the element at the f
 '''
 
 
-def main():
+def main() -> None:
 	original_list = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 	rotated_list = rotate_elements(original_list)
 	display_result(original_list, rotated_list)

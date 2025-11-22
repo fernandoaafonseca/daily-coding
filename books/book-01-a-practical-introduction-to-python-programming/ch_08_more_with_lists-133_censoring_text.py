@@ -13,7 +13,7 @@ import os, string
 CURSE_WORDS = ['darn', 'dang', 'freakin', 'heck', 'shoot']
 
 
-def main():
+def main() -> None:
     text = get_text()
     censored_text = censor_text(text)
     display_result(censored_text)

@@ -15,7 +15,7 @@ ALPHABET = string.ascii_lowercase
 OTHER_VALID_CHARS = ' ,;:-.!?'
 
 
-def main():
+def main() -> None:
 	encrypted_message = get_message()
 	shifts = get_shifts_from_user()
 	decrypted_message = decrypt_message(encrypted_message, shifts)

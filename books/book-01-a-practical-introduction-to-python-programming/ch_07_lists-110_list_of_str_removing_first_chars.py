@@ -3,7 +3,7 @@ Ask the user to enter a list of strings. Create a new list that consists of thos
 '''
 
 
-def main():
+def main() -> None:
 	user_list = get_list_of_str()
 	user_list_without_first_chars = remove_first_chars(user_list)
 	display_result(user_list, user_list_without_first_chars)

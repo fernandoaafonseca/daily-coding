@@ -20,7 +20,7 @@ import os
 VALID_CHARS = '0123456789-'
 
 
-def main():
+def main() -> None:
 	phone_number = get_phone_number()
 	is_valid = is_valid_phone(phone_number)
 	display_result(is_valid)

@@ -3,7 +3,7 @@ Write a program that asks the user for an integer and creates a list that consis
 '''
 
 
-def main():
+def main() -> None:
 	user_num = get_user_num()
 	factors = get_factors(user_num)
 	display_result(user_num, factors)

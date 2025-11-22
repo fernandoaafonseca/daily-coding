@@ -32,7 +32,7 @@ ANSWERS = [
     ]
 
 
-def main():
+def main() -> None:
     selected_questions_indices = get_questions()
     score = run_quiz(selected_questions_indices)
     display_result(score)

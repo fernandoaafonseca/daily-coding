@@ -6,7 +6,7 @@ Write a simple lottery drawing program. The lottery drawing should consist of si
 import random
 
 
-def main():
+def main() -> None:
     lottery_drawing = get_lottery_drawing()
     display_result(lottery_drawing)
 

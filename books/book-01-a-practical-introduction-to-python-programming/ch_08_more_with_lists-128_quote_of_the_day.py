@@ -20,7 +20,7 @@ QUOTES = [
     ]
 
 
-def main():
+def main() -> None:
     random_quote = get_random_quote()
     display_result(random_quote)
 

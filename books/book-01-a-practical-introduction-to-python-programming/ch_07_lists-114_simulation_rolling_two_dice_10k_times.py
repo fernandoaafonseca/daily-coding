@@ -6,7 +6,7 @@ When playing games where you have to roll two dice, it is nice to know the odds 
 import random
 
 
-def main():
+def main() -> None:
 	DICE_VALUES = [1, 2, 3, 4, 5, 6]
 	SIM_LENGTH = 10000
 

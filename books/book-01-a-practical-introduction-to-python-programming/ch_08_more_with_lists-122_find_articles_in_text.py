@@ -9,7 +9,7 @@ import os, string
 ARTICLES = ['a', 'an', 'the']
 
 
-def main():
+def main() -> None:
 	text = get_text()
 	qty_articles = find_articles(text)
 	display_result(text, qty_articles)

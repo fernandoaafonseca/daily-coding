@@ -3,7 +3,7 @@ In calculus, the derivative of x^4 is 4x^3. The derivative of x^5 is 5x^4. The d
 '''
 
 
-def main():
+def main() -> None:
 	expression = get_expression()
 	derivative = find_derivative(expression)
 	display_result(expression, derivative)
