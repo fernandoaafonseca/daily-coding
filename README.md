@@ -1,6 +1,4 @@
-<h1
-align="center">👨‍💻 Daily coding
-</h1>
+<h1 align="center">👨‍💻 Daily coding</h1>
 
 <!--
 COURSES
