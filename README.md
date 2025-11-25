@@ -189,6 +189,42 @@ Sololearn: Introduction to C#
   </tr>
 
 <!--
+CS50P
+-->
+
+  <tr
+  height="60" >
+    <td
+    align="left" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-python-intermediate">
+        <img
+        src="https://img.shields.io/badge/Python-FFE43B?style=for-the-badge&logo=python"
+        height="25" />
+      </a>
+      <br>
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-python-intermediate">
+        <i>SoloLearn</i> | 🐍 <b>Python Intermediate</b>
+      </a>
+    <td
+    align="center" >
+        ⏳
+    </td>
+    </td>
+    <td
+    align="center" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-sololearn-python-intermediate">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-sololearn-python-intermediate?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=file" alt="sololearn-python-intermediate file count"
+        height="25"
+        />
+      </a>
+    </td>
+  </tr>
+
+<!--
 Complete C# Masterclass
 -->
 
