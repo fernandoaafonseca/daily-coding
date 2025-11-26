@@ -223,11 +223,23 @@ CS50P
       </a>
     </td>
   </tr>
+</table>
+
+<!--
+...
+-->
+
+<!--
+======================
+COURSES TO START OR CONTINUE LATER
+======================
+-->
 
 <!--
 Complete C# Masterclass
 -->
 
+<!--
   <tr
   height="60" >
     <td
@@ -261,11 +273,13 @@ Complete C# Masterclass
       </a>
     </td>
   </tr>
+-->
 
 <!--
 Pikuma: Atari 2600 Programming with 6502 Assembly
 -->
 
+<!--
   <tr
   height="60" >
     <td
@@ -299,11 +313,13 @@ Pikuma: Atari 2600 Programming with 6502 Assembly
       </a>
     </td>
   </tr>
+-->
 
 <!--
 Pikuma: NES Programming with 6502 Assembly
 -->
 
+<!--
   <tr
   height="60" >
     <td
@@ -339,16 +355,6 @@ Pikuma: NES Programming with 6502 Assembly
       </a>
     </td>
   </tr>
-</table>
-
-<!--
-...
--->
-
-<!--
-======================
-COURSES TO START LATER
-======================
 -->
 
 <!--
@@ -526,11 +532,23 @@ A Practical Introduction to Python Programming
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-01-a-practical-introduction-to-python-programming">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-01-a-practical-introduction-to-python-programming?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=file" alt="chapters file count" height="25" />
     </td>
+</table>
+
+<!--
+...
+-->
+
+<!--
+======================
+BOOKS TO START OR CONTINUE LATER
+======================
+-->
 
 <!--
 77 Python Advanced Programming Exercises
 -->
   
+<!--
   <tr height="60" >
     <td align="left" >
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-02-77-python-advanced-programming-exercises/">
@@ -547,7 +565,7 @@ A Practical Introduction to Python Programming
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/books/book-02-77-python-advanced-programming-exercises/">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/books/book-02-77-python-advanced-programming-exercises?label=Exercises&style=for-the-badge&logo=python&color=%23306998&type=file" alt="exercises file count" height="25" />
     </td>
-</table>
+-->
 
 <!--
 ...
