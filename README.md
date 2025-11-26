@@ -964,7 +964,7 @@ IAEA: AI Recommendation Systems
 -->
 
   <li>
-    <h6>(2021-11) IAEA: AI Recommendation Systems</h6>
+    <h4>(2021-11) IAEA: AI Recommendation Systems</h4>
       <a href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
         <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" width="500" />
       </a>
