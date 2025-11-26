@@ -966,7 +966,7 @@ IAEA: AI Recommendation Systems
   <li>
     <h6>(2021-11) IAEA: AI Recommendation Systems</h6>
       <a href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" height="150" width="200" />
+        <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" width="500" />
       </a>
   </li>
 
@@ -988,7 +988,7 @@ Kaggle: Data Visualization
   <li>
     <h6>(2022-06) Kaggle: Data Visualization</h6>
       <a href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" height="150" width="250" />
+        <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" width="500" />
       </a>
   </li>
 
@@ -999,7 +999,7 @@ IAEA: ML and DS with Python
   <li>
     <h6>(2022-07) IAEA: ML and DS with Python</h6>
       <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="200" />
+        <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" width="500" />
       </a>
   </li>
 
@@ -1021,7 +1021,7 @@ HackerRank: Python (Basic)
   <li>
     <h6>(2023-06) HackerRank: Python (Basic)</h6>
       <a href="https://drive.google.com/file/d/1JV_M2HqlU68AGigXEd61__4qEpQuNmUW/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" height="150" width="200" />
+        <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" width="500" />
       </a>
   </li>
 
@@ -1032,7 +1032,7 @@ Sololearn: Introduction to JavaScript
   <li>
     <h6>(2023-06) Sololearn: Introduction to JavaScript</h6>
       <a href="https://drive.google.com/file/d/1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" height="150" width="220" />
+        <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" width="500" />
       </a>
   </li>
 
@@ -1043,7 +1043,7 @@ Sololearn: Introduction to Python
   <li>
     <h6>(2023-06) Sololearn: Introduction to Python</h6>
       <a href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" height="150" width="220" />
+        <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" width="500" />
       </a>
   </li>
 
@@ -1054,7 +1054,7 @@ OpenLearn: Getting started with German 1
   <li>
     <h6>(2024-11) OpenLearn: Getting started with German 1</h6>
       <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1Wj14gG8fXYHlO2sPlKdC88SK7575laij" alt="OpenLearn: Getting started with German 1" height="150" width="220" />
+        <img src="https://drive.google.com/uc?id=1Wj14gG8fXYHlO2sPlKdC88SK7575laij" alt="OpenLearn: Getting started with German 1" width="500" />
       </a>
   </li>
 
@@ -1065,7 +1065,7 @@ Sololearn: Introduction to C#
   <li>
     <h6>(2024-11) Sololearn: Introduction to C#</h6>
       <a href="https://drive.google.com/file/d/15aM3wlQFz6r5u2XSumAFr5l5pj8WZ0RW/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi" alt="Sololearn: Introduction to C#" height="150" width="220" />
+        <img src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi" alt="Sololearn: Introduction to C#" width="500" />
       </a>
   </li>
 
@@ -1076,7 +1076,7 @@ Duoling: English Course
   <li>
     <h6>(2025-11) Duoling: English Course</h6>
       <a href="https://drive.google.com/file/d/1wOdheV9Btt0_juGTyXDVhxccCJ-NUUqg/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1bl2YyOp4tEjXfSUbvyrijWP6qT6ezXUw" alt="Duoling: English Course" height="150" width="220" />
+        <img src="https://drive.google.com/uc?id=1bl2YyOp4tEjXfSUbvyrijWP6qT6ezXUw" alt="Duoling: English Course" width="500" />
       </a>
   </li>
 
@@ -1087,7 +1087,7 @@ Sololearn: Python Intermediate
   <li>
     <h6>(2025-11) Sololearn: Python Intermediate</h6>
       <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=drive_link">
-        <img src="https://drive.google.com/uc?id=1qgquuRtZwWcz1IrQ53T6h4VTDh0tz05g" alt="Sololearn: Python Intermediate" height="150" width="220" />
+        <img src="https://drive.google.com/uc?id=1qgquuRtZwWcz1IrQ53T6h4VTDh0tz05g" alt="Sololearn: Python Intermediate" width="500" />
       </a>
   </li>
 
