@@ -890,215 +890,208 @@ CERTIFICATES
 -->
 
 <h2>🎓 Certificates:</h2>
-  <ul>
-    <li>
-      <h4>(2021/11)   Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
-        <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
-          <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>(2021/02) IMD/UFRN: Web Developer</h4>
-        <a href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=sharing">
-          <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>(2022/05) IA Expert Academy: Statistics for Data Science and Machine Learning</h4>
-        <a href="https://drive.google.com/file/d/1elqPafawb-YsiaqKvmrRq0HOMBXa0nlW/view?usp=sharing">
-          <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>(2023/03) UNESA - B. Tech. in Data Science</h4>
-        <a href="https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
-          <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
-        </a>
-    </li>
-    <li>
-      <h4>(2021/02) Unhide School: Advanced Photoshop</h4>
-        <a href="https://drive.google.com/file/d/1hu8N2hxgpgTmJ5MBcwHJI2Iu-hmn2Dor/view?usp=sharing">
-          <img src="https://drive.google.com/uc?id=1t8QYr-bJI2aY7Iwg67nHy08IhTIaVUwr" alt="Unhide School: Advanced Photoshop" width="500" />
-        </a>
-    </li>
-  </ul>
 
-
-<!--
-...
--->
-
-<!--
-SOME OTHER CERTIFICATES
--->
-
-<!--
-<h2>🤓 Some other certificates:</h2>
--->
+<ul>
 
 <!--
 SOS Computadores: IT
 -->
 
-
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2005-02) SOS Computadores: IT</h6>
-              <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
-
+  <li>
+    <h6>(2005-02) SOS Computadores: IT</h6>
+      <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
+      </a>
+  </li>
 
 <!--
 Sololearn: HTML
 -->
 
-
-      <td>
-        <ul>
-          <li>
-            <h6>(2020-10) Sololearn: HTML</h6>
-              <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="220" />
-              </a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-
+  <li>
+    <h6>(2020-10) Sololearn: HTML</h6>
+      <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" height="150" width="220" />
+      </a>
+  </li>
 
 <!--
 Udemy: Photoshop Training
 -->
 
+  <li>
+    <h6>(2020-11) Udemy: Photoshop Training</h6>
+      <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
+        <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" height="150" width="200" />
+      </a>
+  </li>
 
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2020-11) Udemy: Photoshop Training</h6>
-              <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
-                <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
+<!--
+Unhide School: Advanced Photoshop
+-->
 
+  <li>
+    <h4>(2021/02) Unhide School: Advanced Photoshop</h4>
+      <a href="https://drive.google.com/file/d/1hu8N2hxgpgTmJ5MBcwHJI2Iu-hmn2Dor/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1t8QYr-bJI2aY7Iwg67nHy08IhTIaVUwr" alt="Unhide School: Advanced Photoshop" width="500" />
+      </a>
+  </li>
+
+<!--
+IMD/UFRN: Web Developer
+-->
+
+  <li>
+    <h4>(2021/02) IMD/UFRN: Web Developer</h4>
+      <a href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
+      </a>
+  </li>
+
+<!--
+Udemy - Colt Steele: The Moden Python 3 Bootcamp
+-->
+
+  <li>
+    <h4>(2021/11) Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
+      <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
+        <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+      </a>
+  </li>
 
 <!--
 IAEA: AI Recommendation Systems
 -->
 
+  <li>
+    <h6>(2021-11) IAEA: AI Recommendation Systems</h6>
+      <a href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" height="150" width="200" />
+      </a>
+  </li>
 
-      <td>
-        <ul>
-          <li>
-            <h6>(2021-11) IAEA: AI Recommendation Systems</h6>
-              <a href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
-    </tr>
+<!--
+IAEA: Statistics for Data Science and Machine Learning
+-->
 
+  <li>
+    <h4>(2022/05) IAEA: Statistics for Data Science and Machine Learning</h4>
+      <a href="https://drive.google.com/file/d/1elqPafawb-YsiaqKvmrRq0HOMBXa0nlW/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
+      </a>
+  </li>
 
 <!--
 Kaggle: Data Visualization
 -->
 
-
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2022-06) Kaggle: Data Visualization</h6>
-              <a href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" height="150" width="250" />
-              </a>
-          </li>
-        </ul>
-      </td>
--->
+  <li>
+    <h6>(2022-06) Kaggle: Data Visualization</h6>
+      <a href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" height="150" width="250" />
+      </a>
+  </li>
 
 <!--
 IAEA: ML and DS with Python
 -->
 
+  <li>
+    <h6>(2022-07) IAEA: ML and DS with Python</h6>
+      <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="200" />
+      </a>
+  </li>
 
-      <td>
-        <ul>
-          <li>
-            <h6>(2022-07) IAEA: ML and DS with Python</h6>
-              <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
-    </tr>
+<!--
+UNESA - B. Tech. in Data Science
+-->
 
+  <li>
+    <h4>(2023/03) UNESA - B. Tech. in Data Science</h4>
+      <a href="https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+        <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
+      </a>
+  </li>
 
 <!--
 HackerRank: Python (Basic)
 -->
 
-
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2023-06) HackerRank: Python (Basic)</h6>
-              <a href="https://drive.google.com/file/d/1JV_M2HqlU68AGigXEd61__4qEpQuNmUW/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
-
+  <li>
+    <h6>(2023-06) HackerRank: Python (Basic)</h6>
+      <a href="https://drive.google.com/file/d/1JV_M2HqlU68AGigXEd61__4qEpQuNmUW/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" height="150" width="200" />
+      </a>
+  </li>
 
 <!--
 Sololearn: Introduction to JavaScript
 -->
 
-
-      <td>
-        <ul>
-          <li>
-            <h6>(2023-06) Sololearn: Introduction to JavaScript</h6>
-              <a href="https://drive.google.com/file/d/1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" height="150" width="220" />
-              </a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-
+  <li>
+    <h6>(2023-06) Sololearn: Introduction to JavaScript</h6>
+      <a href="https://drive.google.com/file/d/1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" height="150" width="220" />
+      </a>
+  </li>
 
 <!--
 Sololearn: Introduction to Python
 -->
 
+  <li>
+    <h6>(2023-06) Sololearn: Introduction to Python</h6>
+      <a href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" height="150" width="220" />
+      </a>
+  </li>
 
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2023-06) Sololearn: Introduction to Python</h6>
-              <a href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" height="150" width="220" />
-              </a>
-          </li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+<!--
+OpenLearn: Getting started with German 1
+-->
+
+  <li>
+    <h6>(2024-11) OpenLearn: Getting started with German 1</h6>
+      <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1Wj14gG8fXYHlO2sPlKdC88SK7575laij" alt="OpenLearn: Getting started with German 1" height="150" width="220" />
+      </a>
+  </li>
+
+<!--
+Sololearn: Introduction to C#
+-->
+
+  <li>
+    <h6>(2024-11) Sololearn: Introduction to C#</h6>
+      <a href="https://drive.google.com/file/d/15aM3wlQFz6r5u2XSumAFr5l5pj8WZ0RW/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi" alt="Sololearn: Introduction to C#" height="150" width="220" />
+      </a>
+  </li>
+
+<!--
+Duoling: English Course
+-->
+
+  <li>
+    <h6>(2025-11) Duoling: English Course</h6>
+      <a href="https://drive.google.com/file/d/1wOdheV9Btt0_juGTyXDVhxccCJ-NUUqg/view?usp=sharing">
+        <img src="https://drive.google.com/uc?id=1bl2YyOp4tEjXfSUbvyrijWP6qT6ezXUw" alt="Duoling: English Course" height="150" width="220" />
+      </a>
+  </li>
+
+<!--
+Sololearn: Python Intermediate
+-->
+
+  <li>
+    <h6>(2025-11) Sololearn: Python Intermediate</h6>
+      <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=drive_link">
+        <img src="https://drive.google.com/uc?id=1qgquuRtZwWcz1IrQ53T6h4VTDh0tz05g" alt="Sololearn: Python Intermediate" height="150" width="220" />
+      </a>
+  </li>
+
+</ul>
 
 
 <!--
