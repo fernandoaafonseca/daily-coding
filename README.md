@@ -909,7 +909,7 @@ Sololearn: HTML
 -->
 
   <li>
-    <h6>(2020-10) Sololearn: HTML</h6>
+    <h4>(2020-10) Sololearn: HTML</h4>
       <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
         <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" width="500" />
       </a>
@@ -920,7 +920,7 @@ Udemy: Photoshop Training
 -->
 
   <li>
-    <h6>(2020-11) Udemy: Photoshop Training</h6>
+    <h4>(2020-11) Udemy: Photoshop Training</h4>
       <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
         <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" width="500" />
       </a>
