@@ -898,7 +898,7 @@ SOS Computadores: IT
 -->
 
   <li>
-    <h6>(2005-02) SOS Computadores: IT</h6>
+    <h4>(2005-02) SOS Computadores: IT</h4>
       <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
         <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" width="500" />
       </a>
@@ -986,7 +986,7 @@ Kaggle: Data Visualization
 -->
 
   <li>
-    <h6>(2022-06) Kaggle: Data Visualization</h6>
+    <h4>(2022-06) Kaggle: Data Visualization</h4>
       <a href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
         <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" width="500" />
       </a>
@@ -997,7 +997,7 @@ IAEA: ML and DS with Python
 -->
 
   <li>
-    <h6>(2022-07) IAEA: ML and DS with Python</h6>
+    <h4>(2022-07) IAEA: ML and DS with Python</h4>
       <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
         <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" width="500" />
       </a>
