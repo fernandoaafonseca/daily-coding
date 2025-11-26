@@ -889,9 +889,24 @@ License
 CERTIFICATES
 -->
 
-<!--
 <h2>🎓 Certificates:</h2>
-  <ul>
+
+<!--
+SOS Computadores: IT
+-->
+<ul>
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>
+            <h6>(2005-02) SOS Computadores: IT</h6>
+              <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
+                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
+              </a>
+          </li>
+        </ul>
+      </td>
     <li>
       <h4>(2021/11)   Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
         <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
@@ -937,23 +952,6 @@ SOME OTHER CERTIFICATES
 <h2>🤓 Some other certificates:</h2>
 -->
 
-<!--
-SOS Computadores: IT
--->
-
-<!--
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2005-02) SOS Computadores: IT</h6>
-              <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
 -->
 
 <!--
