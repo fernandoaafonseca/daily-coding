@@ -890,23 +890,7 @@ CERTIFICATES
 -->
 
 <h2>🎓 Certificates:</h2>
-
-<!--
-SOS Computadores: IT
--->
-<ul>
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li>
-            <h6>(2005-02) SOS Computadores: IT</h6>
-              <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
-                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
-              </a>
-          </li>
-        </ul>
-      </td>
+  <ul>
     <li>
       <h4>(2021/11)   Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
         <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
@@ -938,7 +922,7 @@ SOS Computadores: IT
         </a>
     </li>
   </ul>
--->
+
 
 <!--
 ...
@@ -952,13 +936,30 @@ SOME OTHER CERTIFICATES
 <h2>🤓 Some other certificates:</h2>
 -->
 
+<!--
+SOS Computadores: IT
 -->
+
+
+  <table>
+    <tr>
+      <td>
+        <ul>
+          <li>
+            <h6>(2005-02) SOS Computadores: IT</h6>
+              <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
+                <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" height="150" width="200" />
+              </a>
+          </li>
+        </ul>
+      </td>
+
 
 <!--
 Sololearn: HTML
 -->
 
-<!--
+
       <td>
         <ul>
           <li>
@@ -970,13 +971,13 @@ Sololearn: HTML
         </ul>
       </td>
     </tr>
--->
+
 
 <!--
 Udemy: Photoshop Training
 -->
 
-<!--
+
     <tr>
       <td>
         <ul>
@@ -988,13 +989,13 @@ Udemy: Photoshop Training
           </li>
         </ul>
       </td>
--->
+
 
 <!--
 IAEA: AI Recommendation Systems
 -->
 
-<!--
+
       <td>
         <ul>
           <li>
@@ -1006,13 +1007,13 @@ IAEA: AI Recommendation Systems
         </ul>
       </td>
     </tr>
--->
+
 
 <!--
 Kaggle: Data Visualization
 -->
 
-<!--
+
     <tr>
       <td>
         <ul>
@@ -1030,7 +1031,7 @@ Kaggle: Data Visualization
 IAEA: ML and DS with Python
 -->
 
-<!--
+
       <td>
         <ul>
           <li>
@@ -1042,13 +1043,13 @@ IAEA: ML and DS with Python
         </ul>
       </td>
     </tr>
--->
+
 
 <!--
 HackerRank: Python (Basic)
 -->
 
-<!--
+
     <tr>
       <td>
         <ul>
@@ -1060,13 +1061,13 @@ HackerRank: Python (Basic)
           </li>
         </ul>
       </td>
--->
+
 
 <!--
 Sololearn: Introduction to JavaScript
 -->
 
-<!--
+
       <td>
         <ul>
           <li>
@@ -1078,13 +1079,13 @@ Sololearn: Introduction to JavaScript
         </ul>
       </td>
     </tr>
--->
+
 
 <!--
 Sololearn: Introduction to Python
 -->
 
-<!--
+
     <tr>
       <td>
         <ul>
@@ -1098,7 +1099,7 @@ Sololearn: Introduction to Python
       </td>
     </tr>
   </table>
--->
+
 
 <!--
 ...
