@@ -832,60 +832,6 @@ Streak Stats
 
 <hr>
 <!--
-FOOTER BADGES
--->
-
-<!--
-WakaTime
--->
-
-<p>
-  <a href="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding">
-    <img src="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding.svg" alt="Wakatime: Total time coding" height="25" >
-  </a>
-
-<!--
-Last commit
--->
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
-    <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" height="25" />
-  </a>
-
-<!--
-Code size
--->
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/">
-    <img src="https://img.shields.io/github/languages/code-size/fernandoaafonseca/daily-coding" alt="Code size" height="25" />
-  </a>
-
-<!--
-Repo size
--->
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/">
-    <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
-  </a>
-
-<!--
-License
--->
-
-  <a href="https://github.com/fernandoaafonseca/daily-coding/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
-  </a>
-</p>
-
-<!--
-...
--->
-
-<!--
-<hr>
--->
-
-<!--
 CERTIFICATES
 -->
 
@@ -1093,6 +1039,56 @@ Sololearn: Python Intermediate
 
 </ul>
 
+<!--
+...
+-->
+
+<hr>
+<!--
+FOOTER BADGES
+-->
+
+<!--
+WakaTime
+-->
+
+<p>
+  <a href="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding">
+    <img src="https://wakatime.com/badge/github/fernandoaafonseca/daily-coding.svg" alt="Wakatime: Total time coding" height="25" >
+  </a>
+
+<!--
+Last commit
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/commits/main">
+    <img src="https://img.shields.io/github/last-commit/fernandoaafonseca/daily-coding" alt="Last commit" height="25" />
+  </a>
+
+<!--
+Code size
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/">
+    <img src="https://img.shields.io/github/languages/code-size/fernandoaafonseca/daily-coding" alt="Code size" height="25" />
+  </a>
+
+<!--
+Repo size
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/">
+    <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
+  </a>
+
+<!--
+License
+-->
+
+  <a href="https://github.com/fernandoaafonseca/daily-coding/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
+  </a>
+</p>
 
 <!--
 ...
