@@ -609,6 +609,35 @@ ASSEMBLY
   </tr>
 
 <!--
+BASH
+-->
+
+  <tr>
+    <td
+    align="center">
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/bash-cli">
+        <img
+        src="https://img.shields.io/badge/Bash / CLI-4EAA25?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF"
+        height="25"
+        />
+      </a>
+    </td>
+    <td
+    align="center"
+    colspan="2">
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/bash-cli/bash-cli-exercises">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/bash-cli/bash-cli-exercises?label=Exercises&style=for-the-badge&logo=gnubash&color=%234EAA25&logoColor=%234EAA25&type=file"
+        alt="bash-cli-exercises file count"
+        height="25"
+        />
+      </a>      
+    </td>
+  </tr>
+
+<!--
 BASIC
 -->
 
@@ -693,11 +722,11 @@ Lua
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/lua/love2d-exercises">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/love2d-exercises?label=L%C3%B6ve2D%20Exercises&style=for-the-badge&logo=lua&color=%2300007D&logoColor=%2300007D&type=dir" alt="love2d-exercises file count" height="25" />
-      </a>
       <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/lua/lua-exercises">
         <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/lua-exercises?label=Exercises&style=for-the-badge&logo=lua&color=%2300007D&logoColor=%2300007D&type=file" alt="lua-exercises file count" height="25" />
+      </a>
+      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/lua/love2d-exercises">
+        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/lua/love2d-exercises?label=L%C3%B6ve2D%20Exercises&style=for-the-badge&logo=lua&color=%2300007D&logoColor=%2300007D&type=dir" alt="love2d-exercises file count" height="25" />
       </a>
     </td>
   </tr>
