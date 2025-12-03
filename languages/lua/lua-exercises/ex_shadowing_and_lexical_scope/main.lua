@@ -29,24 +29,25 @@ Do the following:
 ]]
 
 
+-- This is a global variable (accessible everywhere)
 value = 42
 print(value)
 
-
 do
+    -- This local variable shadows the global one inside this block
     local value = 7
     print('Value inside the block: ' .. value)
 end
 
 print('Value outside the block: ' .. value)
 
-
+-- A new local variable (this shadows the global, but only after this line)
 local value = 'outer'
 
-
 do
+    -- This shadows the previous local
    local value = 'inner'
-   print(value)
+    print('Value inside the inner block: ' .. value)
 end
 
-print(value)
+print('Value outside the inner block: ' .. value)
