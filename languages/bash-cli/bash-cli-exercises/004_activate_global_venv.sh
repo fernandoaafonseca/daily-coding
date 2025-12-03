@@ -50,7 +50,7 @@ echo '-=-=-=-=-=--=-=-=-=-=--=-=-=-=-=--=-=-=-=-=-'
 
 
 # -----------------------------------------------------------------------------
-# Alternative method for a universal venv (English explanation):
+# Alternative method for a universal venv:
 #
 # Create a single fixed venv, like:
 #
