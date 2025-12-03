@@ -31,7 +31,6 @@ local local_a = 3
 local local_b = 4
 print(local_a + local_b)
 
-
 -- Creating a new local variable inside an explicit block
 do
 	local local_x = 5
