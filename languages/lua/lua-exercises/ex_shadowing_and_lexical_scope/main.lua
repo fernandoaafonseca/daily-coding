@@ -31,7 +31,7 @@ Do the following:
 
 -- This is a global variable (accessible everywhere)
 value = 42
-print(value)
+print('Value beside the block: ' .. value)
 
 do
     -- This local variable shadows the global one inside this block
