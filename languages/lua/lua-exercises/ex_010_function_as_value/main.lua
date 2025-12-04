@@ -9,3 +9,18 @@ Do the following:
 
     4. Add a comment explaining that in Lua, functions are values just like numbers or strings, and can be stored in variables or passed around freely.
 ]]
+
+--[[
+Functions in Lua are values. They can be stored in variables,
+copied, and passed around just like numbers or strings.
+]]
+
+square = function(n)
+    return n * n
+end
+
+
+square_copy = square
+
+print(square(4))
+print(square_copy(4))
