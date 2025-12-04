@@ -49,112 +49,47 @@ Hints
     - Recall that you can format USD to four decimal places with a thousands separator with code like:
 
         print(f"${amount:,.4f}")
+
+
+Before You Begin
+    - Create a CoinCap account at CoinCap Sign Up (https://pro.coincap.io/signup) and obtain an API key by clicking the “Add New Key” button in your CoinCap Dashboard (https://pro.coincap.io/dashboard). You will need to use this API key in your program. You can read more about the API usage in the CoinCap API documentation (https://pro.coincap.io/api-docs/).
 '''
 
 
-import random
+import requests
 import sys
 
 
-def main():
-    num_of_problems = 10
-    level = get_level()
-    problem_set = generate_problem_set(level, num_of_problems)
-    game_engine(problem_set)
+def main() -> None:
+    num_of_btc = get_num_of_btc()
+    btc_in_usd = get_btc_value_in_usd(num_of_btc)
+    print(f'${btc_in_usd:,.4f}')
 
 
-def get_level() -> int:
-    accepted_levels = [1, 2, 3]
-    while True:
+def get_num_of_btc() -> float:
+    if len(sys.argv) == 2:
         try:
-            level = int(input('Level: '))
-            if level in accepted_levels:
-                return level
-            else:
-                raise ValueError
-        except:
-            continue
+            # The index 0 is the first argument (the name of the file), so index 1 is the second argument received from the user.
+            num_of_btc = float(sys.argv[1])
+            return num_of_btc
+        except ValueError:
+            print('command-line argument is not a number')
+            sys.exit(1)
+    else:
+        print('Missing command-line argument')
+        sys.exit(1)
 
 
-def generate_integer(level: int) -> tuple[int]:
+def get_btc_value_in_usd(num_of_btc: float) -> None:
+    API_KEY = 'e8e08229bcdc6d53b6cf6062d76783aa70116c5aea6acee5f9288c6e1efe59e2'
     try:
-        if level in [1, 2, 3]:
-            match level:
-                case 1:
-                    min_num = 0
-                    max_num = 9
-                case 2:
-                    min_num = 10
-                    max_num = 99
-                case 3:
-                    min_num = 100
-                    max_num = 999
-
-            return random.randint(min_num, max_num)
-
-    except:
-        raise ValueError
-
-
-def generate_problem_set(level: int, num_of_problems: int) -> list:
-    problem_set = []
-
-    for i in range(num_of_problems):
-        problem_num = i + 1
-        x = generate_integer(level)
-        y = generate_integer(level)
-        result = x + y
-        problem_set.append({'Problem #': problem_num,
-                           'x': x,
-                            'y': y,
-                            'Result': result})
-
-    return problem_set
-
-
-def get_user_guess() -> int:
-    while True:
-        try:
-            user_guess = int(input('\nGuess: '))
-            break
-        except:
-            continue
-
-    return user_guess
-
-
-def game_engine(problem_set: list) -> None:
-    current_problem_num = 1
-    qty_of_problems = len(problem_set)
-    user_num_of_tries = 3
-    user_score = 0
-
-    while current_problem_num <= qty_of_problems:
-        current_problem = problem_set[current_problem_num - 1]
-        result = current_problem['Result']
-
-        print(f'{current_problem['x']} + {current_problem['y']} = ')
-
-        if user_num_of_tries > 0:
-            user_guess = get_user_guess()
-            if user_guess == result:
-                user_score += 1
-                current_problem_num += 1
-            else:
-                print('EEE')
-                user_num_of_tries -= 1
-
-        else:
-            print(
-                f'{current_problem['x']} + {current_problem['y']} = {result}')
-            if current_problem_num <= qty_of_problems:
-                user_num_of_tries = 3
-                current_problem_num += 1
-            else:
-                break
-
-    print(f'{user_score}')
-    sys.exit()
+        response = requests.get(f'https://rest.coincap.io/v3/assets/bitcoin?apiKey={API_KEY}')
+        btc_price = float(response.json()['data']['priceUsd'])
+        result = num_of_btc * btc_price
+        return result
+    except requests.RequestException:
+        print('API error')
+        sys.exit(1)
 
 
 if __name__ == '__main__':
