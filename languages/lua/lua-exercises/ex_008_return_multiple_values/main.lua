@@ -16,10 +16,14 @@ Do the following:
 ]]
 
 
+--[[
+This function returns three separate values: health, mana and stamina.
+Lua supports multiple return values without needing lists or tables.
+]]
 local get_player_stats = function()
-    health = 100
-    mana = 20
-    stamina = 10
+    local health = 100
+    local mana = 20
+    local stamina = 10
     return health, mana, stamina
 end
 
