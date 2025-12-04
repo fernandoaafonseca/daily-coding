@@ -26,7 +26,8 @@ Be sure to include
     or
 
     from twttr import shorten
-    atop test_twttr.py so that you can call shorten in your tests.
+
+atop test_twttr.py so that you can call shorten in your tests.
 
 Take care to return, not print, a str in shorten. Only main should call print.
 '''
