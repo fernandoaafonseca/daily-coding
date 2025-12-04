@@ -9,3 +9,15 @@ Do the following:
 
     4. Use snake_case and single quotes everywhere.
 ]]
+
+
+--[[
+The loop variable 'i' exists only inside the for-loop block.
+Outside of the loop, the variable 'i' is nil.
+]]
+for i = 1, 5 do
+    print(i)
+end
+
+-- prints nil
+print(i)
