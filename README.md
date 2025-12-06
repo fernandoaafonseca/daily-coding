@@ -1118,7 +1118,3 @@ License
     <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
   </a>
 </p>
-
-<!--
-...
--->
