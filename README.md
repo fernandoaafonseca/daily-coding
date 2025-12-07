@@ -1107,7 +1107,10 @@ Repo size
 -->
 
   <a href="https://github.com/fernandoaafonseca/daily-coding/">
-    <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding" alt="Repo size" height="25" />
+    <img src="https://img.shields.io/github/repo-size/fernandoaafonseca/daily-coding"
+    alt="Repo size"
+    height="25"
+    />
   </a>
 
 <!--
@@ -1115,6 +1118,7 @@ License
 -->
 
   <a href="https://github.com/fernandoaafonseca/daily-coding/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
+    <img
+    src="https://img.shields.io/github/license/fernandoaafonseca/daily-coding" alt="Repo license" height="25" />
   </a>
 </p>
