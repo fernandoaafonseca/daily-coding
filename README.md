@@ -1062,7 +1062,11 @@ Sololearn: Python Intermediate
   <li>
     <h4>(2025-11) Sololearn: Python Intermediate</h4>
       <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=drive_link">
-        <img src="https://drive.google.com/uc?id=1qgquuRtZwWcz1IrQ53T6h4VTDh0tz05g" alt="Sololearn: Python Intermediate" width="500" />
+        <img
+        src="https://drive.google.com/uc?id=1qgquuRtZwWcz1IrQ53T6h4VTDh0tz05g"
+        alt="Sololearn: Python Intermediate"
+        width="500"
+        />
       </a>
   </li>
 
