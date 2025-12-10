@@ -1040,7 +1040,10 @@ Sololearn: Introduction to C#
   <li>
     <h4>(2024-11) Sololearn: Introduction to C#</h4>
       <a href="https://drive.google.com/file/d/15aM3wlQFz6r5u2XSumAFr5l5pj8WZ0RW/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi" alt="Sololearn: Introduction to C#" width="500" />
+        <img src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi"
+        alt="Sololearn: Introduction to C#"
+        width="500"
+        />
       </a>
   </li>
 
@@ -1051,7 +1054,11 @@ Duoling: English Course
   <li>
     <h4>(2025-11) Duoling: English Course</h4>
       <a href="https://drive.google.com/file/d/1wOdheV9Btt0_juGTyXDVhxccCJ-NUUqg/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1bl2YyOp4tEjXfSUbvyrijWP6qT6ezXUw" alt="Duoling: English Course" width="500" />
+        <img
+        src="https://drive.google.com/uc?id=1bl2YyOp4tEjXfSUbvyrijWP6qT6ezXUw"
+        alt="Duoling: English Course"
+        width="500"
+        />
       </a>
   </li>
 
