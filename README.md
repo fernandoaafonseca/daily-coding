@@ -940,8 +940,13 @@ IAEA: AI Recommendation Systems
 
   <li>
     <h4>(2021-11) IAEA: AI Recommendation Systems</h4>
-      <a href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER" alt="IA Expert Academy: Recommendation Systems in Python" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1h6DaZnLb_uOX91luMakP1XoxB0qHWWER/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1h6DaZnLb_uOX91luMakP1XoxB0qHWWER"
+        alt="IA Expert Academy: Recommendation Systems in Python"
+        width="500"
+        />
       </a>
   </li>
 
@@ -951,8 +956,13 @@ IAEA: Statistics for Data Science and Machine Learning
 
   <li>
     <h4>(2022/05) IAEA: Statistics for Data Science and Machine Learning</h4>
-      <a href="https://drive.google.com/file/d/1elqPafawb-YsiaqKvmrRq0HOMBXa0nlW/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB" alt="IA Expert Academy: Statistics for Data Science and Machine Learning" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1elqPafawb-YsiaqKvmrRq0HOMBXa0nlW/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1C-PGtoIkp360MJTC3aIOss57mAcjbSGB"
+        alt="IA Expert Academy: Statistics for Data Science and Machine Learning"
+        width="500"
+        />
       </a>
   </li>
 
@@ -962,8 +972,13 @@ Kaggle: Data Visualization
 
   <li>
     <h4>(2022-06) Kaggle: Data Visualization</h4>
-      <a href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT" alt="Kaggle: Data Visualization" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1LLWUT0T-Gu3XoQROvn_Cat-iJplLLsYT"
+        alt="Kaggle: Data Visualization"
+        width="500"
+        />
       </a>
   </li>
 
@@ -973,8 +988,13 @@ IAEA: ML and DS with Python
 
   <li>
     <h4>(2022-07) IAEA: ML and DS with Python</h4>
-      <a href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk" alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1zaWEpu25nU3cfrvSJonbVRAf6W_FRFOk"
+        alt="IA Expert Academy: Machine Learning and Data Science with Python from A to Z"
+        width="500"
+        />
       </a>
   </li>
 
@@ -984,8 +1004,13 @@ UNESA - B. Tech. in Data Science
 
   <li>
     <h4>(2023/03) UNESA - B. Tech. in Data Science</h4>
-      <a href="https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
-        <img src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1" alt="UNESA: Data Science" width="500" />
+      <a
+      href="https://consultadiploma.estacio.br/diploma/1270.163.c9fc721881f4">
+        <img
+        src="https://drive.google.com/uc?id=1nRO6h7tfYYFbAVd4dC9xrM_ALL4C_TQ1"
+        alt="UNESA: Data Science"
+        width="500"
+        />
       </a>
   </li>
 
@@ -995,8 +1020,13 @@ HackerRank: Python (Basic)
 
   <li>
     <h4>(2023-06) HackerRank: Python (Basic)</h4>
-      <a href="https://drive.google.com/file/d/1JV_M2HqlU68AGigXEd61__4qEpQuNmUW/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW" alt="HackerRank: Python (Basic)" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1JV_M2HqlU68AGigXEd61__4qEpQuNmUW/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1JV_M2HqlU68AGigXEd61__4qEpQuNmUW"
+        alt="HackerRank: Python (Basic)"
+        width="500"
+        />
       </a>
   </li>
 
@@ -1006,8 +1036,13 @@ Sololearn: Introduction to JavaScript
 
   <li>
     <h4>(2023-06) Sololearn: Introduction to JavaScript</h4>
-      <a href="https://drive.google.com/file/d/1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O" alt="Sololearn: Introduction to JavaScript" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1uY-0yeJedxx6cIPoIdj2c4_-Lmiv_l7O"
+        alt="Sololearn: Introduction to JavaScript"
+        width="500"
+        />
       </a>
   </li>
 
@@ -1017,8 +1052,13 @@ Sololearn: Introduction to Python
 
   <li>
     <h4>(2023-06) Sololearn: Introduction to Python</h4>
-      <a href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj" alt="Sololearn: Introduction to Python" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1Y4Mj1viXR1d5w_bsQtmUbdMgnS7nR_vj"
+        alt="Sololearn: Introduction to Python"
+        width="500"
+        />
       </a>
   </li>
 
@@ -1028,8 +1068,13 @@ OpenLearn: Getting started with German 1
 
   <li>
     <h4>(2024-11) OpenLearn: Getting started with German 1</h4>
-      <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1Wj14gG8fXYHlO2sPlKdC88SK7575laij" alt="OpenLearn: Getting started with German 1" width="500" />
+      <a
+      href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1Wj14gG8fXYHlO2sPlKdC88SK7575laij"
+        alt="OpenLearn: Getting started with German 1"
+        width="500"
+        />
       </a>
   </li>
 
@@ -1039,8 +1084,10 @@ Sololearn: Introduction to C#
 
   <li>
     <h4>(2024-11) Sololearn: Introduction to C#</h4>
-      <a href="https://drive.google.com/file/d/15aM3wlQFz6r5u2XSumAFr5l5pj8WZ0RW/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi"
+      <a
+      href="https://drive.google.com/file/d/15aM3wlQFz6r5u2XSumAFr5l5pj8WZ0RW/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1DRnjhDkhqahjtg_d5IOQOmXyUA8DUSxi"
         alt="Sololearn: Introduction to C#"
         width="500"
         />
@@ -1053,7 +1100,8 @@ Duoling: English Course
 
   <li>
     <h4>(2025-11) Duoling: English Course</h4>
-      <a href="https://drive.google.com/file/d/1wOdheV9Btt0_juGTyXDVhxccCJ-NUUqg/view?usp=sharing">
+      <a
+      href="https://drive.google.com/file/d/1wOdheV9Btt0_juGTyXDVhxccCJ-NUUqg/view?usp=sharing">
         <img
         src="https://drive.google.com/uc?id=1bl2YyOp4tEjXfSUbvyrijWP6qT6ezXUw"
         alt="Duoling: English Course"
@@ -1068,7 +1116,8 @@ Sololearn: Python Intermediate
 
   <li>
     <h4>(2025-11) Sololearn: Python Intermediate</h4>
-      <a href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=drive_link">
+      <a
+      href="https://drive.google.com/file/d/15c4lOSlRWYwscieXkbRLrXdYBznITTvk/view?usp=drive_link">
         <img
         src="https://drive.google.com/uc?id=1qgquuRtZwWcz1IrQ53T6h4VTDh0tz05g"
         alt="Sololearn: Python Intermediate"
