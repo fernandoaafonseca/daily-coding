@@ -874,8 +874,13 @@ SOS Computadores: IT
 
   <li>
     <h4>(2005-02) SOS Computadores: IT</h4>
-      <a href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E" alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000" width="500" />
+      <a
+      href="https://drive.google.com/file/d/159Ariacqz659CaNiYy5jMKmPQqQKUs-E/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=159Ariacqz659CaNiYy5jMKmPQqQKUs-E"
+        alt="SOS Computadores: Computer Assembly and Maintenance, MS-DOS, Windows ME, CorelDraw 9, Adobe PageMaker 7, Microsoft Access 2000, Microsoft Excel 2000, Microsoft PowerPoint 2000, Microsoft Word 2000"
+        width="500"
+        />
       </a>
   </li>
 
@@ -885,8 +890,13 @@ Sololearn: HTML
 
   <li>
     <h4>(2020-10) Sololearn: HTML</h4>
-      <a href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh" alt="Sololearn: HTML" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1bqtq8mqzGPH5Spxp1VlxAwS0OYRaHVZh"
+        alt="Sololearn: HTML"
+        width="500"
+        />
       </a>
   </li>
 
@@ -896,8 +906,13 @@ Udemy: Photoshop Training
 
   <li>
     <h4>(2020-11) Udemy: Photoshop Training</h4>
-      <a href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
-        <img src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS" alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training" width="500" />
+      <a
+      href="https://www.udemy.com/certificate/UC-5762dfc4-abdc-497c-84c2-d1bc3205c845">
+        <img
+        src="https://drive.google.com/uc?id=1yRwAjGqT3Yw-32grEfuq0OFi10tnTpMS"
+        alt="Udemy - Cristian Doru Barin: Ultimate Photoshop Training"
+        width="500"
+        />
       </a>
   </li>
 
@@ -907,8 +922,13 @@ Unhide School: Advanced Photoshop
 
   <li>
     <h4>(2021/02) Unhide School: Advanced Photoshop</h4>
-      <a href="https://drive.google.com/file/d/1hu8N2hxgpgTmJ5MBcwHJI2Iu-hmn2Dor/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1t8QYr-bJI2aY7Iwg67nHy08IhTIaVUwr" alt="Unhide School: Advanced Photoshop" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1hu8N2hxgpgTmJ5MBcwHJI2Iu-hmn2Dor/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1t8QYr-bJI2aY7Iwg67nHy08IhTIaVUwr"
+        alt="Unhide School: Advanced Photoshop"
+        width="500"
+        />
       </a>
   </li>
 
@@ -918,8 +938,13 @@ IMD/UFRN: Web Developer
 
   <li>
     <h4>(2021/02) IMD/UFRN: Web Developer</h4>
-      <a href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=sharing">
-        <img src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE" alt="IMD/UFRN: Web Developer" width="500" />
+      <a
+      href="https://drive.google.com/file/d/1BZRSpugEKAniuxxTtIivtH8kmFElHrjo/view?usp=sharing">
+        <img
+        src="https://drive.google.com/uc?id=1tWKs_2khKLWCGdopB_1svqUxJpPDltmE"
+        alt="IMD/UFRN: Web Developer"
+        width="500"
+        />
       </a>
   </li>
 
@@ -929,8 +954,13 @@ Udemy - Colt Steele: The Moden Python 3 Bootcamp
 
   <li>
     <h4>(2021/11) Udemy - Colt Steele: The Moden Python 3 Bootcamp</h4>
-      <a href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
-        <img src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7" alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp" width="500" />
+      <a
+      href="https://www.udemy.com/certificate/UC-374fae39-db94-4dec-90bf-8d951022c384/">
+        <img
+        src="https://drive.google.com/uc?id=1iC-GT7hhPVkDjYE4su9ZV_ow1y9CWui7"
+        alt="Udemy - Colt Steele: The Moden Python 3 Bootcamp"
+        width="500"
+        />
       </a>
   </li>
 
