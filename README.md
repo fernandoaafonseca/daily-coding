@@ -852,7 +852,10 @@ Streak Stats
 -->
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=false&hide_longest_streak=true" alt="Streak stats" width="750" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoaafonseca&hide_border=true&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=false&hide_longest_streak=true"
+alt="Streak stats"
+width="750"
+/>
   </p>
 
 <!--
