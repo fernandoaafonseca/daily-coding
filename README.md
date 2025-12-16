@@ -362,22 +362,36 @@ CS50x
 -->
 
 <!--
-  <tr height="60" >
-    <td align="left" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=A8B9CC" height="25" />
+  <tr
+height="60" >
+    <td
+    align="left" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
+        <img
+        src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=A8B9CC"
+        height="25"
+        />
       </a>
       <br>
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
           <i>Harvard Online</i> | ⌨️ <b>CS50x</b>
       </a>
-    <td align="center" >
+    <td
+    align="center" >
         ⏳
     </td>
     </td>
-    <td align="center" >
-      <a href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-cs50x?label=Problem%20Sets&style=for-the-badge&logo=c&logoColor=%AA00599C&type=dir" alt="cs50x file count" height="25" />
+    <td
+    align="center" >
+      <a
+      href="https://github.com/fernandoaafonseca/daily-coding/tree/main/courses/course-05-cs50x">
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/courses/course-05-cs50x?label=Problem%20Sets&style=for-the-badge&logo=c&logoColor=%AA00599C&type=dir"
+        alt="cs50x file count"
+        height="25"
+        />
       </a>
     </td>
   </tr>
