@@ -859,8 +859,13 @@ WakaTime
 -->
 
   <p>
-    <a href="https://wakatime.com/@fernandoaafonseca">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&theme=dracula&layout=default&langs_count=8&hide=other&display_format=time" alt="WakaTime stats" width="750" />
+    <a
+    href="https://wakatime.com/@fernandoaafonseca">
+      <img
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandoaafonseca&hide_border=true&custom_title=Wakatime%20stats&theme=dracula&layout=default&langs_count=8&hide=other&display_format=time"
+      alt="WakaTime stats"
+      width="750"
+      />
     </a>
   </p>
 
