@@ -829,7 +829,8 @@ Python - Qt (PySide6)
     align="center">
       <a
       href="https://github.com/fernandoaafonseca/daily-coding/tree/main/languages/python/python-qt-pyside6">
-        <img src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Qt%20(PySide6)&style=for-the-badge&logo=qt&color=%2341CD52&type=dir"
+        <img
+        src="https://img.shields.io/github/directory-file-count/fernandoaafonseca/daily-coding/languages/python/python-qt-pyside6?label=Qt%20(PySide6)&style=for-the-badge&logo=qt&color=%2341CD52&type=dir"
         alt="pyside6-qt file count"
         height="25"
         />
