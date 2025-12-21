@@ -596,12 +596,14 @@ PROGRAMMING LANGUAGES
 <h2>🖥️ Programming languages:</h2>
 <table>
   <tr>
-    <th width="375" >
+    <th
+    width="375" >
       <h3>
         Language
       </h3>
     </th>
-    <th width="375" >
+    <th
+    width="375" >
       <h3>
         Repo
       </h3>
